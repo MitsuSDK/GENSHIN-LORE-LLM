@@ -1,15 +1,16 @@
 {
     "name": "Albedo",
-    "entity_type": "Character",
+    "entity_type": "character",
+    "status": "active",
     "region": "Mondstadt",
-    "affiliation": "Knights of Favonius",
-    "status": "Active",
-    "gender": "Male",
+    "affiliations": [
+        "Knights of Favonius"
+    ],
     "power_source": "Vision",
     "element": "Geo",
-    "weapon":"Sword",
     "constellation": "Princeps Cretaceus",
     "aliases": [
+        "Kreideprinz",
         "Chief Alchemist of the Knights of Favonius"
     ],
     "lore": {

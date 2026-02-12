@@ -3,15 +3,13 @@ Character Schema v1
 Required:
 - name (string)
 - entity_type (string)
-- region (string)
-- affiliation (string)
 - status (string)
-- gender (string)
-- power_source (string | null)
-- element (string | null)
-- weapon (string | null)
-- constellation (string | null)
-- aliases (array)
+- region (string)
+- affiliations (array[string])
+- power_source (string)  # cannot be null
+- element (string)       # cannot be null
+- constellation (string) # cannot be null
+- aliases (array[string])
 - lore (object)
 
 Lore contains:

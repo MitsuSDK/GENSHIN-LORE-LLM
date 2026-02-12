@@ -1,0 +1,24 @@
+{
+    "name": "Venti",
+    "entity_type": "character",
+    "status": "active",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Mondstadt City",
+        "Mondstadt",
+        "The Seven",
+        "Thousand Winds"
+    ],
+    "power_source": "Gnosis",
+    "element": "Anemo",
+    "constellation": "Carmen Dei",
+    "aliases": [
+        "Windborne Bard",
+        "Singer of Skyward Sonnets"
+    ],
+    "lore": {
+        "descriptions": [],
+        "character_stories": [],
+        "additional_lore": []
+    }
+}
