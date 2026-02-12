@@ -1,0 +1,22 @@
+{
+    "name": "Mavuika",
+    "entity_type": "character",
+    "status": "active",
+    "region": "Unknown",
+    "affiliations": [],
+    "power_source": "Vision",
+    "element": "Pyro",
+    "constellation": "Unknown",
+    "aliases": [],
+    "lore": {
+        "descriptions": [],
+        "character_stories": [
+            {
+                "title": "Official Introduction",
+                "subtitle": "The Brightest, Most Splendid, Most Resplendent Flame Reborn",
+                "text": "Now, how to introduce her? The bearer of \"Kiongozi,\" Mavuika, a leader completely worthy of leading the people of Natlan.\nThe woven scrolls and epics record all the most legendary of ancient deeds. Great heroes emerge, one after the other, and glory is passed down from generation to generation, and she has never failed to live up to such heavy expectations.\nShe who shoulders the title of the \"strongest,\" she who respects all beings, be they strong or weak, and treats all equally.\nFor this, the people love her, sing her praises, and follow her willingly, with all their hearts.\nEach time, when she addresses the Pilgrimage of the Return of the Sacred Flame, her hair flutters with the Sacred Flame as her majestic voice rings in our ears.\nShe casts her inspiring gaze upon every warrior, every Saurian. She calls upon every flame of Natlan, uniting all fires into a bright light to drive away the darkness.\nAs we support each other, stumbling through the valley of the long, boundless night, wiping the tears from the corners of our eyes, and finally struggle to lift up our heavy heads—\nWe see naught but that unwavering, unchanging red, like the sun rising in the east.\nWhat did she sacrifice? What did she give up? What kind of will has led her to this day?\nWe have no doubt that she will lead Natlan to yet another victory.\nOur Sun will never set."
+            }
+        ],
+        "additional_lore": []
+    }
+}

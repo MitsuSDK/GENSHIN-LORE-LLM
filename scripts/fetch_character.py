@@ -48,29 +48,76 @@ def extract_infobox(content: str) -> dict:
 
 
 def extract_section(content: str, section_title: str) -> str:
-    pattern = rf"=+\s*{re.escape(section_title)}\s*=+(.*?)(?=\n=+)"
+    pattern = rf"=+\s*{re.escape(section_title)}\s*=+(.*?)(?=\n=+[^=])"
     match = re.search(pattern, content, re.DOTALL)
 
-    if match:
-        section_text = match.group(1).strip()
+    if not match:
+        return ""
 
-        # Remove wiki links [[...]]
-        section_text = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", r"\1", section_text)
+    section_text = match.group(1)
 
-        # Remove templates {{...}}
-        section_text = re.sub(r"\{\{.*?\}\}", "", section_text, flags=re.DOTALL)
+    # Remove external links [http...]
+    section_text = re.sub(r"\[https?://[^\]]+\]", "", section_text)
 
-        # Remove HTML tags
-        section_text = re.sub(r"<.*?>", "", section_text)
+    # Remove wiki links but keep visible text
+    section_text = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", r"\1", section_text)
 
-        return section_text.strip()
+    # Remove templates {{...}}
+    section_text = re.sub(r"\{\{.*?\}\}", "", section_text, flags=re.DOTALL)
 
-    return ""
+    # Remove HTML tags
+    section_text = re.sub(r"<.*?>", "", section_text)
+
+    # Remove reference markers like [1], [2]
+    section_text = re.sub(r"\[\d+\]", "", section_text)
+
+    return section_text.strip()
+
+
+def extract_official_introduction(content: str) -> dict:
+    intro_pattern = r"=+\s*Official Introduction\s*=+(.*?)(?=\n=+[^=])"
+    match = re.search(intro_pattern, content, re.DOTALL)
+
+    if not match:
+        return {}
+
+    section_text = match.group(1)
+
+    # 1️⃣ Extract subtitle from template
+    subtitle = ""
+    template_match = re.search(r"\{\{Official Introduction(.*?)\}\}", section_text, re.DOTALL)
+    if template_match:
+        template_block = template_match.group(1)
+        title_match = re.search(r"\|\s*title\s*=\s*(.+)", template_block)
+        if title_match:
+            subtitle = title_match.group(1).strip()
+
+    # 2️⃣ Clean full section text for body
+    cleaned_text = re.sub(r"\{\{.*?\}\}", "", section_text, flags=re.DOTALL)
+    cleaned_text = re.sub(r"<.*?>", "", cleaned_text)
+    cleaned_text = re.sub(r"\[https?://[^\]]+\]", "", cleaned_text)
+    cleaned_text = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", r"\1", cleaned_text)
+    cleaned_text = re.sub(r"\[\d+\]", "", cleaned_text)
+    # Remove stray words ending with .facebook (e.g., flowers.Facebook)
+    cleaned_text = re.sub(r"\b\S+\.facebook\b", "", cleaned_text, flags=re.IGNORECASE)
+
+    lines = [line.strip() for line in cleaned_text.split("\n") if line.strip()]
+    text = "\n".join(lines).strip()
+
+    return {
+        "title": "Official Introduction",
+        "subtitle": subtitle,
+        "text": text
+    }
 
 
 def build_character_schema(title: str) -> dict:
-    content = fetch_character_page(title)
-    fields = extract_infobox(content)
+    # Fetch main page (for infobox)
+    main_content = fetch_character_page(title)
+    fields = extract_infobox(main_content)
+
+    # Fetch Profile subpage (for descriptions & stories)
+    profile_content = fetch_character_page(f"{title}/Profile")
 
     # Build affiliations list (affiliation, affiliation2, affiliation3, etc.)
     affiliations = []
@@ -78,18 +125,44 @@ def build_character_schema(title: str) -> dict:
         if key.startswith("affiliation") and value:
             affiliations.append(value)
 
-    # Extract character stories into array of objects
+    # Extract Official Introduction
+    official_intro = extract_official_introduction(profile_content)
+
     character_stories = []
+
+    # Insert Official Introduction first if exists
+    if official_intro:
+        character_stories.append(official_intro)
+
+    # Then Character Story 1-5
     for i in range(1, 6):
-        story_text = extract_section(content, f"Character Story {i}")
+        story_text = extract_section(profile_content, f"Character Story {i}")
         if story_text:
             character_stories.append({
                 "title": f"Character Story {i}",
                 "text": story_text
             })
 
-    # Extract description
-    description_text = extract_section(content, "Character Description")
+    # Extract description blocks from Character Description section
+    description_blocks = []
+
+    description_pattern = r"=+\s*Character Description\s*=+(.*?)(?=\n=+[^=])"
+    desc_match = re.search(description_pattern, profile_content, re.DOTALL)
+
+    if desc_match:
+        description_section = desc_match.group(1)
+
+        # Extract all {{Quote|text|...}} templates
+        quote_matches = re.findall(r"\{\{Quote\|(.*?)(?:\|.*?)?\}\}", description_section, re.DOTALL)
+
+        for quote in quote_matches:
+            # Clean wiki links inside quote text
+            clean_quote = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", r"\1", quote)
+            clean_quote = re.sub(r"<.*?>", "", clean_quote)
+            clean_quote = clean_quote.strip()
+
+            if clean_quote:
+                description_blocks.append(clean_quote)
 
     # Determine power source
     if fields.get("group") == "Gods":
@@ -117,7 +190,7 @@ def build_character_schema(title: str) -> dict:
         "constellation": fields.get("constellation", "Unknown"),
         "aliases": aliases,
         "lore": {
-            "descriptions": [description_text] if description_text else [],
+            "descriptions": description_blocks,
             "character_stories": character_stories,
             "additional_lore": []
         }

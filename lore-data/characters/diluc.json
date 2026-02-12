@@ -1,0 +1,32 @@
+{
+    "name": "Diluc",
+    "entity_type": "character",
+    "status": "active",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Dawn Winery",
+        "Northern Intelligence Network",
+        "Knights of Favonius",
+        "Ragnvindr Clan",
+        "formerly",
+        "head"
+    ],
+    "power_source": "Vision",
+    "element": "Pyro",
+    "constellation": "Noctua",
+    "aliases": [
+        "The Dark Side of Dawn",
+        "Master of the Dawn Winery"
+    ],
+    "lore": {
+        "descriptions": [],
+        "character_stories": [
+            {
+                "title": "Official Introduction",
+                "subtitle": "\"I will keep marching on until dawn.\"",
+                "text": "▌Master of the Dawn Winery · Diluc\nI will keep marching on until dawn.\n========================================\nPeople in Mondstadt like to have a glass of dandelion wine after a long day. As your vision begins to waver and mind starts to wander, refraining from pouring another one seems impossible.\nThe constant flow of brews keeps Diluc, operator of Mondstadt's biggest supplier, \"Dawn Winery,\" firmly in the position of the richest man in Mondstadt.\nBut what no-one can make sense of is, despite building his enterprise on wine, Diluc has never touched a single drop, no matter the occasion.\nWhen asked by outsiders as to why, his response is always the same &mdash; a polite yet mysterious and faint smile that always brings about a multitude of guesses.\nBut this question is never asked by anyone at the winery, for they have all long since known the answer &mdash; Diluc simply doesn't like wine."
+            }
+        ],
+        "additional_lore": []
+    }
+}
