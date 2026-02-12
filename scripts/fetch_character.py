@@ -25,7 +25,7 @@ def fetch_character_page(title: str) -> str:
 
 
 def extract_infobox(content: str) -> dict:
-    infobox_match = re.search(r"\{\{Character Infobox(.*?)\}\}", content, re.DOTALL)
+    infobox_match = re.search(r"\{\{Character Infobox(.*?)\n\}\}", content, re.DOTALL)
 
     if not infobox_match:
         print("Infobox not found.")
@@ -48,8 +48,8 @@ def extract_infobox(content: str) -> dict:
 
 
 def extract_section(content: str, section_title: str) -> str:
-    pattern = rf"=+\s*{re.escape(section_title)}\s*=+(.*?)(?=\n=+[^=])"
-    match = re.search(pattern, content, re.DOTALL)
+    pattern = rf"(?ms)^=+\s*{re.escape(section_title)}\s*=+\s*(.*?)(?=^=+\s*[^=]|\Z)"
+    match = re.search(pattern, content)
 
     if not match:
         return ""
@@ -62,8 +62,8 @@ def extract_section(content: str, section_title: str) -> str:
     # Remove wiki links but keep visible text
     section_text = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", r"\1", section_text)
 
-    # Remove templates {{...}}
-    section_text = re.sub(r"\{\{.*?\}\}", "", section_text, flags=re.DOTALL)
+    # Replace templates {{...}} but keep their inner content
+    section_text = re.sub(r"\{\{([^{}]*?)\}\}", r"\1", section_text)
 
     # Remove HTML tags
     section_text = re.sub(r"<.*?>", "", section_text)
@@ -93,7 +93,12 @@ def extract_official_introduction(content: str) -> dict:
             subtitle = title_match.group(1).strip()
 
     # 2️⃣ Clean full section text for body
-    cleaned_text = re.sub(r"\{\{.*?\}\}", "", section_text, flags=re.DOTALL)
+    # First remove the Official Introduction template specifically
+    cleaned_text = re.sub(r"\{\{Official Introduction.*?\}\}", "", section_text, flags=re.DOTALL)
+
+    # Then remove remaining templates like {{Quote|...}}
+    cleaned_text = re.sub(r"\{\{.*?\}\}", "", cleaned_text, flags=re.DOTALL)
+
     cleaned_text = re.sub(r"<.*?>", "", cleaned_text)
     cleaned_text = re.sub(r"\[https?://[^\]]+\]", "", cleaned_text)
     cleaned_text = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", r"\1", cleaned_text)
@@ -134,35 +139,51 @@ def build_character_schema(title: str) -> dict:
     if official_intro:
         character_stories.append(official_intro)
 
-    # Then Character Story 1-5
-    for i in range(1, 6):
-        story_text = extract_section(profile_content, f"Character Story {i}")
-        if story_text:
+    # Extract Character Stories template block
+    template_match = re.search(r"\{\{Character Story(.*?)\n\}\}", profile_content, re.DOTALL)
+
+    if template_match:
+        template_block = template_match.group(1)
+
+        # Extract titleX and textX pairs
+        titles = re.findall(r"\|title\d+\s*=\s*(.*)", template_block)
+        texts = re.findall(
+            r"\|text\d+\s*=\s*(.*?)(?=\n\|title|\n\|mention|\Z)",
+            template_block,
+            re.DOTALL
+        )
+
+        for title_value, text_value in zip(titles, texts):
+            clean_text = re.sub(r"<.*?>", "", text_value)
+            clean_text = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", r"\1", clean_text)
+            clean_text = clean_text.replace("&mdash;", "—").strip()
+
             character_stories.append({
-                "title": f"Character Story {i}",
-                "text": story_text
+                "title": title_value.strip(),
+                "text": clean_text
             })
 
-    # Extract description blocks from Character Description section
+    # Extract description blocks (quotes BEFORE Official Introduction section)
     description_blocks = []
 
-    description_pattern = r"=+\s*Character Description\s*=+(.*?)(?=\n=+[^=])"
-    desc_match = re.search(description_pattern, profile_content, re.DOTALL)
+    # Find where Official Introduction starts
+    intro_heading = re.search(r"=+\s*Official Introduction\s*=+", profile_content)
 
-    if desc_match:
-        description_section = desc_match.group(1)
+    if intro_heading:
+        description_section = profile_content[:intro_heading.start()]
+    else:
+        description_section = profile_content
 
-        # Extract all {{Quote|text|...}} templates
-        quote_matches = re.findall(r"\{\{Quote\|(.*?)(?:\|.*?)?\}\}", description_section, re.DOTALL)
+    # Extract all {{Quote|text|...}} templates from that top section
+    quote_matches = re.findall(r"\{\{Quote\|(.*?)(?:\|.*?)?\}\}", description_section, re.DOTALL)
 
-        for quote in quote_matches:
-            # Clean wiki links inside quote text
-            clean_quote = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", r"\1", quote)
-            clean_quote = re.sub(r"<.*?>", "", clean_quote)
-            clean_quote = clean_quote.strip()
+    for quote in quote_matches:
+        clean_quote = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", r"\1", quote)
+        clean_quote = re.sub(r"<.*?>", "", clean_quote)
+        clean_quote = clean_quote.strip()
 
-            if clean_quote:
-                description_blocks.append(clean_quote)
+        if clean_quote:
+            description_blocks.append(clean_quote)
 
     # Determine power source
     if fields.get("group") == "Gods":
@@ -218,6 +239,6 @@ def save_character_json(character_data: dict):
 
 
 if __name__ == "__main__":
-    character_name = "Venti"
+    character_name = "Mavuika"
     character_data = build_character_schema(character_name)
     save_character_json(character_data)

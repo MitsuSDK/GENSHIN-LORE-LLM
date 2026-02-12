@@ -1,0 +1,37 @@
+{
+    "name": "Columbina",
+    "entity_type": "character",
+    "status": "active",
+    "region": "Nod-Krai",
+    "affiliations": [
+        "Frost Moon",
+        "Frostmoon Scions",
+        "formerly",
+        "Fatui",
+        "formerly",
+        "Eleven Fatui Harbingers",
+        "formerly",
+        "Three Moons"
+    ],
+    "power_source": "unknown",
+    "element": "Hydro",
+    "constellation": "Columbina Hyposelenia",
+    "aliases": [
+        "Welkin Moon's Homecoming",
+        "The Moon Maiden"
+    ],
+    "lore": {
+        "descriptions": [
+            "Kuutar, the Moon Goddess of Nod-Krai, and formerly The Damselette, Third of the Fatui Harbingers. Still, her friends call her Columbina Hyposelenia, and she prefers it that way.",
+            "The Moon Maiden born in Nod-Krai, and also the welkin moon returning home."
+        ],
+        "character_stories": [
+            {
+                "title": "Official Introduction",
+                "subtitle": "",
+                "text": ""
+            }
+        ],
+        "additional_lore": []
+    }
+}

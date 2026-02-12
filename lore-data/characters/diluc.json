@@ -19,7 +19,10 @@
         "Master of the Dawn Winery"
     ],
     "lore": {
-        "descriptions": [],
+        "descriptions": [
+            "As the wealthiest gentleman in Mondstadt, the ever-dapper Diluc always presents himself as the epitome of perfection. But behind the courteous visage burns a zealous soul that has sworn to protect Mondstadt at all costs, allowing him to mercilessly vanquish all who threaten his city.",
+            "The tycoon of a winery empire in Mondstadt, unmatched in every possible way."
+        ],
         "character_stories": [
             {
                 "title": "Official Introduction",
