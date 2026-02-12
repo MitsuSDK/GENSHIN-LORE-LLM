@@ -1,0 +1,169 @@
+{
+    "name": "Yanfei",
+    "entity_type": "character",
+    "status": "active",
+    "region": "Liyue",
+    "affiliations": [
+        "Yanfei Legal Consultancy",
+        "Adepti"
+    ],
+    "power_source": "Vision",
+    "element": "Pyro",
+    "constellation": "Bestia Iustitia",
+    "aliases": [
+        "Wise Innocence",
+        "Liyue Harbor's famed legal adviser",
+        "The law that walks"
+    ],
+    "lore": {
+        "descriptions": [
+            "A half-illuminated beast and highly-skilled legal adviser.She combines adherence to the legal codices and reasonable flexibility to find the perfect balance in her work. She devotes herself to protecting the fairness of contracts in Liyue with her identity as a legal adviser and her unique experience and methods.",
+            "A well-known legal adviser active in Liyue Harbor. A brilliant young lady in whose veins runs the blood of an illuminated beast."
+        ],
+        "character_stories": [
+            {
+                "title": "Official Introduction",
+                "subtitle": "Do not seek to emulate the past, for there is no law that can suffice for all time.",
+                "text": "Yanfei is Liyue Harbor's top legal adviser. They say that she has memorized tens of thousands of legal codices and can skillfully apply the law in various situations. One can rest assured that she will aptly handle any legal case brought to her.\nBut this is not to say that Yanfei adheres blindly to the legal codices. Rather, she employs a degree of flexibility within the limits of the law and reason.\nThis half-illuminated beast protects the order of Liyue in her unique, effective manner.\nAll of Liyue's residents have heard of the famed Yanfei, no matter who you ask. Of course, as is the ancient rule in the City of Contracts, one seeking legal consultation or services from Yanfei must prepare a rather hefty sum as payment."
+            },
+            {
+                "title": "Character Details",
+                "text": "Liyue is a port that prizes contracts and trade, and it is a place where wealth accumulates.Merchants from various nations are active here, which has contributed to Liyue's abundance, but has also brought up many disagreements. The Tianquan, Ningguang, has written a very comprehensive compendium of laws to deal with this, but not everyone has the patience to study them.Thus was born the role of the legal adviser in Liyue society. Highly familiar with Liyue's laws, they help those in need to navigate any contradictions, earning recompense for their efforts.Yanfei is the premier legal adviser in Liyue Harbor.She is always able to obtain the most benefits for her clients, insofar as the law will allow. Some even call her \"the law that walks.\"But in truth, what Yanfei — one of the few half-illuminated-beasts who have yet to sign a contract with Rex Lapis — really wants to do is live a free and happy life.As for the copy of \"The General Law of Liyue\" that she carries around on her person, Yanfei has this to say:\"If you don't wish to be bound by the rules, you have to first understand them all.\""
+            },
+            {
+                "title": "Character Story 1",
+                "text": "As the most sought-after legal adviser in Liyue Harbor, Yanfei's rates are also top-of-the-line.Even so, she never lacks for people coming to seek appointments. After all, merchants are not stingy about mediation fees, but are very picky indeed about the mediator.\"Money is no object — we must have Yanfei come and settle this matter for us.\"Many rate Yanfei in this fashion, not only for her quick-thinking or her masterful oratory, but also because she very greatly emphasizes the cornerstone of the law — \"fairness.\"Her mediations often end in win-win situations, and even merchants with daggers drawn will temporarily set their prejudices aside.Though she is unbound by a contract, Yanfei has made her own contribution to the peace and prosperity of Liyue."
+            },
+            {
+                "title": "Character Story 2",
+                "text": "As a legal adviser, Yanfei does have her fair share of weaknesses. An example is the mediation of civil disputes that involve emotions and relationships.Divorces, inheritances, custody disputes, senior care, severances... The list continues.It is said that upright officials are hapless in household affairs, and so it also is with Yanfei, who grew up surrounded by love — these matters fall right into her blind corner.Sometimes, she will find that both sides have reason on their side, and other times she will find them to both be unreasonable. Child custody disputes are the absolute worst, as no matter how she settles them, the settlement will have a great psychological impact on the innocent children. Even if Yanfei chooses to soldier on, she will only tire herself out.\"Hopefully, everyone can meet the right person and be spared this particular grief.\""
+            },
+            {
+                "title": "Character Story 3",
+                "text": "As a result of her greatly tolerant nature, Yanfei has a wide variety of personal relationships throughout Liyue.There is no need to worry about rubbing a sore spot, and you'll be able to get along with her whether you're an avid conversationalist or not.Of course, this is true as long as you don't attempt to debate with her or start a conversation about the legal profession... Yanfei in work mode is a completely different beast to deal with.Additionally, Yanfei has cultivated the habit of being overly rigorous from her long years of studying the law. When chatting, Yanfei will vigorously eliminate any ambiguity or loopholes present in the discourse and can seem like a bit of a chatterbox. When she realizes this, Yanfei is wont to knock herself on the head with a book in irritation.However, so long as she constantly bathes in a sea of legal literature, this habit will probably be quite hard to break."
+            },
+            {
+                "title": "Character Story 4",
+                "text": "When investigating the law, Yanfei's habit is to look past the cold letters of the law to perceive their point of origin.As such, she is also something of a master of \"reading comprehension\" in her relationships.Once, the Traveler met Yanfei by chance and said, \"Huh. Didn't expect to see you here.\"This should have been a line that one might hear just about anywhere, but it wound up holding a completely different meaning for Yanfei.\"Didn't expect to meet you here\" implied that the Traveler had at least thought about a scenario in which they would meet. Then why the use of \"didn't expect\"? One could only postulate that the Traveler had some expectation of where she might appear, and that her current location was not such a place. But whence came the expectation? Could it be that the Traveler had always been paying attention to her in secret?\"Does this mean that the Traveler...?\"Yanfei tossed and turned in bed that night, unable to sleep."
+            },
+            {
+                "title": "Character Story 5",
+                "text": "Yanfei's most prized possession is the steelyard balance that her father gave her.It is said that this balance was a treasure given by Rex Lapis that can be used to measure the value of all things. For convenience, Yanfei tends to use Mora to balance the scales, which is to say that she uses Mora to evaluate objects.The prices of many objects have slowly changed over the years, but weighing an object with this balance only gives its value at the time Mora was created, leaving the rest to Yanfei to exercise her own wisdom and judgment.Across the measurements of countless objects, Yanfei is able to see the changes in Liyue. Some objects that were once common have become vanishingly rare, and some exotic objects of the past have been rendered pedestrian today.This steelyard balance reminds her that many things cannot be valued by the standards of the world.Yanfei once tried to weigh the value of a Vision, but no matter how much Mora she added, the scales would not be balanced.In frustration, she placed on the scale the box at her waist, which contained her heavy, handwritten legal notations. Only then did the weights at last even out."
+            },
+            {
+                "title": "Codex Finalem",
+                "text": "This is the most special of the many legal treatises that Yanfei collects.As opposed to the codices that grow heavier and more complicated with time, this book is unbelievably light and thin.After opening it and getting past the prologue, one will find naught but the most basic few principles of the law inscribed.As Yanfei sees it, this is the final form of the law. In the far future, the law will have entered into the people's hearts. All people will be amiable, modest, and live happily in this world. The halls of judgment will lie empty and the mountains of legalese shall be caked in years of dust.Though this may sound like something very far off, for someone like Yanfei, in whom flows the blood of an illuminated beast, living till that day is hardly a great accomplishment.\"Hmm, but if I think about it more deeply, I'd be out of a job then, wouldn't I?\"After encountering one of Xinyan's performances by chance, Yanfei was quite taken by this new wave of performance art.That said, learning an instrument from scratch proved to be a bit difficult, so after consulting a great many resources, Yanfei came to what she considered to be a decent backup plan.If such a day were to arrive, she would just become a rapper.For someone who can recite tens of thousands of words' worth of Liyue law from front to back within an hour, speed at least should be no challenge."
+            },
+            {
+                "title": "Vision",
+                "text": "Yanfei's father is an illuminated beast, while her mother is an ordinary mortal merchant. Born into peaceful times, Yanfei did not sign a contract with Rex Lapis, but instead has one with her parents to \"live happily.\"As Liyue's leading legal exegete, she is no stranger to exploiting some existing loopholes in the law — at times for herself, and sometimes for others.It has been made clear often enough that Yanfei is not a stickler for the rules and has no wish to be shackled by strictures.Still, she contributes to the betterment of Liyue as she seeks her own pleasure, and will not use these loopholes for ill.When making amendments to legal loopholes each year, Ningguang the Tianquan will often study Yanfei's doings, as if she were Liyue's unofficial legal troubleshooter.In a sense, one could argue that Yanfei makes the laws better at the lowest possible price... This principle is also the reason why she has never been convicted of exploiting any such loopholes.Yanfei believes in \"no structure without laws,\" and what she wishes for is to \"live as one pleases without overstepping.\"Everyone in Liyue, adeptus or mortal, protects it in their own way.That is why Yanfei possesses a Vision, one that is of equal weight to her principles."
+            }
+        ],
+        "additional_lore": [
+            {
+                "title": "Hello",
+                "text": "My name is Yanfei, top legal expert in Liyue — and for the avoidance of doubt, no one else comes close! From commercial litigation, to civil mediation, to criminal lawsuits, I'm fully versed in every area of the law, and I guarantee you a swift and satisfactory conclusion to your case! My contact details... Where should I write this down? ...Hmm, paper will just get lost, and it'll only rub off if I write it on the back of your hand, so... Aha! I know, I'll just write it here, on the clothes of this... whatever this thing is that follows you around."
+            },
+            {
+                "title": "About Yanfei: Atmosphere",
+                "text": "You think I come across as quite imposing when I'm reading through case files? Huh. Well, that's only when I'm in work mode. It's like... I have an invisible switch, flick it one way and I'm in normal mode, flick it the other way and I switch to work mode. Surely you must have a switch like that, too?"
+            },
+            {
+                "title": "About Yanfei: Weakness",
+                "text": "Civil cases are the ones I dread the most. Divorces, custody disputes... It's a thankless task trying to unpack these kinds of cases with logic and reason. You have to be kind, courteous, and patient with your clients, even though half the time they are completely incapable of participating in a constructive discussion. *sigh* I know I advertise myself as being fully versed in every area of the law, but honestly, if it were up to me, I'd rather everyone could just get along, so we wouldn't have so many of these cases."
+            },
+            {
+                "title": "About Us: Rates",
+                "text": "You want legal advice from me? Sure. For legal opinions, I charge a flat rate of 6,000 Mora, for advisory services, my hourly rate is 180,000 Mora, and for commercial law, I charge 710,000 Mora per case — final quote and commission rate depending on the details of your case. Not a bad deal, right?"
+            },
+            {
+                "title": "About Us: Relationships",
+                "text": "If you're concerned about what kind of complicated issues you might get tied up in during your travels, your best bet is to bring someone with you who knows and understands the law. Someone like me, for example, whose expertise goes beyond just the law of Liyue... Well, actually, having said that, Fontaine's law is notoriously complicated... Though, with my level of intelligence, getting acquainted with it should be no problem! Anyway... My point is, you can always rely on me!"
+            },
+            {
+                "title": "About the Vision",
+                "text": "Visions appear in response to strong desire, so as someone with ideals, it's only natural that I should have received one. Because, above all, I wish for all people to live honest lives and abide by the law. But some people will always insist on playing by their own rules and causing havoc for everyone else... Hah, those people can expect to be prosecuted so hard, they won't know what hit them!"
+            },
+            {
+                "title": "Interesting Things",
+                "text": "The Historia Naturalis Liyue has an entry about a waterborne plant called the Horsetail. It claims that \"The Horsetail is a medicinal herb that stands alone on the banks of Dihua Marsh. Its color is that of the clouds at sunset.\" Apparently, if you grind it into a powder and mix it into your ink, it makes your writing water-resistant. But it's a shame, I've been to Dihua Marsh at least a hundred times, and each time I end up with baskets and baskets of the common purple variety, but not a single one of the kind that the book describes."
+            },
+            {
+                "title": "About Qiqi",
+                "text": "I heard that little herb gatherer has written out a whole set of behavioral rules for herself. She may be small, but boy, has she got her head screwed on! She's definitely destined for greatness...\"The young of today shall outperform us tomorrow,\" as they say. I must admit, she has my respect."
+            },
+            {
+                "title": "About Ganyu",
+                "text": "Ganyu is kind and thoughtful, it's just a shame she's so busy all the time. Most of the time, she's buried in an endless pile of paperwork — the only exception being her nap at noon. Don't get me wrong, I have to put in some hours at work, too. But I'm happy with the job I've chosen, and it's certainly a lot less taxing than hers."
+            },
+            {
+                "title": "About Xingqiu",
+                "text": "The Feiyun Commerce Guild is one of my oldest clients. Their approach to business is meticulous and thorough, and every business meeting I've had with them has always been attended by the head of the house himself. Last time, though, I happened to meet their youngest, Xingqiu. To my complete surprise, the lad had no trouble whatsoever keeping up with my train of thought. He was very eloquent, too, and had excellent manners. Mm, definitely not a simpleton."
+            },
+            {
+                "title": "About Hu Tao",
+                "text": "I always hear people saying that the director of the Wangsheng Funeral Parlor has an unorthodox approach to business. They think she's gone a little non compos mentis after being in the funeral business so long... What are these people talking about? The Wangsheng Funeral Parlor provides a legitimate and necessary service, which is the cornerstone of any successful enterprise. Work is just work — there are no good and bad jobs, or lucky and unlucky jobs, just jobs that need doing.If I had one gripe, it would be that the director rarely comes to me for legal advice, hmph..."
+            },
+            {
+                "title": "About Zhongli",
+                "text": "Mr. Zhongli has so much in-depth knowledge on so many topics, he's like a walking library, you know what I mean? He's a total savant, though he never flaunts it. I could tell just by looking at him. People like him rarely shy away from taking on complex problems alone, so in my estimation he's certainly not a potential client.And yet, somehow, I can't help but think I know him from somewhere, it's hard to describe the feeling... I asked my father about it, and he just said something to the effect of he didn't know either, though he seemed a little evasive. It was so strange... Anyway, makes me wonder if my father is hiding something from me. Hmph, alright then — if he won't tell me what's going on, I'll just have to find out for myself..."
+            },
+            {
+                "title": "About Ningguang",
+                "text": "You must have heard of the Tianquan, Ningguang? She's the highest authority where the law is concerned, and often makes amendments to the legal codices. Every round of additions, retractions, and revisions generates mountains of material. Why, the latest edition of the legal codices contained three new laws, 121 revised legal annotations, and an array of new legal precedents. Archons know how long it's going to take me to commit them to memory...Hmph... still, she's a businesswoman at heart, I'm not about to let her beat me when it comes to the law. Once I've finished memorizing these, I need to step up my productivity..."
+            },
+            {
+                "title": "About Keqing",
+                "text": "The Yuheng doesn't deal with matters of the law, and thank goodness... Knowing Keqing's attitude toward work and ruthless efficiency, I'd end up losing a lot of work. Although... No, surely it wouldn't come to that. She's a stickler for doing things the right way — no doubt she'd offend people... but if she had someone like me as her legal assistant... No way! Why should an eminent legal expert such as myself be relegated to the role of assistant!? If she needs legal counsel, she can come and find me."
+            },
+            {
+                "title": "About Eula",
+                "text": "Eula saved me once, and we've kept up correspondence ever since. She's very familiar with the Knights of Favonius' legislation, but has never been one to be bound by convention. She uses cunning logic to deal with problems flexibly... Perhaps the reason we get along so easily is that I'm a similar type myself. Still, I'll never acquire that carefree spirit of hers. We are in very different professions, after all."
+            },
+            {
+                "title": "About Yelan",
+                "text": "Yelan is an employee of the Ministry of Civil Affairs — she once helped me crack a tough accounting fraud case. I treated her to dinner afterward. The only thing is... I feel like she's able to read my mind at any given moment when talking to her... Yes, in the future, I need to make absolutely sure I don't get on the wrong side of her."
+            },
+            {
+                "title": "About Kuki Shinobu",
+                "text": "Shinobu? I remember her, she's the Inazuman girl that came to Liyue as an exchange student to specialize in law. When she was doing her coursework, she used to meet with me to discuss some cases, and after we were done, she'd always bow and thank me, which would always make me a little embarrassed. I always felt like she was going to make an excellent lawyer in the future. Thinking about it, Inazuma went into lockdown right around the time she would have graduated. I wonder how she's been doing since she went back..."
+            },
+            {
+                "title": "More About Yanfei: I",
+                "text": "A client? Very pleased to meet you, here's my card. I'm afraid I can't leave my desk today, if it's a dispute we're dealing with then please bring the relevant parties here to see me. Let me just give you a breakdown of my fees — one moment...Huh? You came just to chat? Uh... no fee necessary then. So just to clarify... you came to chat as friends with a legal expert that you've never met before... care to explain?"
+            },
+            {
+                "title": "More About Yanfei: II",
+                "text": "These antlers? Oh... well my father is an adeptus, so I have adeptus blood myself. Still, I was born during peacetime here in Liyue — I never signed a contract with Rex Lapis. Naturally, I don't have to concern myself with adeptal affairs — I'm free to focus on the life I want to live. Works for me! Hee-hee."
+            },
+            {
+                "title": "More About Yanfei: III",
+                "text": "Contracts of that magnitude — lifelong commitments... I've only ever signed one with my father. Uh... it's about living happily, I suppose. That's the kind of person he is. I'm proud of him for that. If he'd wanted me to sign a different contract, say... one about working myself into the ground, or stepping on others to achieve success... I would've ran away by now!"
+            },
+            {
+                "title": "More About Yanfei: IV",
+                "text": "Sometimes, the commercial disputes I handle don't end very pleasantly. The other party might win compensation way in excess of the damages, or pay damages far exceeding the costs... Such is the price of violating a contract. Some people say I'm pretty terrifying, others try to avoid me altogether, but I don't need to explain myself to anyone. Since the very beginning, the welfare of Liyue has been my primary concern!Think about it — the origin of disputes can be traced back to the violation of contracts. People are a lot less likely to violate contracts when they see the fallout. Making sure that people realize the importance of contracts is a crucial part of my work!"
+            },
+            {
+                "title": "More About Yanfei: V",
+                "text": "Most of the time, I feel that I have a happy and laid back existence. I have a successful career, clothes on my back, and the freedom to go wherever I please. I've also got quite a way with words — nobody can beat me in a debate. And yet, there is no law or standard that can define a happy life.For me... interesting people and engaging affairs, knowing where to go and which path to choose... these are all enough to bring me happiness. And on that note, you too are a source of happiness for me.In any case, whatever the life you live, the most important thing is to respect and understand the law. After all, as soon as you stray from the law, the world begins to fall to ruin."
+            },
+            {
+                "title": "Feelings About Ascension: Intro",
+                "text": "\"Do not seek to emulate the past, for there is no law that can suffice for all time\"... This is a lesson I must always bear in mind."
+            },
+            {
+                "title": "Feelings About Ascension: Building Up",
+                "text": "Only by adhering to the law can the people solve life's myriad of problems."
+            },
+            {
+                "title": "Feelings About Ascension: Climax",
+                "text": "Studying the law allows one to have grounded conversations, whilst learning martial arts allows one to prevail against groundless violence. Hey, wait a minute... does this count as martial arts...?"
+            },
+            {
+                "title": "Feelings About Ascension: Conclusion",
+                "text": "Well, I guess I've mastered both the pen and the sword! I've been lucky to have you with me through to the end of my training. Compensation? Uhh... a twenty-four-hour specialist personal advisor? Sounds good... But no haggling!\n}}\n\n==Combat==\n{{Combat VO\n|character           = Yanfei\n\n|skill_1_tx          = Boom boom!\n|skill_2_tx          = Incinerate!\n|skill_3_tx          = Motion to compel!\n\n|burst_1_tx          = Time for your arraignment!\n|burst_2_tx          = Wrath of the Flame!\n|burst_3_tx          = Inadmissible evidence!\n\n|sprint-s_1_file     = Sprint Start 01,Sprint Start 02,Sprint Start 03\n\n|glider_1_file       = Deploying Wind Glider 01,Deploying Wind Glider 02,Deploying Wind Glider 03\n\n|chest_1_tx          =   Ooh, we can definitely write this off as \"incidental gains.\"\n|chest_2_tx          =   Remarkable condition!\n|chest_3_tx          =   Huh, let's appraise the value on this...\n\n|low-hp_1_tx         = Objection!\n|low-hp_2_tx         = Keep within the law...\n|low-hp_3_tx         = But my defense was watertight...\n\n|ally-low-hp_1_tx    = Hey, leave it to me!\n|ally-low-hp_2_tx    = The verdict is... emergency measures!\n\n|fallen_1_tx         = It's a... hung jury...\n|fallen_2_tx         = The law... has loopholes...\n|fallen_3_tx         = I... object...\n\n|hit-l_1_file        = Light Hit Taken 01,Light Hit Taken 02,Light Hit Taken 03,Light Hit Taken 04,Light Hit Taken 05,Light Hit Taken 06\n\n|hit-h_1_file        = Heavy Hit Taken 02\n|hit-h_1_tx          = Ugh...\n|hit-h_2_file        = Heavy Hit Taken 01,Heavy Hit Taken 03,Heavy Hit Taken 04,Heavy Hit Taken 05,Heavy Hit Taken 06\n\n|join_1_tx           = Next time, be sure to make a proper appointment.\n|join_2_tx           = I charge a higher rate to meet outside the office.\n|join_3_tx           = Ready for trial.\n\n|idle_1_file          = Standby 01,Standby 02\n\n|atk-l_1_file        = Light Attack 01,Light Attack 02,Light Attack 03,Light Attack 04,Light Attack 05,Light Attack 06,Light Attack 07\n\n|atk-m_1_file        = Mid Attack 01,Mid Attack 02,Mid Attack 03\n\n|atk-h_1_file        = Heavy Attack 01,Heavy Attack 02,Heavy Attack 03\n\n|climb_1_file        = Climbing 01,Climbing 02,Climbing 03,Climbing 04,Climbing 05\n\n|climb-b_1_file      = Climbing Breath 01,Climbing Breath 02,Climbing Breath 03\n\n|jump_1_file         = Jumping 01,Jumping 02,Jumping 03,Jumping 04,Jumping 05\n}}\n\n==Navigation==\n{{Character Navbox|VO}}\n\nes:Yanfei/Voz\nfr:Yanfei/Répliques\nit:Yanfei/Battute\nja:煙緋/ボイス/英語\npt-br:Yanfei/Falas\nru:Янь Фэй/Озвучка\ntr:Yanfei/Replikler"
+            }
+        ]
+    }
+}

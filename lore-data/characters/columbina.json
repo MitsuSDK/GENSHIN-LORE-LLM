@@ -13,7 +13,7 @@
         "formerly",
         "Three Moons"
     ],
-    "power_source": "unknown",
+    "power_source": "Gnosis",
     "element": "Hydro",
     "constellation": "Columbina Hyposelenia",
     "aliases": [
@@ -30,8 +30,169 @@
                 "title": "Official Introduction",
                 "subtitle": "",
                 "text": ""
+            },
+            {
+                "title": "Character Details",
+                "text": "Day or night?<!--\n              -->Why, night, of course. The world of daylight was filled with too many words beyond her understanding. \"Kuutar,\" \"The Damselette,\" \"Goddess\"... She knew these words to be like mirrors, each reflecting a version of her in this unfamiliar world. But those were versions others wished to see. She did not recognize herself in those reflections, just as she did not recognize the moon hanging in the sky. At least at night, she could clearly feel the pull coming from beyond the heavens. It made no sound, yet she understood it all the same — the Frost Moon was calling her home.<!--\n              -->...<!--\n              -->Spring, summer, autumn, or winter?<!--\n              -->Winter, without question. After the restlessness of spring, the clamor of summer, and the bounty of autumn, winter's snow quietly laid a finger across the world's lips, as if to say, \"Hush. After all that bustle, isn't it time for some quiet?\"<!--\n              -->And so the world would obediently fall silent. Little animals would retreat to their homes as well. Only in winter would people truly realize how important a warm \"home\" could be.<!--\n              -->As for Columbina? She loved to find a thick, soft pile of snow, before holding her breath and diving straight in. For a goddess who wasn't particularly sensitive to cold, being wrapped head to toe in gentle white snow felt simply wonderful. As to whether her colleagues understood this behavior... Well, she concerned herself little with that.<!--\n              -->...<!--\n              -->Sunny? Rainy? Or perhaps, cloudy?<!--\n              -->A rainy morning. When Columbina woke to the soft patter of rain beyond the Silvermoon Hall, a sense of calm would settle over her — the feeling of being sheltered beneath its vaulted roof.<!--\n              -->\"Shelter.\" In the rhythm of the rain, the word resonated with renewed strength, echoing the most essential meaning that \"home\" could hold. Simply existing along the extension of that meaning was enough to fill Columbina with warmth.<!--\n              -->Still... nightfall was better when under clear skies.<!--\n              -->...<!--\n              -->Were her answers to these questions truly accurate? Might they change someday? Columbina turned these thoughts over in her mind.<!--\n              -->Probably not. But even if they did, these answers were the truest version of herself in this moment — the truest version of her on this night.<!--\n              -->Forests, lakes, and open seas... Which did she love most?<!--\n              -->She loved them all, of course."
+            },
+            {
+                "title": "Character Story 1",
+                "text": "The first thing she heard was a song.<!--\n              -->♪ Sleep, sleep now, my dear little dove ♪...<!--\n              -->♪ May flowers and lovely dreams bloom by your window ♪...<!--\n              -->...<!--\n              -->Whose voice was that? It sounded distant and indistinct, like a lullaby — like the beginning of a story, and just as much its ending...<!--\n              -->Then came the sensation of the earth beneath her.<!--\n              -->Fine-grained, warm, and gentle, carrying a familiar strength, like a part of her own body, or the amniotic waters that once cradled her before she was born...<!--\n              -->And so, she opened her eyes.<!--\n              -->Moonlight drifted through the air, and a few little ones caught its fleeting threads and wove them into garments for her.<!--\n              -->Something far, far away was calling her — a pull, a connection, like a yet-unbroken umbilical cord between a baby and its mother.<!--\n              -->She lifted her eyes. But there was nothing in the sky, only a veil. A lie. For some reason, the first time she saw a sky full of stars, she knew it was false. And whatever it was that connected her to something beyond was cut off by this veil of lies.<!--\n              -->Why was she born here? Or rather, why was she born at all? Who was she? And whose voice did that singing belong to?<!--\n              -->Questions arose, one after another, from the depths of her mind. Yet the world offered not even an echo in reply. Sometimes, not hearing was scarier than not seeing.<!--\n              -->She sensed that these questions might follow her forever.<!--\n              -->She closed her eyes. The truth was not to be found beneath a veil of lies."
+            },
+            {
+                "title": "Character Story 2",
+                "text": "When Columbina first came to the Fatui, she immediately found them very different from the Frostmoon Scions.<!--\n              -->No one seemed to make unreasonable demands of her. No one appeared to desire anything from her or revere her — at least, not on the surface.<!--\n              -->The concept of \"colleagues\" was new to her, too. Within it, she sensed something both unfamiliar and deeply appealing: a sense of equality, occasionally mixed with a familiar notion of \"trade.\" She was still learning to navigate this way of life.<!--\n              -->The first to approach her was The Doctor. Columbina could hear admiration in this colleague's words — not the same as worship; at least, it was based on the premise of equality.<!--\n              -->\"If you don't mind, could you help me with a small task?\" the colleague asked politely.<!--\n              -->Help? She had expected this to be something she was obliged to give in return, but here, she actually had a choice. Or perhaps it was this very colleague who was offering her the choice.<!--\n              -->Even though The Doctor's words carried a faint echo of something ominous, like distant thunder from a far-off storm, the sense of having a choice was undeniably satisfying.<!--\n              -->At first, everything went smoothly. The Doctor's lab was filled with all sorts of strange devices, and Columbina only needed to lightly apply her power here, manipulate that there, and everything would work out.<!--\n              -->\"Not bad. You did very well.\"<!--\n              -->Columbina liked praise. It was new to her, a novel experience.<!--\n              -->But before long, compliments shifted to \"Not quite enough,\" \"You can do better,\" or \"You're capable of more...\"<!--\n              -->Suddenly, Columbina realized that what The Doctor was seeing wasn't her, but some version of what she should be, or the level her powers should reach. It reminded her of the days before she had joined the Fatui...<!--\n              -->She felt a pang of sadness. Did anyone else ever feel sad just for being themselves? She didn't know if others felt that, but she did.<!--\n              -->It wasn't that she wanted to become what others expected, but that what they saw wasn't her. The real her, like an unwelcome child at a party, was left alone on the sidelines..."
+            },
+            {
+                "title": "Character Story 3",
+                "text": "...Might as well get something to eat.<!--\n              -->When she was feeling down, Columbina always turned to the things she liked doing. Filling her stomach was just one of them, and the easiest to satisfy.<!--\n              -->\"I—I'm really sorry, Lady Harbinger...\" As she was leaving the restaurant, someone called out to her, trembling, and handed her a slip of paper. Columbina couldn't see it, but somehow remembered — this was part of a process that had to happen after eating. Different from how procedures were back with the Frostmoon Scions.<!--\n              -->The problem was, she still wasn't used to it. She knew it involved some ritual of \"trade,\" but the few times she had done it, it was always with her two recently acquainted colleagues, Arlecchino and Sandrone. Or rather, they did it for her.<!--\n              -->Columbina didn't know what to do. During that moment, she felt a kind of fear and guilt radiating from the other person, so palpable she could sense it even with her eyes closed. It was her fault, and she felt both sorry and helpless.<!--\n              -->\"I...\" Columbina searched for unfamiliar words.<!--\n              -->\"Alright, I've got this. You just stay out of it.\" A familiar voice appeared beside her. It was Sandrone.<!--\n              -->\"Hmph. You don't even know how to apply for reimbursement, and you dare come out to eat by yourself? Ugh. You know what, I bet you don't even know how to pay either.\" The tone was impatient, but somehow reassuring.<!--\n              -->\"The Fatui's financial rules sure are rigid... and complicated,\" she muttered, quickly filling out the slip and handing it to the trembling employee.<!--\n              -->\"From now on, put her bill on my tab. It's all the same when it comes to reimbursement anyway,\" Sandrone said irritably to the employee.<!--\n              -->\"Sorry...\" Columbina murmured to her colleague, with whom she had not been acquainted long. She knew she was being helped.<!--\n              -->\"Huh? I didn't do this just to hear you apologize.\" Somehow, the other sounded even more annoyed. Why?<!--\n              -->\"Hmm? You don't blame me?\" Columbina asked.<!--\n              -->\"Huh? Why? Isn't this just who you are?\" came the exasperated reply. \"Seriously, though, I don't get how someone like you even survives in this world...\"<!--\n              -->No \"You should be like this,\" no \"You could do better\"... only \"This is who you are.\"<!--\n              -->Though Sandrone's tone was always impatient, there was a recognition in it — a silent acknowledgment that this was \"who she really was.\" Columbina felt joy at being seen in this way.<!--\n              -->\"...What are you smirking at?\" Sandrone asked.<!--\n              -->Columbina shook her head.<!--\n              -->\"Nothing. Let's go eat together next time, Sandrone,\" she said. \"I like seeing you handle the 'reimbursements' for me.\"<!--\n              -->\"...What?\" It seemed her dear colleague would need some time to get used to how \"she really was\" all the same."
+            },
+            {
+                "title": "Character Story 4",
+                "text": "On nights when the moon was full, Columbina liked to quietly leave the Silvermoon Hall and wander near the homes of the little animals. Sometimes it would be a tree hollow, at others a bird's nest. She would stand nearby, listening to the steady rhythm of their breaths while lifting her eyes to the moon above. It was as if, by doing so, she could imagine what nighttime on the moon might be like — quiet and peaceful. She hoped it was.<!--\n              -->On nights like these, she pieced together dreams of what a \"home\" might be.<!--\n              -->When she once again returned to Hiisi Island, she met a certain contemporary Moonchanter. Columbina had spent much time with the Frostmoon Scions, yet she had never once seen such beautiful, enormous antlers.<!--\n              -->\"...Forgive my interruption,\" Canon, the goddess of the Frost Moon, interrupted. \"I thought there were quite a few with antlers among the Frostmoon Scions.\"<!--\n              -->Columbina explained that while it had been historically common, few were born with antlers today, and none boasted antlers as splendid as that Moonchanter's.<!--\n              -->\"The bloodline inevitably grew diluted, I see...\" The Frost Moon goddess sighed. \"Sorry... Please continue, Columbina Hyposelenia.\"<!--\n              -->After meeting that Moonchanter, Columbina occasionally made surreptitious visits to her home as well. She discovered, however, that the moon's tides seemed to bring some restless pain to said Moonchanter. In those moments, Columbina would try to use her own power to soothe the tides surrounding the woman. Sometimes, she would find herself humming familiar melodies, instinctively — the lullaby that had once comforted her before her birth.<!--\n              -->\"A lullaby from before your birth?\" This time it was Aria, goddess of the Eternal Moon, who spoke up.<!--\n              -->Columbina explained the melodies she had heard before being born.<!--\n              -->The three goddesses shook their heads. They had no knowledge of this song.<!--\n              -->Columbina continued to tell them stories of the future world: From the flavors of offerings in that world, to the music in its opera houses... From a friend with a clockwork mechanism in her back, to a former angel who became her friend...<!--\n              -->Finally, she spoke of the Moon-Prayer Night.<!--\n              -->The three moon goddesses were deeply moved by the beauty of that evening — perhaps also because Columbina herself could not help but smile as she recounted it.<!--\n              -->\"In our time, the gods of the heavens rarely had such profound connections with the world below,\" the goddess of the Frost Moon said.<!--\n              -->\"Yes. Everyone was nice to me. We even played water-ball games together.\"<!--\n              -->\"Unimaginable. It seems our era was far too conservative,\" the goddess of the Eternal Moon said, clearly astonished.<!--\n              -->\"We even stuck little stickers on each other's faces.\"<!--\n              -->A few soft gasps of surprise came from the three goddesses.<!--\n              -->\"We also exchanged food, tasting the candy in each other's hands.\"<!--\n              -->The goddesses fell silent. Columbina felt glances tinted with envy pass between them.<!--\n              -->Long moments passed. Then Sonnet, goddess of the Iridescent Moon, finally breathed a sigh of amazement.<!--\n              -->\"Wow...\""
+            },
+            {
+                "title": "Character Story 5",
+                "text": "Home is acceptance.<!--\n              -->The Frost Moon passed through the false sky and remained in Teyvat. Columbina Hyposelenia, too, was accepted by this world. Now, it was her turn to try to accept the world in return.<!--\n              -->The first thing she did was move aside the massive boulder blocking Silvermoon Hall's entrance. It had once been placed there to keep the Frostmoon Scions and the Fatui from finding her. Now, it no longer seemed necessary.<!--\n              -->Her friends in Nod-Krai often told her she was welcome to visit their homes. It was only right that she did the same for her friends, and for her \"family.\"<!--\n              -->Home is freedom.<!--\n              -->There were no longer rules rejecting her existence. No places she was forbidden to go. No one coming to seize her...<!--\n              -->She could go wherever she wished, do whatever she pleased.<!--\n              -->Of course, learning to deal with others came with its share of stumbles. Once, while strolling through Nasha Town, she nearly fell for a malicious scam and was sharply scolded by Nefer, who had to save the day. Another time, while wandering freely through Nod-Krai, she accidentally entered a restricted area of Piramida and Illuga had to politely escort her out...<!--\n              -->Well, being scolded, too, was part of life among family. Columbina understood that now.<!--\n              -->And of course, so was learning to correct one's mistakes.<!--\n              -->Home is...<!--\n              -->Hehe, home can be many things, Columbina thought.<!--\n              -->It is found in the small details of everyday life — in all the fresh, unfamiliar things she has only just begun to notice and experience.<!--\n              -->And it is something that will remain with her, always, throughout her journey in this world."
+            },
+            {
+                "title": "An Eye Mask Woven of Moonlight",
+                "text": "To Columbina, the world's \"truth\" is often revealed only when she closes her eyes.<!--\n              -->After sensing that the sky's great dome was nothing but a fabricated lie, she veiled her sight with gauze woven from moonlight. It was no inconvenience to her — if anything, the world perceived through kuuvahki felt clearer, more lucid than what the eyes could see. And should curiosity ever get the better of her, she could always steal a glance. After all, her eye mask had fine gaps in it.<!--\n              -->The stars may lie, but the tides of gravity do not. People may conceal their expressions, but the emotional currents rising from within their hearts cannot be hidden.<!--\n              -->Columbina waited, intending to remove this eye mask that shut out falsehood only after she returned to that true \"home.\"<!--\n              -->Yet after becoming the Trilune Goddess and returning to Teyvat, she remembered the words Canon, the goddess of the Frost Moon, once spoke to her. Tentatively, she began opening her eyes in daily life, discovering the world anew.<!--\n              -->She discovered that the spring forests held so many colors, and that the winter snow could be so pure and luminous.<!--\n              -->That the spray cast up as waves struck the shore was never the same twice, and that the lights of a city at night shimmered like a brilliant, star-filled sky...<!--\n              -->She felt fortunate.<!--\n              -->Perhaps she should have opened her eyes sooner, she sometimes thought.<!--\n              -->But then again... perhaps it was her experiences up to now that had taught her to truly see the world's beauty. If she had opened her eyes earlier, would she have only seen the lies the world hides?<!--\n              -->Columbina wasn't sure. Such introspective questions would take time to answer.<!--\n              -->In the meantime, she decided to occasionally open her eyes and take in the beauty of this \"home.\"<!--\n              -->Why not keep her eyes open all the time, then?<!--\n              -->\"Hmm... I've just gotten used to it, I suppose. And also,\" Columbina rubbed her eyes, \"keeping them open all the time is tiring. Is this... what they call 'eye strain'?\""
+            },
+            {
+                "title": "Tri-Lunar Convergence",
+                "text": "After acquiring tri-lunar authority, Columbina naturally had some questions:<!--\n              -->Could this power really do everything? What should she use it for?<!--\n              -->She felt that the things she wanted to do were almost all within the reach of the three moons' power: Moving freely between the moon and Teyvat, effortlessly transporting herself and other objects, making flowers bloom more brilliantly, causing fruits to grow fuller...<!--\n              -->She even tried to wake Sandrone up. But that was one of the few things this trilunar power could not accomplish for her.<!--\n              -->As for everything else, she either didn't want to do it, or she felt that she shouldn't.<!--\n              -->What she loved was the way this world and her home looked now. Changing it at will just because she could, molding its appearance and rules to suit her own whims... She felt that would be wrong. No matter how good her intentions, doing so would make her no different from The Doctor, she felt.<!--\n              -->She regarded this world as her \"home,\" not as her possession, and there was a great difference between the two.<!--\n              -->So she offered a portion of her power, that it may continue to protect this beautiful home as it always had. The part she kept for herself needed only to allow her to live happily with her friends, as before, and to guard what she cherished when necessary.<!--\n              -->In that moment, Columbina suddenly understood the choices her three elder sisters had made. Rather than seeking to \"rule,\" what they had wanted most was simply to \"protect\" this world beneath the moon.<!--\n              -->Could she say that she was their little sister, after all? The thought brought a sweet sense of harmony.<!--\n              -->It felt almost like an inherited trait, or perhaps a \"family tendency\" moon goddesses had.<!--\n              -->A warm feeling rose in Columbina's heart at the thought. She seemed to have again discovered something she had longed for:<!--\n              -->The bonds and legacy shared among family."
             }
         ],
-        "additional_lore": []
+        "additional_lore": [
+            {
+                "title": "Hello",
+                "text": "You can call me Columbina, or Kuutar, or Moon Goddess... Whatever you prefer. I'm used to having many names. The moon's blessing is yours, whenever you might find yourself in need."
+            },
+            {
+                "title": "About {character}: Eye Mask",
+                "text": "I'm used to \"sensing\" things with kuuvahki — it reveals the truth of things better than \"seeing\" does. Still, curiosity does sometimes get the better of me, and I open my eyes to take a peek. That's the nice thing about having an eye mask with holes."
+            },
+            {
+                "title": "About {character}: Home",
+                "text": "I used to think I would forever be a stranger to this land — that the moon was my true \"home.\" Now, I have an additional place to call home, and both my homes are now closer by."
+            },
+            {
+                "title": "About Us: Great Deeds",
+                "text": "I heard about you long before we met. Back when I was with the Fatui, I remember the other Harbingers talking about your deeds. But you have so many titles, I... fell asleep before they even got to your name."
+            },
+            {
+                "title": "About Us: Traveling",
+                "text": "Could you give me some tips for traveling? Like... how to talk to people from other nations. Hmm? I should focus more on fire-building skills, hunting techniques, and... transport? Huh. Couldn't I just use kuuvahki for all that?"
+            },
+            {
+                "title": "About the \"Tri-Lunar Convergence\"",
+                "text": "The three goddesses bestowed their powers upon me, which converged into a force that is both dazzling and gentle. Through it, I can feel their attachment to this place, and I can sense the hopes and wishes they offered to this world in their final moments. I will inherit their moonlight and use it to illuminate the world beneath the moon — the place we all call \"home\"."
+            },
+            {
+                "title": "Something to Share",
+                "text": "Back in Snezhnaya, being Third of the Fatui Harbingers came with a lot of perks. I didn't need to purchase a ticket for the train or stand in line for the Korolevskiy Troupe... Ah, and when I dined at a restaurant, I could get... \"reimbursed\"? That was a bit too complicated for me to understand, though, so I just tagged along with Sandrone or Arlecchino instead."
+            },
+            {
+                "title": "Interesting Things",
+                "text": "The moon is more beautiful than I could have imagined. Blue kuuvahki flowing like an endless ocean, magnificent jellyfish drifting across the sea, pink frostfin whales coming from places unknown, enormous kuuhenki... It's magnificent. Once I've made my home a bit more presentable, I'll invite my friends up to visit."
+            },
+            {
+                "title": "About Lauma",
+                "text": "Aiming a beam of moonlight at Lauma's head makes her antlers grow taller, and if you get the angle just right, you can even get them to stab a piece of fruit that's too high to reach... Hmm? What then? Oh, um... You get scolded."
+            },
+            {
+                "title": "About Nicole",
+                "text": "Oh, we kept in touch until a short while ago. I asked her to recommend some books for me to read to the kuuhenki. She sent a whole lot and even gave me detailed explanations about the inspiration and setting for each one. I asked her when I might be able to read a book she had authored herself, but then I suddenly stopped hearing from her. Perhaps... she went off to write one."
+            },
+            {
+                "title": "About Neuvillette",
+                "text": "The Hydro Dragon who serves as the Iudex of Fontaine? Hmm... Another Dragon who puts people in prison. I'm not sure I'd want to meet him."
+            },
+            {
+                "title": "About The Seven",
+                "text": "If we cross paths during my journey, I'll be sure to say hello."
+            },
+            {
+                "title": "About the Tsaritsa",
+                "text": "The first time I sang in the gardens of Zapolyarny Palace, the Tsaritsa happened to pass by. She stood there, silent and motionless, like a statue with no expression carved onto the face. For a moment, I felt as if she wanted to say something to me, but she never did.She seals her emotions beneath thick sheets of ice. The outside world sees but one side of who she is... that of the Tsaritsa. If the answers I sought rest on the moon, perhaps hers lie buried in snow and ice."
+            },
+            {
+                "title": "About The Jester",
+                "text": "He's quite the opposite of his codename, and that seems to be intentional. Although he's known as \"The Jester,\" his tone is stern and serious, and he speaks in confusing riddles. The mask he wears depicts a grin that mocks the world, but he himself never smiles."
+            },
+            {
+                "title": "About The Captain",
+                "text": "Many respect him, but just as many fear him. Hmm? Is that too confusing? Well, you see, creatures accustomed to living in darkness will never choose to get close to the light. It's too dangerous, for light would only lengthen their own shadow."
+            },
+            {
+                "title": "About The Doctor",
+                "text": "There was a time when \"The Doctor\" took care of me, even claiming to think of me as a sister.It was only later that I discovered, the closer you are to him, the more freely he uses you. \"What's a little discomfort among family? We endure for each other, surely.\" That's how he thought of things, and I could tell he meant it, but I didn't want to have to \"endure.\" Expectations like that... They took me back to my first home, and the eyes staring up at me from beneath the altar, so full of greed."
+            },
+            {
+                "title": "About Arlecchino",
+                "text": "The House of the Hearth is home to many children, and it can get quite noisy. The first time I heard them call Arlecchino \"Father,\" I thought it was a rule that had to be followed there. So, the next time she passed by, I used that title as well. That's when I learned just how quiet the House of the Hearth could become."
+            },
+            {
+                "title": "About The Rooster",
+                "text": "I can teach you to talk just like him — all you have to do is combine the words \"money,\" \"that darn Pantalone,\" and \"mark my words.\" Here, I'll show you. \"Where's the money? Mark my words, I'm going to kill that darn Pantalone.\" Or, \"That darn Pantalone is going to cough up the money, mark my words.\" See? Isn't that fascinating?"
+            },
+            {
+                "title": "About Sandrone: Clockwork Nature",
+                "text": "I wonder, does the key on her back ever stop turning? Does it change direction? Does she remove it when she sleeps? How does she roll over? I've been curious about that key ever since I first met her. But since we weren't close then, it didn't seem right to just go up and touch it. So whenever I had the chance, I would follow behind her, trying to figure out the pattern of its movement. But one day, she suddenly turned around and demanded to know why I kept following her. After I told her the reason, she said, \"If you're that curious, why don't I put one on your back, and you can see for yourself?\" So I lived with a key on my back for a few days, and it was quite the challenge. Sandrone doesn't have it easy, so I've looked out for her even more since then."
+            },
+            {
+                "title": "About Sandrone: Clockwork Nature II",
+                "text": "I'm not sure what counts as \"death\" for a puppet... All I know is, Sandrone isn't moving, and I can't feel her \"operating.\" Her key has just... stopped. And all because of the \"technique\" she used to bring me back. She said she was going to get back at me that one time. How I wish that's all this was. Just an attempt to scare me..."
+            },
+            {
+                "title": "About Regrator",
+                "text": "In his eyes, everything and everyone has a price tag, and he gets to decide their value. We're all just bargaining chips he can use to expand his ever-increasing empire of wealth. But who would want to visit a boring empire like that? Not me, that's for sure.Hmm... If he saw me now, I'm sure his smile would hide even more contempt than before. I can almost hear it now... \"Congratulations, Miss Columbina. Your value has appreciated.\""
+            },
+            {
+                "title": "About Rosalyne",
+                "text": "If metamorphosis ends in one's wings being engulfed in flame, perhaps remaining in the cocoon is how one survives. But, I doubt Rosalyne ever considered making that choice, or perhaps she had determined her own end from the very beginning. Whether it was love, hate, or a simple dance, she gave her whole self to her pursuits... and left others to sing her dirge after her departure."
+            },
+            {
+                "title": "About Childe",
+                "text": "I've heard he has a good relationship with his family. They go camping together and have barbecues by the lake. Sandrone says he's the Harbinger who lives most like an ordinary person. I don't really understand ordinary people, but that kind of life sounds nice to me."
+            },
+            {
+                "title": "More About {character}: I",
+                "text": "Huh...? My story? Um... That might take quite a while to tell. Oh, you brought tea and snacks? Well then, I suppose I could share a bit more in return."
+            },
+            {
+                "title": "More About {character}: II",
+                "text": "I used to spend a lot of time learning how to interact with people and go about life in this world. But looking back now, perhaps my experiences with the Frostmoon Scions and the Fatui weren't the best teachers. For a long time, I thought relationships were transactional — their only purpose being figuring out what you can take, and what it might cost you in return."
+            },
+            {
+                "title": "More About {character}: III",
+                "text": "I love telling stories to the kuuhenki, and I love to sing. There's a blank space in my life that has existed since before I was born and has shadowed me since. My story was incomplete from the start, so I've learned to use other stories to fill in the gaps. It's like... painting a picture — I sketch the outline with words and color it in with song."
+            },
+            {
+                "title": "More About {character}: IV",
+                "text": "On Moon-Prayer Night, I received a name that belongs to me — Columbina Hyposelenia. I used to think a name was nothing more than an alias, something separate from oneself. But after that night, I realized my name is what connects me to this world and the people within it... It is all that is intangible — their friendship, love, and support — manifested for the world to see. I will cherish it forever."
+            },
+            {
+                "title": "More About {character}: V",
+                "text": "My story is like an opera played in reverse. The ending came first, and I was left searching for the whys and wherefores. But if I could go back and do it all over again, I wouldn't change a thing. I quite like it as it is now. Without this journey, I never would have known that being born in Nod-Krai was my own choice, my friends never would have helped me connect with my true \"family,\" and you never would have followed Luonnotar into Silvermoon Hall that night. My story would have been empty in a very different way. I don't like that version one bit."
+            },
+            {
+                "title": "Feelings About Ascension: Intro",
+                "text": "By the Eternal Moon, the tides shall surge."
+            },
+            {
+                "title": "Feelings About Ascension: Building Up",
+                "text": "By the Frost Moon, the night shall be illuminated."
+            },
+            {
+                "title": "Feelings About Ascension: Climax",
+                "text": "By the Iridescent Moon, darkness shall be cast deeper into the shadows."
+            },
+            {
+                "title": "Feelings About Ascension: Conclusion",
+                "text": "I now hold the threads of fate in my hands. From now on, the new moon shall watch over and illuminate the world below."
+            }
+        ]
     }
 }

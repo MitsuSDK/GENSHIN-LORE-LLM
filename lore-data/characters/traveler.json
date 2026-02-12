@@ -1,0 +1,57 @@
+{
+    "name": "Traveler",
+    "entity_type": "character",
+    "status": "active",
+    "region": "Unknown",
+    "affiliations": [
+        "—"
+    ],
+    "power_source": "Vision",
+    "element": "None",
+    "constellation": "[[Viator]] (male)[[Viatrix]] (female)",
+    "aliases": [
+        "Descender"
+    ],
+    "lore": {
+        "descriptions": [
+            "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+            "Don't lose faith in that which you have lost. In this new world, you will never be alone. Where you leave your footprints, and where you have yet to stride &mdash; your new world will unfold before you.\nWelcome to a new world.",
+            "The world you once knew is but dust, and the wonders you knew but rubble. Though you should have your own world, and your own people &mdash; lamenting what is already lost..."
+        ],
+        "character_stories": [
+            {
+                "title": "Character Details",
+                "text": "The keeper is fading away; the creator has not yet come.But the world shall burn no more, for you shall ascend.For aesthetic purposes, the English version differs from the Chinese text.The original CN text: {{zh|维系者正在死去，创造者尚未到来。但世界不会再度灼烧，因为你将登上「神」之座。}}Literal translation: '''The sustainer is passing away;''' the creator has not yet come. But the world shall burn no more, for you shall ascend '''to the seat of \"the god.\"'''"
+            },
+            {
+                "title": "Character Story 1",
+                "text": "A boy and a girl stood amidst the tumult, under an unfamiliar sky.You were a pair of traveling twins, passing through countless worlds during your journey.Descending upon a continent named Teyvat, you hoped that you would be able to enjoy your time here.But as you awoke among the falling stars, you saw the world in turmoil, a cataclysm raging across the land...You sought to leave this place and move on to the next world, but then an unknown god stood before you, barring the way.This deity was spotless, floating over a world of chaos.Looking down on you.The god took your only kin away, and you were sealed and cast into a deep slumber filled with nightmares...When you reawakened, the world was changed.The flames of war raged no longer, and nothing was left that looked familiar.How long had you been asleep? You had no answers.Thus, you began a lonely journey, seeking the deity that you had once laid eyes upon..."
+            },
+            {
+                "title": "Character Story 2",
+                "text": "After that, you met Paimon, and wandered together for some time.You learned that this world has seven deities who rule the seven nations as the Seven Archons.Your first stop was the free city of wine and song, Mondstadt, a city built by the Anemo Archon.As you stepped into Mondstadt as an outlander, it was, as the other nations were, beset on both sides by non-human and human threats.The non-human threat was comprised of the confederacy known as the Abyss Order.The human threat, on the other hand stemmed, from the ambition of the Tsaritsa, god of Snezhnaya.The Abyss Order had corrupted an ally of the Anemo Archon, the Dragon of the East of the Four Winds of Mondstadt.The envoys of Snezhnaya, for their part, used this opposition to the Abyss as an excuse to put pressure on Mondstadt.These threats from without and within caused the return of the Anemo Archon, who took on the form of a bard and joined you in your journey to save the dragon.Yet there was something then that you did not see — for as the dragon fell to the Abyss, a certain figure had been reflected in its eyes...The one who rules the Abyss.{{MC|She|He|mc=1}} had once traveled with you, and you had once crossed many worlds together."
+            },
+            {
+                "title": "Character Story 3",
+                "text": "Though you made no promises, though it was an \"agreement\" the other party made one-sidedly,You nonetheless set out on a sojourn across the Seven Nations to reach \"the journey's end.\"It would be a stretch to call this a pleasant path — as your feet took you forward, you witnessed and were pulled into the crises each nation faced...Perhaps this is no coincidence. Perhaps some tremendous tremor deeper beneath the world is to blame for the waves of catastrophe.The Tsaritsa's plan to collect the Gnoses persists apace, while the terrifying force corrupting the world awaits opportunities to strike.And the Abyss Order, the organization led by your own flesh and blood...From the Loom of Fate operational launch to the Atlas of the New World's completion, you know deep down that their actions are changing the fate of this world.As you gradually understand said world, you have also come to understand the things your {{MC|sister|brother|mc=1}}...But this has not made your journey any easier, nor your footsteps lighter. That was not what you expected at first."
+            },
+            {
+                "title": "Character Story 4",
+                "text": "Not yet available"
+            },
+            {
+                "title": "Character Story 5",
+                "text": "Not yet available"
+            },
+            {
+                "title": "Vision",
+                "text": "When faced with circumstances that they cannot control, humans often bemoan their powerlessness.But if a person is found to have surpassing ambition even as their life reaches such a desperate turning point, then the gods would look upon them with favor.This favor is the Vision, an external magical focus given to those who have been acknowledged by the gods which they can use to channel elemental power.Celestia is the realm of the gods, and the wielders of Visions walk the earth below. When they depart from this world, the chosen will ascend.After coming to this world, you often hear people speak of such things.You, for your part, can never receive a Vision, for an alien lifeform does not belong...Is it wise to allow a moment's ambition to dominate one's entire life?You have needed to consider many such thought-provoking questions, ones that require lengthy consideration, during your journey through many worlds..."
+            },
+            {
+                "title": "Loom of Fate",
+                "text": "Not yet available"
+            }
+        ],
+        "additional_lore": []
+    }
+}

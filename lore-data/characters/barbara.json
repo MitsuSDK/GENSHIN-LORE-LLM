@@ -1,0 +1,168 @@
+{
+    "name": "Barbara",
+    "entity_type": "character",
+    "status": "active",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Church of Favonius",
+        "Gunnhildr Clan"
+    ],
+    "power_source": "Vision",
+    "element": "Hydro",
+    "constellation": "Crater",
+    "aliases": [
+        "Shining Idol",
+        "Deaconess"
+    ],
+    "lore": {
+        "descriptions": [
+            "The Deaconess of the Favonius Church and a shining starlet adored by all. Although the concept of a starlet is rather novel in a city of bards, the people of Mondstadt love Barbara nonetheless. \"I owe everything to the city's spirit of freedom\" &mdash; Barbara, regarding her popularity.",
+            "Every citizen of Mondstadt adores Barbara. However, she learned the word \"idol\" from a magazine."
+        ],
+        "character_stories": [
+            {
+                "title": "Official Introduction",
+                "subtitle": "\"The best magic is diligence.\"",
+                "text": "▌Deaconess of the Knights of Favonius · Barbara\n\"The best magic is diligence.\"\n===============================\nBarbara, the Deaconess of the Knights of Favonius, is a shining starlet beloved by the people of Mondstadt.\nHer Hydro power is the best remedy for a wound, just like her soothing singing and dancing is solace to a weary heart.\nThe people of Mondstadt all think Barbara has some kind of magical power that can heal both the wounds and the heart, but only Barbara herself knows that the secret of such magic is diligence."
+            },
+            {
+                "title": "Character Details",
+                "text": "Barbara is the Deaconess of the Church of Favonius, as well as the shining idol of Mondstadt.\"The sight of Barbara makes all my problems disappear.\" This is quite a common saying among the citizens of Mondstadt.In fact, Barbara can do much more than just put people in a better mood: Her healing powers extend to flesh wounds and other physical ailments.Barbara is known to have access to miraculous healing powers through her Hydro Vision.However, Barbara herself knows that hard work is the most miraculous magic of all."
+            },
+            {
+                "title": "Character Story 1",
+                "text": "Every citizen of Mondstadt adores Barbara.However, this has not always been the case. At first, Barbara's songs sounded strange to the citizens of Mondstadt, and many struggled to see the appeal.This was because for the longest time, the folk songs of bards were the only popular songs known in Mondstadt.Fortunately, Mondstadt stayed true to its reputation as the City of Freedom, and the people ultimately embraced the new while continuing to cherish the old.People accepted Barbara's songs, and over time her positive energy rubbed off on them. Soon, they could be heard humming her tunes all around Mondstadt.\"Albert, would you stop please! You're completely out of tune!\""
+            },
+            {
+                "title": "Character Story 2",
+                "text": "Barbara's feelings on her own success are mixed.To the extent that an idol's duty is to make everyone adore her, she has done a fantastic job.There is no doubting that she has made the right choice.However, an idol is also expected to spread joy and relieve people's spiritual fatigue... Has she really accomplished that?She sang for blind Glory, encouraging her to believe that her lover would one day return. She sang, too, for sick Anna, promising her that her illness would one day be cured.Yet, the smiles on their faces never last long after the songs end.This has led Barbara to become somewhat disillusioned and doubtful."
+            },
+            {
+                "title": "Character Story 3",
+                "text": "Barbara has always been a bright and optimistic girl since she was young. Though at times she can be a bit clumsy and mess things up, she always bounces right back and has another go.Barbara is the complete opposite of her sister, who is seen by all as the pride of her family.Unlike Barbara, her sister has always been the very definition of success in all aspects.Initially, all Barbara had ever wanted was to surpass her sister in at least one thing, even if only once.However, be it swordplay, her grades, or anything else, she was never able to compare.Even for someone as optimistic as her, she found herself to be upset and down.\"Hard work is the most miraculous magic. But when even that doesn't work... what then?\""
+            },
+            {
+                "title": "Character Story 4",
+                "text": "Barbara has never once considered giving up.Her determination and resilience even surprised her father, Seamus Pegg, the Cardinal of Daybreak.Barbara only allows herself to be depressed for 30 seconds.After that, she forces herself to brighten up, no matter what.\"I'm not so good in combat, so I'll be sure to support those who are.\"Under her father's counsel, Barbara became a healer.She is as radiant as the sick and injured are pained.Her desire to be recognized gradually transformed into a simple desire to help others."
+            },
+            {
+                "title": "Character Story 5",
+                "text": "\"Thank you\" are the two words that Barbara hears most often.When she feels lost, she will suddenly find that there is someone wanting to hold her hand.\"Thanks for being here with me. I feel so much better.\"To Barbara, the greatest reward is seeing the smiles on people's faces.Therefore, whenever she is massaging her swollen calves or drinking tea to care for her sore throat, Barbara recalls all those who have been kind to her.\"It's the encouragement I receive from others that keeps me going.\"Just maybe, the smiles she receives are proof that her songs really can heal people.Her ambition to surpass her sister and become the most popular person in all of Mondstadt hasn't been abandoned by Barbara, it is simply buried deep inside her heart.\"If only I excelled more, perhaps I could be of help to Jean.\"This is what she believes.\"Okay... Barbara, go!\""
+            },
+            {
+                "title": "Alice's Idol Magazine",
+                "text": "\"...Idol?\"The first time that Barbara heard this strange word, she was visibly confused.\"But... aren't The Seven the ones that people are supposed to worship?\"\"Yes, but not exclusively...\" replied Alice, an elder of the Hexenzirkel, as she groomed the young girl for stardom. \"Read this, it contains everything you will need to know.\"\"Idol Magazine\" was the name of the assigned reading material. Barbara had no idea what world this magazine had come from, but by reading it she found out that there was indeed such thing as an \"idol,\" and that it mainly involved working hard at getting everyone to like you.She also discovered that an outstanding idol is capable of not just bringing joy to themselves, but also bringing spiritual healing to others through the power of song and dance.Barbara set about learning one new song after another, dancing to the beat as she went. Finally, she found happiness, and she found it in the smiling faces of others.Some time later, when Alice anxiously relayed to Barbara that plans for \"Teyvat Idols!\" were falling through, Barbara was starting to make a name for herself through her performances in Mondstadt.\"Hmm... Well, if I'm the only one left... I guess you can leave it to me to define what it really means to be an idol!\"Driven by this ever so slightly selfish ambition to spread joy and healing to others, Barbara is slyly swotting up on new tunes behind the scenes to this very day."
+            },
+            {
+                "title": "Vision",
+                "text": "The story of how Barbara obtained her Vision is hardly the typical tale of high-stakes heroism.She had just joined the church and was looking after a little boy with a high and persisting fever.Nothing Barbara could think of would console the boy and bring an end to his relentless tears.Someone remarked that while the boy had already taken his medicine, there was no way to cure the pain of missing one's family.Another suggested that Barbara sing a song for the boy to raise his spirits.Barbara had never sung a song in her life up until this point, but how could she shy away from it in a moment like this?\"Never having sung before is no reason to abandon a child in their time of need,\" Barbara thought to herself.And so, Barbara took the boy in her arms and sang him a song: a lullaby, the only song she knew.It was an unceremonious beginning to her singing career. After quickly realizing that she barely knew any of the words, she had to resort to humming the tune instead.Nevertheless, her voice began to soothe the child, and so she kept singing. She sang the same song, over and over again, until her throat was dry and her voice was hoarse. Finally, the boy fell asleep. Exhausted, Barbara lay down by the wall and fell straight asleep herself.Early the next morning, Barbara awoke to discover that the boy's fever had come down. Perhaps it was because she had sung for him, or perhaps it had something to do with the Vision which had mysteriously appeared next to her hand at some point during the night.Barbara was not preoccupied with the Vision, however. It was the sight of the boy smiling once again that filled her heart with joy.Barbara received her Vision for the simple but beautiful wish that took hold in her heart that night: A dream of healing the sick through the power of song."
+            }
+        ],
+        "additional_lore": [
+            {
+                "title": "Hello",
+                "text": "Tada! *giggles* Barbara is here~ Leave the healing to me, I will not disappoint you!"
+            },
+            {
+                "title": "About Barbara",
+                "text": "\"To the wind that guides me: When I'm exhausted, bless me with the strength to keep going forward. When I'm uncertain, bless me with the wisdom to distinguish good from evil. When I suffer from injustice, bless me with the courage to fight back...\" ...Oops, my apologies, I was just doing my prayers. *giggles* You need something?"
+            },
+            {
+                "title": "About Us: Hopes",
+                "text": "My dream is to bring a smile to the faces of all the people in my life! As long as I can help you on your journey, I'm happy~"
+            },
+            {
+                "title": "About Us: Dreams",
+                "text": "Thank you for being with me for all this time, I can feel that I'm getting closer to my dream. Hope we can keep this up in the future~!"
+            },
+            {
+                "title": "About the Vision",
+                "text": "Everyone has their own desires. To bring together and fulfill those desires and make everyone happy — that is the purpose my Archon has bestowed upon me."
+            },
+            {
+                "title": "Something to Share",
+                "text": "I could never get bored of the breathtakingly beautiful nature that surrounds Mondstadt. I've heard that there are blue trees that exist by the sea shore near Inazuma City. I just need to save up a little more, and... What's that? You want to know what I'm saving up for? *chuckles* That's my little secret."
+            },
+            {
+                "title": "Interesting Things",
+                "text": "Sunflowers always face the sun. They're so bright. In fact, my mother sent me a sunflower-style dress... I wonder when I'll finally get to wear it on stage?"
+            },
+            {
+                "title": "About Jean",
+                "text": "Acting Grand Master... Leader of the Knights of Favonius... Everyone seems to like her a lot. Oh? Me? I... Of course I have nothing but admiration for her!"
+            },
+            {
+                "title": "About Lisa",
+                "text": "I always take good care of Lisa. If she ever wants to become a star, she'll have my unconditional support, I'll cheer at the top of my lungs until my voice goes hoarse... Hmm, that might scare off her other fans though..."
+            },
+            {
+                "title": "About Amber",
+                "text": "I've seen Amber rushing out of Mondstadt on a mission countless times. Being an Outrider doesn't look easy."
+            },
+            {
+                "title": "About Diluc",
+                "text": "Oh, Master Diluc? Last time, when I was performing at Angel's Share, he kept frowning... Maybe he doesn't like my singing?"
+            },
+            {
+                "title": "About Venti",
+                "text": "Venti's voice is amazing! But all the songs he sings and the ones I'm good at are very different. I tried to learn them but... the melodies are just so complicated."
+            },
+            {
+                "title": "About Bennett",
+                "text": "Bennett always comes to the Cathedral covered in scrapes and bruises... Though it clearly never bothers him a bit, given the big grin he always has on his face. He really should take better care of himself."
+            },
+            {
+                "title": "About Varka",
+                "text": "My father left on the expedition with Grand Master Varka... I hope they are okay. Oh, what am I worried about? The Grand Master is none other than the Knight of Boreas, of course they will be fine! Still, I will be sure to pray for their safe return."
+            },
+            {
+                "title": "About Rosaria",
+                "text": "Sister Rosaria is hard to get to know, especially given she never joins in on prayers, but... Oh, I'm sure she believes in the Anemo Archon! Although, I still don't really have the courage to try to talk to her..."
+            },
+            {
+                "title": "About Noelle",
+                "text": "Noelle is just the cutest! She's so kind and patient, you just feel totally relaxed when you're around her. ...Oh yeah, and she makes the tastiest snacks! Best part is, they're also healthy. Hehehe!"
+            },
+            {
+                "title": "About Dahlia",
+                "text": "I really look up to Dahlia. We rely on him to share the word of Barbatos, and it's always a great help to us all. He never sticks around long at the Cathedral, though. Maybe it's too quiet for him? He seems to love the markets and the taverns. And he can be hard to find sometimes... same as Rosaria."
+            },
+            {
+                "title": "More About Barbara: I",
+                "text": "Knights look so cool when they swing their sword in combat! Don't you think so? I tried using a sword before but... *sigh* Uh, let's just say I have zero talent with a sword."
+            },
+            {
+                "title": "More About Barbara: II",
+                "text": "I want to heal everyone. This simple thought was all the motivation I needed to become a Deaconess. As long as I'm able to help everyone, I'll be content."
+            },
+            {
+                "title": "More About Barbara: III",
+                "text": "Being an idol, I learned from Alice that \"A true idol should always try to heal the soul of the people...\" Yes, I completely agree."
+            },
+            {
+                "title": "More About Barbara: IV",
+                "text": "I'm doing my best everyday... I hope my efforts earn the trust of the people of Mondstadt."
+            },
+            {
+                "title": "More About Barbara: V",
+                "text": "Every time I get on stage I always start to doubt myself — can I really heal every person in Mondstadt? But I look at you now, and I feel that as long as we keep marching forward, maybe one day I might just— Huh? I've already healed you? Well, one's not enough! I've already healed a lot of people? I suppose..."
+            },
+            {
+                "title": "Feelings About Ascension: Intro",
+                "text": "A dance from Barbara, to bring you more healing!"
+            },
+            {
+                "title": "Feelings About Ascension: Building Up",
+                "text": "Aw, thank you so much for your support! Oh no, I'm too excited, my heart just can't stop racing!"
+            },
+            {
+                "title": "Feelings About Ascension: Climax",
+                "text": "Please, tell me how I can be stronger! Just leave it up to you? No, no, that won't do! I want to help too!"
+            },
+            {
+                "title": "Feelings About Ascension: Conclusion",
+                "text": "Traveling with you, I have discovered that the world is my stage! Thank you so much! *giggles* Ok! Let's shout it out one more time! Three, two, one — Go Barbara, go!\n}}\n\n==Combat==\n{{Combat VO\n|character           = Barbara\n\n\n|skill_1_tx          = I'll protect us!\n|skill_2_tx          = Let's dance!\n|skill_3_tx          = Let the show begin!\n\n\n|burst_1_tx          = ♪La la-la-la-la~\n|burst_2_tx          = Ready, steady, go!\n|burst_3_tx          = Come on, we can do it!\n\n\n|sprint-s_1_tx       = Go Barbara, go!\n|sprint-s_2_file     = Sprint Start 02,Sprint Start 03,Sprint Start 04\n\n\n|sprint-e_1_tx       = *pant*... I'm fine!\n|sprint-e_2_tx       = *pant* Keep going...\n\n\n|glider_1_file       = Deploying Wind Glider 01,Deploying Wind Glider 02,Deploying Wind Glider 03\n\n\n|chest_1_tx          = This is the kind of surprise I could sing about.\n|chest_2_tx          = Oh, look at it sparkle!\n|chest_3_tx          = Hmm hmm hmm♪ Things are going so smoothly today~\n\n\n|low-hp_1_tx         = Don't worry about me...\n|low-hp_2_tx         = I can't stop now, they need me!\n|low-hp_3_tx         = Gotta keep trying!\n\n\n|ally-low-hp_1_tx    = I don't want to see you hurt...\n|ally-low-hp_2_tx    = Please, let me tend to your wounds!\n\n\n|fallen_1_tx         = I feel... a little weak...\n|fallen_2_tx         = Why has everyone stopped singing?\n|fallen_3_tx         = Sister...\n\n\n|hit-l_1_actual_tx   = Ow!\n|hit-l_2_tx          = Ouchie!\n|hit-l_3_file        = Light Hit Taken 03,Light Hit Taken 04,Light Hit Taken 05,Light Hit Taken 06\n\n\n|hit-h_1_actual_tx   = Eek!\n|hit-h_2_tx          = Oh no!\n|hit-h_3_file        = Heavy Hit Taken 03,Heavy Hit Taken 04,Heavy Hit Taken 05,Heavy Hit Taken 06\n\n\n|join_1_tx           = I'll take care of it.\n|join_2_tx           = Wish me luck!\n|join_3_tx           = We can do this!\n\n\n|idle_1_actual_tx    = Ma~ da-da-da-da~ da-da-da-da~ da... da!\n|idle_2_actual_tx    = I wonder when I'll be as tall as my big sister...\n\n|atk-l_1_file        = Light Attack 01,Light Attack 02,Light Attack 03,Light Attack 04,Light Attack 05,Light Attack 06\n\n|atk-m_1_file        = Mid Attack 01,Mid Attack 02,Mid Attack 03\n\n|atk-h_1_file        = Heavy Attack 01,Heavy Attack 02,Heavy Attack 03\n\n|climb_1_file        = Climbing 01,Climbing 02,Climbing 03,Climbing 04,Climbing 05\n\n|climb-b_1_file      = Climbing Breath 01,Climbing Breath 02,Climbing Breath 03\n\n|jump_1_file         = Jumping 01,Jumping 02,Jumping 03,Jumping 04,Jumping 05\n}}\n\n==Navigation==\n{{Character Navbox|VO}}\n\nde:Barbara/Stimme\nes:Bárbara/Voz\nfr:Barbara/Répliques\nit:Barbara/Battute\nja:バーバラ/ボイス/英語\npt-br:Barbara/Falas\nru:Барбара/Озвучка\nth:Barbara/เสียงพากย์\ntr:Barbara/Replikler"
+            }
+        ]
+    }
+}

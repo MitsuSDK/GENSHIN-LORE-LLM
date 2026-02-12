@@ -1,0 +1,176 @@
+{
+    "name": "Dori",
+    "entity_type": "character",
+    "status": "active",
+    "region": "Sumeru",
+    "affiliations": [
+        "The Palace of Alcazarzaray",
+        "Voynich Guild"
+    ],
+    "power_source": "Vision",
+    "element": "Electro",
+    "constellation": "Magicae Lucerna",
+    "aliases": [
+        "Treasure of Dream Garden",
+        "Sumeru Merchant"
+    ],
+    "lore": {
+        "descriptions": [
+            "Dori is a merchant in Sumeru who has a fondness for glittering Mora.With her persuasive eloquence, she is able to sell various strange and mysterious products for a very high price.",
+            "An elusive merchant who has a fondness for glittering Mora."
+        ],
+        "character_stories": [
+            {
+                "title": "Official Introduction",
+                "subtitle": "The Mora, the merrier!",
+                "text": "The unpredictable and elusive Dori seems to have an uncountable number of treasures.\nAs the most \"resourceful\" merchant in Sumeru, she has a way to get you anything you need, be it precious gems, rare herbs, and exotic items that no one has ever heard of.\nOf course, this doesn't come at a small price. Dori always has a warm smile on her face when quoting you jaw-dropping prices.\nSome people see her as rain after a long drought, one that brings timely relief, while others regard her as an unscrupulous merchant who takes advantage of the situation.\nBut all this chatter doesn't faze Dori in the slightest. The only thing that echoes in the Palace of Alcazarzaray has always been the crisp sound of Mora tinkling."
+            },
+            {
+                "title": "Character Details",
+                "text": "\"Dori Sangemah Bay, owner of the Palace of Alcazarzaray, super-duper merchant who sells everything you need!\"<!--\n              -->When one holds Dori's name card, this impressive title instantly comes into view.<!--\n              -->Dori is, however, indeed the most special Sumeru merchant of all.<!--\n              -->She already possesses vast wealth, but is still fervently passionate about earning Mora;<!--\n              -->She already owns multiple well-renowned merchant caravans, yet she always travels across Sumeru to sell her marvelous items in person.<!--\n              -->Speaking of which, her wares are just as curious as her style: special travel kit, outdoor dryer machines, automatic snowball launchers... You can probably buy anything you can think of from Dori. The only question is: Do you have enough Mora to do so?"
+            },
+            {
+                "title": "Character Story 1",
+                "text": "\"Oh wow, are you headed for the desert? I have some good stuff you'll need there.\"<!--\n              -->\"The rainforest is terribly infested with poisonous snakes, ferocious monsters, and a terminal case of humidity — it's no place for the less-than-thoroughly prepared, no sir! Now then, why don't you try bringing this for your trip? Buy it now and enjoy a 20 percent discount!\"<!--\n              -->\"Hold your horses, hotshot. You're not taking that route, are you? There's a huge pack of monsters lying in wait ahead that-a-ways. But see, I have some weapons here that you won't regret purchasing — you know, for self defense!\"<!--\n              -->\"Going to the Akhtamun Ruins? You've got the right person. First things first, you'll need a complete set of water-drawing tools... Which, as it happens, I happen to have for sale!\"<!--\n              -->There is a tale among adventurers in Sumeru.<!--\n              -->It says that if you are about to embark on a journey into a dangerous place, you'll see a diminutive figure, seemingly having been waiting for you.<!--\n              -->Be it in the treacherous mountains, arid deserts, grim rainforests, or desolate areas inhabited by monsters, you'll always see her smiling face.<!--\n              -->Word has it that Dori carries all manner of marvelous items on her person all the time. Her items can help adventurers get through their pressing troubles.<!--\n              -->—At a \"reasonable\" price, of course.<!--\n              -->Adventurers who \"have just received Dori's help in their time of need\" at the cost of \"paying a large sum of Mora at once\" often develop conflicted feelings toward her — somewhere in between gratitude and a grudge.<!--\n              -->For Dori's part, she considerately ignores the conflicted look on their faces, putting the fresh Mora in her almost-bursting purse and bidding them adieu with a contented smile.<!--\n              -->\"Thank you for your generous purchase. Hehe.\""
+            },
+            {
+                "title": "Character Story 2",
+                "text": "From the perspective of others, Dori's business has always been on the up and up. However, only Dori herself knows how many unimaginable bottlenecks she's struggled through.<!--\n              -->There was a time when orders from all over Sumeru just kept flooding in and Dori couldn't deliver such a giant number of orders in a timely fashion.<!--\n              -->Unfortunately, the capacity of the usual merchant routes was too limited for the delivery of commodities in such a gigantic quantity.<!--\n              -->Many members of Dori's merchant caravans suggested rejecting certain orders to dial down the scale of delivery and maintain a decent, stable profit — one that already seemed set to make them immensely wealthy, given time.<!--\n              -->But Dori took a very bold step: She accepted all the orders while starting cooperation with the Kshahrewar to establish new trade routes in areas that were known to be dangerous.<!--\n              -->She opened the new routes up to nearby merchant caravans, took the opportunity to found a commerce guild and put the relevant resources to good use, and finally eliminated the bottleneck that her business was stuck in.<!--\n              -->Today, Dori's new, built-from-scratch merchant routes are seen all across Sumeru, and the good reputation of \"Lord Sangemah Bay\" has spread far and wide.<!--\n              -->The words Dori said to her caravan members have also become common knowledge:<!--\n              -->\"I'm not some stupid toadstool. I don't cancel or reject any orders.\"<!--\n              -->\"Every Mora that can be earned, will be earned by me. Why? Well, because it's there, of course.\""
+            },
+            {
+                "title": "Character Story 3",
+                "text": "Dori used to suffer terribly from insomnia. Back then, she would often lose sleep for no reason. After such sleepless nights, she would show up to trade meetings with a pair of raccoon eyes.<!--\n              -->Even the best doctors couldn't diagnose her properly. She burned one frankincense stick after another, and yet they did not lull her into sleep but into coughing fits instead.<!--\n              -->It was at that moment that a doctor passed by and told Dori this:<!--\n              -->\"I've heard that some people place an hourglass by their bedside. The sound of the falling sand helps them sleep.\"<!--\n              -->Dori tried it for a few days and it didn't work. However, she was inspired by the failed attempt, ordering a large custom-made hourglass.<!--\n              -->That which was in this hourglass was not sand, but shiny Mora.<!--\n              -->That night, embraced by the music of jingling Mora, Dori slept soundly at last.<!--\n              -->After that, Dori learned the trick to dealing with insomnia:<!--\n              -->\"To sleep well, you must first secure peace of mind.\""
+            },
+            {
+                "title": "Character Story 4",
+                "text": "Maybe it's because of her deep love for Mora, Dori also takes interest in \"whoever or whatever might bring Mora in.\"<!--\n              -->For example, her merchant caravans use Sumpter Beasts to carry cargo, so Dori had an \"amusement park\" built for the Sumpter Beasts such that they might enjoy their downtime.<!--\n              -->She also handpicks Sumpter Beast food of the best quality to make sure that they have balanced nutrition and that they stay in good health.<!--\n              -->Also, as a shrewd merchant, she never misses a single business opportunity.<!--\n              -->Sumpter Beasts playing together in the amusement park make for a fun scene, so Dori took the chance to open the amusement park to tourists and sold tickets, food, and souvenirs to them. The cost of raising the Sumpter Beasts was covered by the amusement park's revenue in no time.<!--\n              -->Dori's love for Sumpter Beasts is genuine, and so is her intention to make Mora out of that love.<!--\n              -->Perhaps the Jinni in Dori's lamp knows this better than everyone else. The spirit was tricked into entering Dori's lamp, but it has never left since.<!--\n              -->Dori will summon it into combat, but she will also grant its wishes afterwards.<!--\n              -->Sometimes the Jinni even thinks that the fairy tale might actually have gotten things reversed —<!--\n              -->For the one who dwells in the lamp is a powerful fighter, while the one holding the lamp is the one who grants wishes."
+            },
+            {
+                "title": "Character Story 5",
+                "text": "No one knows how exactly Dori met Alice, but they are truly a pair of business partners that could make all merchants jealous.<!--\n              -->Alice travels the world, so she does not stay for long every time she visits Sumeru. However, every once in a while, Alice will ask someone to send her new invention to Dori.<!--\n              -->Dori, for her part, will sell it and find a way to send the Mora to Alice.<!--\n              -->Sometimes, Alice sends the invention with an attached letter that tells Dori to keep the Mora for the time being because Alice is currently in a dangerous area.<!--\n              -->However, Dori insists on getting someone to send the Mora to safe zones closest to Alice's position, making sure that Alice will receive the Mora at her earliest convenience.<!--\n              -->The labor, shipment, insurance... The various costs tend to amount to a fairly large expenditure, but Dori is never stingy in this regard. She even pays in advance.<!--\n              -->\"I, Dori, never default on payment.\"<!--\n              -->\"Also, Ms. Alice has expenses, too. I must make sure that she has Mora at hand whenever she needs it.\"<!--\n              -->Dori often repeats these words and, despite the trouble, repeatedly makes sure that Alice's payment is delivered.<!--\n              -->Though Alice is no longer Dori's only supplier, Alice's payment is still a top priority for Dori.<!--\n              -->Perhaps it's because Dori keeps a certain promise embedded in her heart — the promise she made to Alice the day they met.<!--\n              -->\"You want limitless Mora? Sure. I can supply you with marvelous items of all kinds. But how much Mora you're going to make will depend on how good you are at sales.\"<!--\n              -->\"Don't worry. I'll sell them for a good price, earn a large sum of Mora, and deliver your share as quickly as possible... I'll be your greatest business partner.\""
+            },
+            {
+                "title": "Mora Music Box",
+                "text": "To better enjoy the fascinating clinking of Mora, Dori ordered a custom-made \"Mora Music Box.\"<!--\n              -->On top of the music box is a slot precisely the size of a single Mora.<!--\n              -->Insert a Mora through the slot into the box, and it will roll along the intricate tracks inside and make pleasant clinking sounds.<!--\n              -->These sounds compose beautiful music to which Dori twirls in the grand Palace of Alcazarzaray.<!--\n              -->\"Mora, Mora, shining brightly.\"<!--\n              -->\"Mora, Mora, toward infinity.\"<!--\n              -->\"Beautiful Mora, Dori's Mora.\"<!--\n              -->\"Everyone's Mora, come to Dori.\"<!--\n              -->Dori's sung this song countless times, yet she's never tired of it.<!--\n              -->At the end of her dance, Dori takes a deep bow to her imaginary audience.<!--\n              -->It is also the moment when the Mora falls to the bottom of the music box, making the final clink —<!--\n              -->With this finishing touch, an imaginary curtain descends upon Dori's delightful dance.<!--\n              -->However, Dori is never quite finished — she always has another Mora to slot into her music box."
+            },
+            {
+                "title": "Vision",
+                "text": "Two girls of similar ages hummed a melody that was slightly out of tune. They spent their innocent childhood hand-in-hand as constant companions.<!--\n              -->They each picked flowers to decorate the other's hair in spring and walked across creeks barefoot in summer.<!--\n              -->They slid down the golden sand dunes in autumn and shared a book in the warmth of the winter sunlight.<!--\n              -->It seemed that such happy times would never come to an end.<!--\n              -->That is, until the elder sister started coughing blood for no reason. At this time, their home came to be ringed by a great many strange adults.<!--\n              -->The strangers explained the elder sister's situation in serious tones and with unfathomable jargon before sighing at the dingy little room.<!--\n              -->The younger sister had no idea what was happening, but she visited her sister every day, and her sister would always say this to her with a bright smile:<!--\n              -->\"It's alright. I just need some rest.\"<!--\n              -->Seeing that smile, the innocent younger sister's eyes filled with expectation. She even began looking forward to playing together like they used to.<!--\n              -->But one day, she saw her sister gripping her chest while telling a story.<!--\n              -->Then, when her frail form collapsed onto the bed, the younger sister reached out to catch her, only to find that her body was so very light.<!--\n              -->...It was almost as if her sister were a feather, a feather that might drift away to some place far, far away.<!--\n              -->Later on, the younger sister found a crumpled note.<!--\n              -->It was a doctor's prescription, with a list of herbs that were desperately scarce — the collectors who had such herbs were few and far between.<!--\n              -->To purchase those herbs would cost more than tens of millions of Mora, an impossible price for a family that was already struggling to make the ends meet.<!--\n              -->The elder sister always shook her head with a smile to dismiss her family's insistence on following the prescription. Perhaps she herself could only find the courage to glance at that note in the deep hours of the night — and dare to dream that she might \"live.\"<!--\n              -->Upon finding out about the note, the younger sister put it into her pocket silently and resolved to save her sister.<!--\n              -->\"I must make a lot of Mora.\"<!--\n              -->\"With enough Mora, my family will never have to smile at me while swallowing their pain, and I will never have to lose anything due to lacking Mora...\"<!--\n              -->Perhaps it was at that moment that the gods looked upon her with mercy.<!--\n              -->But to an \"ambitious\" person like her, getting a Vision was just the start.<!--\n              -->In the countless days and nights that have followed, she has constantly kept herself calm and clear-headed, telling herself:<!--\n              -->\"Conviction alone is not enough. I will work hard for what I desire until the end of my days.\"<!--\n              -->\"There's nothing that Lord Sangemah Bay cannot achieve.\""
+            }
+        ],
+        "additional_lore": [
+            {
+                "title": "Hello",
+                "text": "Oh! Well if it isn't the renowned Traveler! I'm Dori Sangemah Bay, a traveling merchant. As an introductory gift, you can enjoy a 10% discount on all my wares and merchandise. Feel free to have a look. I'll even help package up your purchase, free of charge."
+            },
+            {
+                "title": "About Dori:  Peddling",
+                "text": "Welcome to Dori's Divine Bazaar! Everything you need with service you can rely on! You name it, we've got it! Questions or troubles? I'm here to personally assist you!"
+            },
+            {
+                "title": "About Dori: Kshahrewar",
+                "text": "I tend to avoid people from the Akademiya, all those rules and regulations of theirs make it nearly impossible to do good business. Although, those from the Kshahrewar tend to be a little more sensible... Ahem, between the two of us, they signed a private contract with me. I have the Mora, they have the technology and crafting techniques. This collaboration will practically roll in opportunities for my business. Hehe, a Dori deal is always a lucrative deal!"
+            },
+            {
+                "title": "About Us: Promotion",
+                "text": "Planning to travel in Sumeru? The desert can be pretty dangerous, you know — but don't worry, Dori's always got your back! Ta-daaa! This is the Desert Survival Kit. Available to you for only 5 million Mora! Buy it now and I'll throw in an additional Rainforest Survival Kit, free of charge! This deal is available for a limited time only, so don't miss your chance!"
+            },
+            {
+                "title": "About Us: Mora Distribution",
+                "text": "My Mora is mine, and your Mora is mine too! Hehehe."
+            },
+            {
+                "title": "About Us: Actual Price",
+                "text": "Fine fine, I'll be honest with you... The desert and rainforest survival kits are worth two and a half million Mora each. But buy one get one free sure sounds like a good bargain, doesn't it?"
+            },
+            {
+                "title": "About the Vision",
+                "text": "Wow, just look at it... My Vision is so shiny and beautiful, isn't it? Don't you think you should pay me a fee for the privilege of seeing such an exquisite beauty?"
+            },
+            {
+                "title": "Something to Share",
+                "text": "Once, some stupid toadstools thought they could get away with not paying what they owed. Hmph, little did they know who they were messing with! ...Can you guess what happened to them?"
+            },
+            {
+                "title": "About Cyno",
+                "text": "You could say I know him. After all, I was the only merchant in all Sumeru who could acquire the full range of Genius Invokation TCG merch for him! Not bad, huh? I've gotta admit, it's pretty rare to see anyone from the Akademiya like him... independent and with a good head on his shoulders. Plus, he's never been one to haggle over prices."
+            },
+            {
+                "title": "About Tighnari",
+                "text": "He loves learning as much as I love Mora. I heard he makes a lot of little interesting gadgets, but he refuses to partner with me to mass produce them. He always says he's too busy with work, but really it's just an excuse. sigh A shame, really... We could make an absolute fortune!"
+            },
+            {
+                "title": "About Alhaitham",
+                "text": "He once came nosing around, asking my minions some questions to see what he could find out. Like I said, those Akademiya people are just pig-headed and dishonest. Why should I take the risk of others prying into my business? Right, my young apprentice?"
+            },
+            {
+                "title": "About Kaveh",
+                "text": "Ah yeah, he's one of the Kshahrewar people that I work with. Unlike the more closed-minded people at the Akademiya, he actually has his own dreams that he's fighting for. I, for one, really respect that. I secretly lent him some Mora — and I mean a LOT of Mora — to build my Palace of Alcazarzaray. One thing's for sure — without Dori the benevolent benefactor, Kaveh would not be where he is today, hehe."
+            },
+            {
+                "title": "About Dehya",
+                "text": "I hire her to help escort my caravans from time to time. After all, she's got the muscle, and her price is reasonable. When it comes to cost-performance ratio, she's always the best pick."
+            },
+            {
+                "title": "About Rex Lapis",
+                "text": "Before Rex Lapis parted from this world, I'd say a little prayer every morning: \"O great God of Wealth up above, please bless my day with more Mora to love.\" But uh, now, I guess I just pray to myself... \"O divine Dori right here and now, please bless my day with more Mora to count!\" Hehe."
+            },
+            {
+                "title": "About Lesser Lord Kusanali",
+                "text": "In Sumeru, Lesser Lord Kusanali has very few believers. Hmm? Am I one? Heh, if she's willing to pay me, I'd be her loyal believer for all eternity."
+            },
+            {
+                "title": "About Nilou",
+                "text": "She's a good dancer, but definitely not making the most of her time by staying in Sumeru... I mean, it's a complete waste of her talent. If I took her on tour across all Teyvat, do you have any idea how much Mora I'd rake in?"
+            },
+            {
+                "title": "About Alice",
+                "text": "Alice's range of eccentric novelties knows no end! Which makes her by far my best supplier, hehe. Ahem, now that I've told you my trade secret, I think you should catch up on your tuition fees, hmm? C'mon, pay up!"
+            },
+            {
+                "title": "About Kirara",
+                "text": "She delivered several orders to me when I was stocking up on goods from outside of Sumeru. Her service is great, and her prices are low. Oh, I think she's into pretty accessories, and I happen to have some handmade Sumeru specialties on sale! Wanna buy some as a gift for her? I can give you a discount!"
+            },
+            {
+                "title": "About Varesa",
+                "text": "Ah, yes, I know who you're talking about. The sweet and innocent Fruit Lord... Her family's produce is the best of the best! And she's very easy to negotiate with. If I simply purse my lips and look deep in thought, she gets nervous and starts questioning the quality of her goods, then she starts offering discounts... Hehe, you gotta be a little tougher than that in business, or you'll lose all your Mora! I hope it's only me that makes her squirm like that. She'd better not be giving the same discounts to everyone else!"
+            },
+            {
+                "title": "More About Dori: I",
+                "text": "You wanna hear some stories? Alright, it'll cost you a million Mora. Well... Okay, out of respect for our friendship, I guess I can give you a 1% discount. So that'll be 990,000 Mora. Pretty good deal if you ask me."
+            },
+            {
+                "title": "More About Dori: II",
+                "text": "Hehe, you've got a good head on your shoulders. I'll tell you a story about a merchant.A long, long time ago, a merchant lost her way while she was out on the road. It wasn't long before she encountered a Fog Div. Just as the Fog Div was about to eat her alive, she said in a panic, \"Wait, Mr. Fog Div! Don't eat me! I've got a story to tell you. Please, have a listen, and if you like what you hear, then perhaps you would spare me...\""
+            },
+            {
+                "title": "More About Dori: III",
+                "text": "...The Fog Div agreed to listen, and the merchant began to tell her story. It was about herself, from a time when business was not doing so well. Just as she was beginning to feel helpless, she happened to find a magic lamp in her warehouse. She began to polish the lamp, when all of a sudden, a puff of red smoke came out. The smoke spoke to her and claimed to be The Genie of Beauty and Kindness. The merchant somehow reminded the genie of her own lovely daughter, so she kindly offered to grant the merchant a wish."
+            },
+            {
+                "title": "More About Dori: IV",
+                "text": "What could a merchant ever desire more than the prospect of more Mora? So the merchant wished that she could earn more Mora in the future than she could ever hope to count. The Genie of Beauty and Kindness agreed, and became the merchant's supplier, providing her with magical and fantastic goods. The merchant soon went on to make a fortune..."
+            },
+            {
+                "title": "More About Dori: V",
+                "text": "Hearing the merchant's story, the Fog Div became very puzzled. The div and the genie were obviously of the same species, so how come the div couldn't perform any magic? The merchant praised the Fog Div's potential, saying that it, too, would surely gain the genie's great power if only it were to stay in the same magic lamp. The Fog Div agreed and entered the merchant's magic lamp... Huh? Is this a real story? Backstory details cost extra! Give me another 990,000 Mora and I'll tell you!"
+            },
+            {
+                "title": "Feelings About Ascension: Intro",
+                "text": "Does this mean you're investing in me? Hehe, I always knew you had a good head on your shoulders."
+            },
+            {
+                "title": "Feelings About Ascension: Building Up",
+                "text": "The Mora, the merrier."
+            },
+            {
+                "title": "Feelings About Ascension: Climax",
+                "text": "Wow! This is like having a bottomless coin pouch filled with endless power!"
+            },
+            {
+                "title": "Feelings About Ascension: Conclusion",
+                "text": "Congratulations! You are now a VIP customer of the illustrious Lord Sangemah Bay! This entitles you to enjoy a 20% discount on all future purchases. You're also the first VIP customer ever, so make good use of it!\n}}\n\n==Combat==\n{{Combat VO\n|character           = Dori\n\n|skill_1_file        = Elemental Skill 1 02\n|skill_1_tx          = Watch this!\n|skill_2_file        = Elemental Skill 1 03\n|skill_2_tx          = Your Mora is mine!\n|skill_3_file        = Elemental Skill 1 01\n|skill_3_tx          = \n|skill_3_actual_tx   = Shazam!\n\n|burst_1_tx          = Magic lamp!\n|burst_2_tx          = Here's the goods!\n|burst_3_tx          = Let's sweeten the deal!\n\n|sprint-s_1_file     = Sprint Start 01,Sprint Start 02,Sprint Start 03\n\n|glider_1_file       = Deploying Wind Glider 01,Deploying Wind Glider 02,Deploying Wind Glider 03\n\n|chest_1_file        = Opening Treasure Chest 01\n|chest_1_tx          = We'll split it, fifty-fifty.\n|chest_2_tx          = Show me the goods!\n|chest_3_tx          = I'll take it all!\n\n|low-hp_1_file       = Low HP 01\n|low-hp_1_tx         = Hands off my Mora!\n|low-hp_2_tx         = Help! I'm being robbed!\n|low-hp_3_tx         = Protect the Mora.\n\n|ally-low-hp_1_tx    = I'll help for a price!\n|ally-low-hp_2_tx    = You can't spend Mora dead, numbskull!\n\n|fallen_1_tx         = Must earn... more Mora...\n|fallen_2_tx         = Not... again...\n|fallen_3_tx         = Guess there's some things... Mora can't buy...\n\n|hit-l_1_file        = Light Hit Taken 01\n|hit-l_1_tx          = Mind the merchandise!\n|hit-l_2_file        = Light Hit Taken 02\n|hit-l_2_tx          = No can do!\n|hit-l_3_file        = Light Hit Taken 03,Light Hit Taken 04,Light Hit Taken 05,Light Hit Taken 06\n\n|hit-h_1_file        = Heavy Hit Taken 01\n|hit-h_1_tx          = You big bully!\n|hit-h_2_file        = Heavy Hit Taken 02\n|hit-h_2_tx          = That's a deal-breaker!\n|hit-h_3_file        = Heavy Hit Taken 03,Heavy Hit Taken 04,Heavy Hit Taken 05,Heavy Hit Taken 06\n\n|join_1_tx           = C'mon let's go! There's a fortune to be made!\n|join_2_tx           = Hurry up! Mora waits for no one.\n|join_3_tx           = So, what's the deal?\n\n|idle_1_file         = Standby 01\n|idle_1_actual_tx    = Huh? Hmm.... Ta-da! No! Oh, fine...\n|idle_2_file         = Standby 02\n|idle_2_actual_tx    = \n\n|atk-l_1_file        = Light Attack 01,Light Attack 02,Light Attack 03,Light Attack 04,Light Attack 05,Light Attack 06,Light Attack 07\n\n|atk-m_1_file        = Mid Attack 01,Mid Attack 02,Mid Attack 03\n\n|atk-h_1_file        = Heavy Attack 01,Heavy Attack 02,Heavy Attack 03\n\n|climb_1_file        = Climbing 01,Climbing 02,Climbing 03,Climbing 04,Climbing 05\n\n|climb-b_1_file      = Climbing Breath 01,Climbing Breath 02,Climbing Breath 03\n\n|jump_1_file         = Jumping 01,Jumping 02,Jumping 03,Jumping 04,Jumping 05\n}}\n\n==Navigation==\n{{Character Navbox|VO}}\n\nes:Dori/Voz\nfr:Dori/Répliques\nit:Dori/Battute\nja:ドリー/ボイス\nru:Дори/Озвучка\ntr:Dori/Replikler"
+            }
+        ]
+    }
+}

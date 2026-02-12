@@ -1,0 +1,196 @@
+{
+    "name": "Tartaglia",
+    "entity_type": "character",
+    "status": "active",
+    "region": "Snezhnaya",
+    "affiliations": [
+        "Fatui",
+        "Eleven Fatui Harbingers"
+    ],
+    "power_source": "Vision",
+    "element": "Hydro",
+    "constellation": "Monoceros Caeli",
+    "aliases": [
+        "Childe",
+        "Eleventh of the Eleven Fatui Harbingers"
+    ],
+    "lore": {
+        "descriptions": [
+            "Meet Tartaglia &mdash; the cunning Snezhnayan whose unpredictable personality keeps people guessing his every move.\nDon't be under any illusion as to what he might be thinking or what his intentions are. Just remember this: Behind that innocent, childlike exterior lies a finely honed instrument of war.",
+            "No. 11 of The Harbingers, also known as \"Childe.\" His name is highly feared on the battlefield."
+        ],
+        "character_stories": [
+            {
+                "title": "Official Introduction",
+                "subtitle": "Secrets From the Depths of Winter",
+                "text": "Warm and friendly one minute, ruthless killer the next... His shifting and unpredictable personality can leave those around him at a loss for words to describe him. But in rare, private moments, he dispenses with titles, casts off his armor and the layers of intrigue that come with it, and show his authentic self.\nHis name is Tartaglia, and he is devoted to the thrill and the physical feel of battle.\nDon't be under any illusion as to what he might be thinking or what his intentions are. Just remember this: Behind that innocent, childlike exterior lies a finely honed instrument of war.\nLike a velvet sheath that houses an ostensibly ornamental blade, his unpredictability puts people on edge."
+            },
+            {
+                "title": "Character Details",
+                "text": "Despite holding one of the most senior positions in the Fatui as one of the Eleven Harbingers, Childe very much looks like the young adult that he still is.He is a wolf in sheep's clothing, however, for under the cheerful and confident appearance lies a deadly swordsman.He is the youngest among the Harbingers, but one of the most dangerous among their number.That said, Childe doesn't seem to fit in well with the others.As a fighter first and foremost, he is quite at odds with this organization of deceit and treachery."
+            },
+            {
+                "title": "Character Story 1",
+                "text": "As the youngest Harbinger in the history of the Fatui, Childe is hardly bound by convention, and plays by his own rules accordingly.Though this lone wolf is not so well-received by his peers and is also at odds with their methods, his cavalier demeanor hides a responsible, watertight meticulousness.He is a proud man of his word. Even if the promise he makes is absurd, he will never break it.Be it exterminating all the dragons inside their lairs, venturing into a domain of extreme danger, or single-handedly overthrowing the territory of a nobleman...He not only keeps his promises, but does so with finesse and surgical precision. As the Harbingers' vanguard, Childe always appears in the vulnerable underbellies of Snezhnaya's enemy states, striking as a conflict is about to erupt."
+            },
+            {
+                "title": "Character Story 2",
+                "text": "Many myths in Snezhnaya say that Tartaglia has been on the battlefield since he was 14 years old.Oddly enough, at that young age he already seemed to be a skilled slaughterer with mastery of many forms of martial arts.But more terrifying than his skill in combat was his passion for it.Perilous battles would only excite him, and terrifying foes would exhilarate him all the more.Childe's arrogance and conceit are derived from honing himself across countless battles, and from unmatched combat experience.On the other hand, because they fret about the way his quarrelsome personality tends to invite unwanted trouble, the other Harbingers constantly try to get him sent on missions to places as far from Snezhnaya as possible, so that they can avoid the fallout.The man is incomprehensibly ever in the eye of the storm, and these unusual experiences have also made him quite the show-off who revels in the praise of others.Unlike other members of the Harbingers, who prefer to keep a low profile, Tartaglia will often go to watch public performances — occasionally even becoming part of the show himself."
+            },
+            {
+                "title": "Character Story 3",
+                "text": "Ice fishing has been one of Tartaglia's hobbies since childhood.In those days, he was known neither by the names Tartaglia nor \"Childe,\" as the Fatui call him, but as Ajax, named by his father after some hero's tale. He and his father would cut holes open upon frozen lakes before sitting beside them and tending to their fishing lines.This was no easy task, and would sometimes take the entire morning.But whether it was chiseling away at the thick ice or the long waits in between catches, he was always accompanied by his father's unending tales of adventure.These were stories of his father's adventures from when he was young, and they became the future that Tartaglia secretly envisioned for himself.So he would pay close attention, putting himself into the shoes of the protagonist of those tales, immersing himself fully in them even as they waited for a fish to bite.Even after leaving home, Ajax, later to be known as \"Childe\" Tartaglia, would keep up that hobby of his.No longer accompanied by the stories of bygone days, fishing instead became an opportunity to train — to hone his endurance, and reflect on combat techniques.Such long periods of meditation to refine his skills swiftly relegated the question of a successful catch to irrelevance."
+            },
+            {
+                "title": "Character Story 4",
+                "text": "Unlike what the rest of the world may think, Tartaglia was not born with his exceptional skills in battle.But he would never speak to anyone about that critical, fateful encounter of his...When he was 14, he fled his monotonous life at home with nothing but a shortsword and a bag of bread in hand.That 14-year-old boy got lost in the snowy forest.Pursued by bears and wolf packs, he lost his footing and fell into a bottomless crack in the earth's surface.There, he witnessed the endless possibilities of another ancient world. There, he would meet a mysterious swordswoman...Or perhaps one should say that this dark realm had sensed the burning ambition in this boy's heart.This darkness was something that the Harbinger Childe could never again delve into.In those three months, the swordswoman taught Tartaglia how to pass through the Abyss unhindered, and more importantly, nurtured the ability to stir up endless havoc from within Ajax's trouble-mongering nature.No one knew what happened within that darkness during those three months, nor would Ajax ever speak of this to anyone.When his worried mother and sisters finally found him in that forest, only 3 days had passed in this world.Thus did Ajax's first adventure end, with his now-rusty shortsword in hand.This would mark the end of his youth and the beginning of his days as a warrior."
+            },
+            {
+                "title": "Character Story 5",
+                "text": "By the time he returned home, the young man was no longer the same.He was no longer frightened and hesitant but had become frivolous and confident. He acted as if this world revolved around him, and as if battle existed for his sake.Conflict often brings about change, and this capricious, incalculable change attracted Ajax like a revolving kaleidoscope.In the eyes of his father, that third son that he had so worried about had changed for the worse, bringing much uncalled-for havoc to the seaside village of Morepesok.Or perhaps it would be more accurate to say that Ajax had become a nexus of strife, for no matter where he went, fights and squabbles would follow — and he reveled in it.Ultimately, after a huge brawl was pacified with some difficulty and with some near-fatal misses, his father had no choice but to hand his beloved son over for conscription into the Fatui.He hoped that the strict military training of the Fatui could hone his son's temper, but wound up watching fully-armed troops getting the stuffing beaten out of them by a mere child.This was a great disappointment to his father, but it also caught the attention of Pulcinella, the 5th Harbinger.Shocked by Ajax's great strength and curious about how he invariably became the eye of a vortex of discord, Pulcinella inducted Ajax into the Fatui under the pretext of meting out punishment, ordering him to start from the bottom and take up the duty of serving the Tsaritsa.His insatiable desire for conquest would thus be constantly satiated in fighting for the Fatui, and his ever-burgeoning ego would gorge upon the elation of vanquishing mighty foes...Until at last, Ajax was chosen to be one of the Fatui Harbingers, donning the mantle of \"Childe\" Tartaglia and becoming one of the most powerful people in Snezhnaya.But becoming Tartaglia was far from his end goal. To someone who sought to conquer the world, this was but a tiny step in his journey."
+            },
+            {
+                "title": "Tartaglia's Letters to Home",
+                "text": "\"Dearest Sister, are you all keeping well at home? Has the old man's headache gotten any better?Please send my regards to our parents and our siblings.I've sent some wind chill medication over from Liyue Harbor. It's very effective, and will probably keep him from nagging for a while. It should reach you after a few days.Apart from our father's affairs, I naturally haven't forgotten about gifts for you all.This letter should come with two kites from Liyue, a rattle drum, two porcelain dolls from Inazuma, and a crate full of various snacks.And please break it to Anthon that the residents of Liyue are just boring old ordinary humans, like us.They're not made of stone, and they don't even eat stones.Do not fret for my sake, Tonia, and refrain from making trouble for anyone at home. I will be home soon. When I have seized the seven stars of Liyue and laid them at the feet of Her Majesty the Tsaritsa, I will take the first ship home, just as I promised — and you know how I always keep my promises.Yours faithfully, Your loyal knight.\""
+            },
+            {
+                "title": "Delusion",
+                "text": "Tartaglia's Delusion is his old badge of honor and the proof of his strength.He still remembers with perfect clarity the day when he received his Delusion and ascended to become a member of the Harbingers.As he stood before the cold, stern Tsaritsa, The Jester, the very first of the Fatui, personally pinned this insignia onto him.It was his reward for slaying many terrible beasts, and a memento of countless battles.But it was not this that brought Tartaglia joy, for honor is the natural reward of the warrior.Nor did he pay any mind to the odd looks his new \"colleagues\" gave him, for the opinions and bellyaches of others meant nothing to him.The sight of the Tsaritsa on her lofty throne alone stirred the young man's heart with respect and admiration, not merely because she opened the way for him to find an abundance of looming battles, but also because of the way she looked upon him.Her gaze was cold but pure, arrogant yet sharp.She was not only the sacrosanct Cryo Archon but also a true warrior.Thus did Childe, having received his Delusion, swear an oath of fealty to the one and only Tsaritsa of Snezhnaya."
+            }
+        ],
+        "additional_lore": [
+            {
+                "title": "Hello",
+                "text": "I'm No. 11 of the Fatui Harbingers, codename Childe, but I also go by Tartaglia. And you... Hmm, you too like to cause quite the stir, don't you? Something tells me we're going to get along splendidly."
+            },
+            {
+                "title": "About Tartaglia",
+                "text": "A warrior must always be ready to face any challenge with his blade. The outcome of the battle is irrelevant — what matters is that you learn from the experience."
+            },
+            {
+                "title": "About Us: Comrades",
+                "text": "Ah, I'm sure the Harbingers must know of my dealings with you by now. Oh, I'd love to see the look on their faces... Hahaha..."
+            },
+            {
+                "title": "About Us: Weapons",
+                "text": "I am the least adept with a bow. And that is precisely why I must master it."
+            },
+            {
+                "title": "About Us: Survival",
+                "text": "You wield such powers without owning a Vision... I really am excited to see what you have in store for us... Let's see how far you can go. Just don't go dying on me before you lay it all on the line in our own final battle! I won't allow it!"
+            },
+            {
+                "title": "About Us: Invitation",
+                "text": "Comrade, how would you like to join the Fatui? ...Actually, scrap that. With your capabilities, you and I could head-to-head with the Harbingers and win. Wouldn't want to miss an opportunity like that."
+            },
+            {
+                "title": "About the Vision",
+                "text": "If it makes me stronger, I'll take it. Vision? Great. Delusion? Don't mind if I do. Heretical teachings from the Abyss? Sign me up."
+            },
+            {
+                "title": "Something to Share",
+                "text": "The skeletal-white snowscape devours life without leaving any trace. It is the invisible enemy we fight against each day."
+            },
+            {
+                "title": "Interesting Things",
+                "text": "I once ventured deep into the abyss and came face-to-face with an enormous beast. I don't know its name, all I know is the sight of it chilled me to the bone. But mark my words, one day I will march back in there and behead that beast, and you, comrade, will be my witness!"
+            },
+            {
+                "title": "About Skirk",
+                "text": "It's been years since I last saw my master. I should hope that next we meet, I'll at least be able to force her to use both hands to beat me..."
+            },
+            {
+                "title": "About Zhongli: Pondering",
+                "text": "There's far more to that man than meets the eye. As for the extent of his power... lots to look forward to, I think."
+            },
+            {
+                "title": "About Zhongli: Challenge",
+                "text": "Tell me, how has Mr. Zhongli been lately? Not bad, you say? Seems he's had no problem acclimating to \"mortal\" life. Hmph, he sure had me fooled. Such a fiasco mustn't be so easily forgiven! The only way to reconciliation is fierce combat! What do you mean I'm no match for him? Hahaha..."
+            },
+            {
+                "title": "About Tsaritsa",
+                "text": "Her Royal Highness the Tsaritsa is actually a gentle soul. Too gentle, in fact, and that's why she had to harden herself. Likewise, she declared war against the whole world only because she dreams of peace. And because she made an enemy of the world, I had the chance to become acquainted with you."
+            },
+            {
+                "title": "About Varka",
+                "text": "Varka? Just the thought of one day going head-to-head with him in combat, the fabled Knight of Boreas himself, titan of the Knights of Favonius... It makes me buzz with excitement. It's a beautiful life we live in this world."
+            },
+            {
+                "title": "About The Jester",
+                "text": "He was the first ever Fatui Harbinger, and today he is our leader. He only appears on important occasions. As for his accomplishments... To be honest, I don't really care. I owe my loyalty and devotion to the Tsaritsa, no one else."
+            },
+            {
+                "title": "About The Captain",
+                "text": "I've seen him in battle before, and oh what a sight it was. Perhaps I'm ranked too low for him to notice me right now. Well, he may not recognize my strengths yet, but one day, I'll show him what I'm made of."
+            },
+            {
+                "title": "About The Doctor",
+                "text": "I heard that he took segments of himself at different ages, made prostheses out of them, and assigned different tasks to each one. I know... all my comrades are a little weird. Well, come to think of it, if I met another version of myself... Hah, we'd have to fight then and there to decide which one of us gets to survive."
+            },
+            {
+                "title": "About Damselette",
+                "text": "The Fatui Harbingers are ranked by strength, and I have no idea why that girl is No. 3. I'd test my skills with every Harbinger who ranks above me if I had the chance, but when it comes to her... something just doesn't feel right. Anyway, you should be careful around her."
+            },
+            {
+                "title": "About The Knave",
+                "text": "Look, I've got nothing against people who have their own agendas — I myself joined the Fatui to get more experience in combat. But I don't like her at all. If she stood to benefit from betraying others, she'd turn against the Tsaritsa in a heartbeat. There isn't a sane bone in her body."
+            },
+            {
+                "title": "About The Rooster",
+                "text": "I don't know what his motivations could be, but he seems genuine about wanting to help me. He treats me just like family. Oh, and speaking of family — Tonia and Teucer are always telling me about the pastries and other gifts he brings them when they write. So while I've been away from Snezhnaya, he's kept his promise to take care of my family."
+            },
+            {
+                "title": "About Marionette",
+                "text": "She always seems engrossed in her research. Hmm... I wonder if those machines have anything to do with her? Anyway, I've only met her a few times, but every time she looked like she wanted to murder me. I have no idea what I possibly could have done to annoy her, though."
+            },
+            {
+                "title": "About Regrator",
+                "text": "Oh, now that guy has a head full of grandiose plans fueled by raw ambition. I don't understand a word he says once he starts talking about his theories... Eh, but as long as he keeps our cash reserves stocked up, I'm not complaining."
+            },
+            {
+                "title": "About The Fair Lady",
+                "text": "I never got along with her, you know that. I guess there's not much more worth saying about her at this point. When you're a harbinger, you have to accept that death could come at any time... But don't worry about me. No matter what happens, I'll do whatever it takes to keep myself alive."
+            },
+            {
+                "title": "About The Balladeer",
+                "text": "After he took the Gnosis, we lost all contact with him. Now comes the task of trying to hunt it down and get it back... I actually don't mind it — it means I get to travel all over. Wonder if I'll run into you somewhere along the way?"
+            },
+            {
+                "title": "More About Tartaglia: I",
+                "text": "Remember, comrade, one day I will conquer the world!"
+            },
+            {
+                "title": "More About Tartaglia: II",
+                "text": "Face me in person, man to man, and I'll always have a chance of beating you. Same goes if you're a deity or a monster from the abyss. But the Harbingers? They are more enamored with their intangible methods, spending their days scheming and maneuvering. This is why we cannot get along."
+            },
+            {
+                "title": "More About Tartaglia: III",
+                "text": "However far away my motherland may be, we all live under the same sky. That snow-white moon... My family must be able to see it too. I hope my siblings... *sigh* I hope that they have turned out to be formidable warriors as well."
+            },
+            {
+                "title": "More About Tartaglia: IV",
+                "text": "Comrade, a word of advice: Don't go yelling stupid things in the heat of battle. They might sound good in your head, but if you think about it, they make no sense at all. I'm talking about things like, \"I'm on fire!\" That's the last thing we want. Fire leaves behind nothing but ashes. And you must survive at all costs."
+            },
+            {
+                "title": "More About Tartaglia: V",
+                "text": "Ah, how time flies. One day, you will see how I conquer the world and crush the thrones of gods beneath my heel. In the meantime... no dying, comrade! Keep yourself alive! Hahaha."
+            },
+            {
+                "title": "Feelings About Ascension: Intro",
+                "text": "Hohoho, I feel like I've gotten stronger! Now, who shall I use as my guinea pig..."
+            },
+            {
+                "title": "Feelings About Ascension: Building Up",
+                "text": "\"A warrior's strength is like a dome. The bigger the dome, the more opponents he can challenge inside it.\" Hmm, who was it that said this again?"
+            },
+            {
+                "title": "Feelings About Ascension: Climax",
+                "text": "Bravo, comrade! Thanks to your help, I am one step closer to my goal of conquering the world. I doubt even the Tsaritsa herself ever expected I would make it this far."
+            },
+            {
+                "title": "Feelings About Ascension: Conclusion",
+                "text": "Comrade. Make sure you keep training too. Otherwise, who will be left to fight me to the death when the world lies defeated at my feet? Hahaha.\n}}\n\n==Combat==\n{{Combat VO\n|character           = Tartaglia\n\n|skill_1_tx          = ''(to Melee Stance)'' You're mine!\n|skill_2_tx          = ''(to Melee Stance)'' Ha!\n|skill_3_tx          = ''(to Melee Stance)'' Tidal wave!\n|skill_4_tx          = ''(to Ranged Stance)'' Bring it on!\n|skill_5_tx          = ''(to Ranged Stance)'' Who's next?\n|skill_6_tx          = ''(to Ranged Stance)'' Hah...\n|skill_7_file        = Elemental Skill 2 01,Elemental Skill 2 02,Elemental Skill 2 03,Elemental Skill 2 04\n\n|burst_1_tx          = ''(Ranged Stance)'' Riptide!\n|burst_2_tx          = ''(Ranged Stance)'' You can run, but you can't hide!\n|burst_3_tx          = ''(Melee Stance)'' Shouldn't let your guard down!\n|burst_4_tx          = ''(Melee Stance)'' Brace yourself, this is gonna hurt!\n\n|sprint-s_1_file     = Sprint Start 03\n|sprint-s_1_tx       = No time to lose.\n|sprint-s_2_file     = Sprint Start 01,Sprint Start 02\n\n|glider_1_file       = Deploying Wind Glider 02\n|glider_1_tx         = I could get used to this.\n|glider_2_file       = Deploying Wind Glider 01,Deploying Wind Glider 03\n\n|chest_1_tx          = Alright, now we're talkin'!\n|chest_2_tx          = Not bad... Not bad at all!\n|chest_3_tx          = Now I just need to get my hands on the rest!\n\n|low-hp_1_tx         = Heh, this is getting interesting.\n|low-hp_2_tx         = You're pretty good!\n|low-hp_3_tx         = Death looms. My time to shine!\n\n|ally-low-hp_1_tx    = What's the matter, out of practice?\n|ally-low-hp_2_tx    = Step aside, it's my turn!\n\n|fallen_1_tx         = How... I had only just...\n|fallen_2_tx         = Drat!\n|fallen_3_tx         = I'm... quite impressed...\n\n|hit-l_1_file        = Light Hit Taken 01,Light Hit Taken 02,Light Hit Taken 03,Light Hit Taken 04,Light Hit Taken 05,Light Hit Taken 06\n\n|hit-h_1_tx          = Amateur mistake.\n|hit-h_2_file        = Heavy Hit Taken 02,Heavy Hit Taken 03,Heavy Hit Taken 04,Heavy Hit Taken 05,Heavy Hit Taken 06\n\n|join_1_tx           = Need to end a few enemies?\n|join_2_tx           = Keep your eyes wide open!\n|join_3_tx           = C'mon, don't keep me waiting!\n\n|atk-l_1_file        = Light Attack 01,Light Attack 02,Light Attack 03,Light Attack 04,Light Attack 05,Light Attack 06,Light Attack 07,Light Attack 08,Light Attack 09\n\n|atk-m_1_file        = Mid Attack 01,Mid Attack 02,Mid Attack 03,Mid Attack 04,Mid Attack 05\n\n|atk-h_1_file        = Heavy Attack 01,Heavy Attack 02,Heavy Attack 03\n\n|climb_1_file        = Climbing 01,Climbing 02,Climbing 03\n\n|climb-b_1_file      = Climbing Breath 01,Climbing Breath 02,Climbing Breath 03,Climbing Breath 04\n\n|jump_1_file         = Jumping 01,Jumping 02,Jumping 03,Jumping 04,Jumping 05\n}}\n\n==Trivia==\n*Tartaglia has more differences between his English voice lines and their official transcriptions than usual. Generally, the voiced lines match the original Chinese lines.\n*Differences between language versions:\n**'''Chat: Test of Skills:''' In Chinese, he says, \"Hmm... Are there no powerful enemies worth fighting nearby?\" as compared to his English script, \"This place is pretty dead... By which I mean, there's nothing to kill.\"\n**'''More About Tartaglia - II:''' In Chinese, he is more openly disdainful towards the other Harbingers, saying \"I can't get along with such boring folk.\"\n**'''More About Tartaglia - III:''' In Chinese, he specifies \"little brothers and sister\" when he says \"my siblings.\"\n**'''Gliding:''' In Japanese, he says \"悪くないね ''Warukunai ne''?\" meaning \"Not bad, huh?\"\n\n==Navigation==\n{{Character Navbox|VO}}\n\nde:Tartaglia/Stimme\nes:Tartaglia/Voz\nfr:Tartaglia/Répliques\nit:Tartaglia/Battute\nja:タルタリヤ/ボイス/英語\npl:Tartaglia/Kwestie dialogowe\npt-br:Tartaglia/Falas\nru:Тарталья/Озвучка\nth:Tartaglia/เสียงพากย์\ntr:Tartaglia/Replikler"
+            }
+        ]
+    }
+}

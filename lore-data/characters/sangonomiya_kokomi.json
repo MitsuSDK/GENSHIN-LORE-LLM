@@ -1,0 +1,161 @@
+{
+    "name": "Sangonomiya Kokomi",
+    "entity_type": "character",
+    "status": "active",
+    "region": "Inazuma",
+    "affiliations": [
+        "Watatsumi Island",
+        "Sangonomiya Clan",
+        "Watatsumi Army"
+    ],
+    "power_source": "Vision",
+    "element": "Hydro",
+    "constellation": "Dracaena Somnolenta",
+    "aliases": [
+        "Pearl of Wisdom",
+        "Hibernating Homebody Strategist"
+    ],
+    "lore": {
+        "descriptions": [
+            "Kokomi is the Divine Priestess of Watatsumi Island, and also serves as its supreme leader.She is well-versed in the art of war, is good at strategizing, and has keen insights into military affairs. She is also adept at handling domestic affairs, diplomacy, and other matters.\nStill, this unfathomable leader has a mysterious side to her...",
+            "The Divine Priestess of Watatsumi Island. All of the island's affairs are at this young lady's fingertips."
+        ],
+        "character_stories": [
+            {
+                "title": "Official Introduction",
+                "subtitle": "Victory Through Wisdom",
+                "text": "The Divine Priestess and supreme leader of Watatsumi Island\nMany believe Sangonomiya Kokomi to be an enigmatic, shrewd leader. However, she always has a quiet smile on her face, and while she gets things done in an orderly fashion, she will sometimes do so over laughter and light conversation.\nHaving read many military treatises from all over Teyvat since she was a child, Kokomi has a talent for strategy and is capable of outwitting opponents through clever stratagems. Although Watatsumi Island lacks manpower and , its people have managed to turn the tide of battle many times thanks to Kokomi's tactical prowess. Whether in battle, trade, diplomacy, or internal affairs, Kokomi will do her best. Her achievements have won her the respect of Watatsumi Island's various factions.\n\"Never fear, Her Excellency Sangonomiya is here,\" has become a popular saying amongst the people of Watatsumi Island.\nHowever, few people know that Kokomi's biggest aspiration has always been to merely be an adviser behind the scenes. Socializing with others is in fact a most tiring task for her. Her hands shake every time she gives a speech, and she entertains thoughts of retreating into herself every time work starts piling up. She enjoys herself most while holed up at home after finishing her work, face buried in her military strategy books.\nTo reach a lofty post at such a young age is considered a great achievement, but for Kokomi, the higher up one is on the mountain, the more treacherous the path.\nThe Divine Priestess of Watatsumi Island.\nAll of the island's affairs are at this young lady's fingertips.\nThe desire to protect Watatsumi Island lives on in the bloodline of the Sangonomiya Clan. The current heir to this bloodline is known as the Divine Priestess. The meaning behind this is as such: to inherit the will of a god in a mortal's body, and to defend this land and its people in that god's stead."
+            },
+            {
+                "title": "Character Details",
+                "text": "The inhabitants of Watatsumi Island once lived in Enkanomiya, at the bottom of the sea.It was only by the grace of the god Orobaxi bringing them up to the surface that the civilization of Watatsumi Island exists today.When Orobaxi was slain by the Electro Archon, its body was left as a skeleton and its resentment permeated the land, giving rise to Tatarigami.Yet its desire to protect Watatsumi Island never faded. This will lives on in the bloodline of the Sangonomiya Clan, and follows them from generation to generation.The current heir to this bloodline is known as the Divine Priestess.The meaning behind this is as such: to inherit the will of a god in a mortal's body, and to defend this land and its people in that god's stead."
+            },
+            {
+                "title": "Character Story 1",
+                "text": "The day Kokomi ascended to the role of Divine Priestess, countless inhabitants of Watatsumi Island came to Sangonomiya Shrine of their own accord to see her.Surprise, suspicion, confusion, chuckles... Their expressions were strange, all on account of her overly-young appearance in their eyes.Plots were hatched and questions were endless. The ambitious planned to make their move. The storm was approaching, and all was not at peace on Watatsumi Island.Yet all went back to business as usual not long after Kokomi ascended to her position.She was fair in distributing rewards and punishments alike, appreciated the contributions of the people, and was militarily skilled. Her many abilities quickly won the hearts of most of the people.\"Things will be alright as long as Her Excellency is here\" soon became the most widespread saying on the island."
+            },
+            {
+                "title": "Character Story 2",
+                "text": "There are many factors involved in deciding victory or defeat.Terrain, weather, differences in military strength and equipment quality... All of these require careful consideration.Those who study the details too closely tend to miss changes on the field, and most who speak of strategy speak of it in a vacuum.Only those who can grasp both the big picture and the small details can create miracles on the battlefield.And behind all this lies countless hours of hard work delving into the reasons behind one's failures.Few if any ever persevere to the end, but Kokomi was not only good at this but also possessed a unique tactical style.\"Manipulate the larger strategic situation to force the other side to give up, and to win wars with the least amount of cost possible.\""
+            },
+            {
+                "title": "Character Story 3",
+                "text": "Whether on the battlefield or off it, Kokomi tries to \"know thy enemy\" as much as possible.She tends to predict all possible scenarios beforehand and devise strategies to address them, which are then delivered as directives to those who enforce her will.This has given rise to the issue of some of these directives being rather thick and heavy, but this method has guaranteed the stable development of Watatsumi Island.Today, Watatsumi Island moves each day towards greater prosperity, and as more talented people have been appointed to office, the directives that Kokomi has to deliver have decreased.As far as she is concerned, that is something worth celebrating."
+            },
+            {
+                "title": "Character Story 4",
+                "text": "When Kokomi has the time to spare, she will go on walks on Watatsumi Island alone.She often tries to avoid crowds, pacing slowly through the violet forests, sometimes sitting by the seaside and looking out into the distance.The sun and the moon rise over the sea, the stars shine in their skies, and the sound of the waves is pleasing to the ear, relaxing the soul.Sometimes she will even place a seashell on her head, only to put it back where she found it when she leaves.In her mind, perhaps some wandering crab will burrow its way inside and call this shell home.Sometimes, Kokomi will also go diving, enjoying the calm atmosphere by herself, her worries sinking into the ocean depths as schools of fish swim all around her.Kokomi treasures every sight there is to be seen on Watatsumi Island, and she remembers the name of every person.Sadly, while scenery remains, people's hearts are complex and changeable.Victory is simple enough to attain compared to the mammoth task of making sure that everyone lives happily.This dilemma has always troubled her."
+            },
+            {
+                "title": "Character Story 5",
+                "text": "Kokomi has been well-read since she was young, and has a particular love for military treatises.As such, Kokomi has a broad store of knowledge to be used in every field.But another result of her constantly being buried in such treatises of war and illustrated military texts is that Kokomi lacks skill in social interaction. She does not know when it started, but interacting with people eventually became tiresome to her.Having ascended to the role of Divine Priestess, Kokomi had no choice but to learn many things that she wasn't any good at before, whether it was dealing with people or performing duties that she had little interest in.However, forcing herself to do things she holds little love for is a serious drain on her energy reserves, leaving her feeling quite exhausted.As such, Kokomi set up an \"energy\" system of measurement for herself. When she does things she enjoys, her energy levels will increase, and the reverse is true when she trudges through unenjoyable slogs.When she runs out of this energy, Kokomi will temporarily put her duties as the Divine Priestess aside and resume being an ordinary homebody.Engrossing herself in the close reading of a book on military strategy, walling herself off from the rest of the world — thus does Kokomi reclaim a temporary respite from her busy existence.These moments are of utmost value to her."
+            },
+            {
+                "title": "Secret Notes",
+                "text": "\"As the ruler is, so shall the people be.\"This precept was something Kokomi heard from her mother a long time ago.The Divine Priestess' role is one of utmost importance to Watatsumi Island, and its people's eyes are always upon her every move.The things she loves will be in fashion, and the things she dislikes, the people will also distance themselves from.Kokomi, in truth, has no wish to affect the people's lives, and as such has rarely ever revealed much of her personal likes or dislikes.She treats all things with an egalitarian manner, and holds \"fairness of judgment\" and \"justice in dispensing rewards and punishment\" to be her guiding principles.However, these are not necessarily her true feelings, and so she prepared a book of secret notes for herself.Here, she records the fluctuations in both her energy levels and mood.When the night deepens and the world falls silent, Kokomi will open this book and write the day's experiences, whether they be joyous, sad, or frustrating....Of course, this object is for her eyes only — and so it must remain."
+            },
+            {
+                "title": "Vision",
+                "text": "A leader with a strong will can lead those around them in a clear direction.However, Kokomi lacks such strong ideals. Instead, she respects the will of the people and wishes that they can each find their own way.Just as the vast ocean can accommodate countless souls and their individual desires, so does Kokomi wish her rule could be.When the Vision Hunt Decree came about, the resentment of the people turned into cries of revolt, and so Kokomi led them in raising the banner of resistance.And once the war was over, the hearts of the people turned towards peace and stability, and so did Kokomi direct her energies towards governance and economics.But what was the source of this toil? Was this the role of the Divine Priestess speaking? Or was this a product of her own sense of duty? Or perhaps... it was a bit of both?As the Divine Priestess, Kokomi naturally has her own Vision. And ever since the day she looked out at the sea outside Sangonomiya Shrine, her wish has never once changed—\"I wish to protect all of Watatsumi Island and allow its people to lead happy lives.\""
+            }
+        ],
+        "additional_lore": [
+            {
+                "title": "Hello",
+                "text": "I am Sangonomiya Kokomi, the Divine Priestess of Watatsumi Island. My journey with you will be an opportunity to unwind... Ahem, I mean... to survey beyond our borders. Don't worry, I've left behind ample directives in my absence, and have also completed the island's projected development plans. Departing for a brief period will be of little consequence."
+            },
+            {
+                "title": "About Sangonomiya Kokomi: Directives",
+                "text": "The battlefield is unpredictable — one false move could mark utter defeat. Before the onset of battle, I bring every possible scenario into consideration, and turn my thoughts into written directives. These are then issued to the troops. ...It does seem at present like they're somewhat over-reliant on the directives, which worries me... If they read up on military strategy themselves, they could begin to rely on their own ability to read the battlefield. I need them to be able to identify and seize opportunities in the heat of the moment."
+            },
+            {
+                "title": "About Sangonomiya Kokomi: Relaxing",
+                "text": "Mm... I hope we can put an end to this battle quickly. The Yae Publishing House has just released a new volume of \"A Legend of Sword.\" Ah, I'd like nothing more than to curl up with a copy in my room and read it front to back."
+            },
+            {
+                "title": "About Us: Experience",
+                "text": "My mother once taught me that it takes a broad outlook to become a qualified leader. However, my younger years were mostly spent traveling between Sangonomiya and the army. I never had time to embark on my own adventure. So... there are many aspects of adventuring that I've yet to fully understand. Mm, you'll have to excuse my lack of experience in this area."
+            },
+            {
+                "title": "About Us: Confusion",
+                "text": "It's said that the depths of a person's heart run deep indeed. Yet, as the Divine Priestess of Watatsumi Island, it is my duty to strive to understand each person's thoughts. Let's start with you, Traveler. What are you thinking about now? Let me take a guess..."
+            },
+            {
+                "title": "About the Vision",
+                "text": "In my book, Visions are symbols of aspiration, and aspiration is a precious thing indeed. This is exactly why the resistance was formed — to oppose the Vision Hunt Decree. Aspiration should never be abandoned or forcibly taken away."
+            },
+            {
+                "title": "Interesting Things",
+                "text": "I simply love Watatsumi Sango Pearls... They're not just a source of income for Watatsumi Island, but a gift from the sea itself."
+            },
+            {
+                "title": "About Gorou",
+                "text": "Gorou is an exceptional general... sincere, determined, and courageous. He has a strong camaraderie with the troops and is able to come up with creative battle plans. He does, however, have one shortcoming... He often lets the excitement of battle get to his head. If you are ever deployed to the battlefield together, be sure to have a good rein on him when things get underway."
+            },
+            {
+                "title": "About Kujou Sara",
+                "text": "Mmm... I must admit, Kujou Sara is an opponent that cannot be taken lightly. She seldom employs cunning strategy, but her performance in open warfare is always admirable. The Shogun's Army places great trust in her abilities — they are united and ready to fight valiantly under her command, even to the death. Her forces have been a serious threat to the resistance on multiple occasions."
+            },
+            {
+                "title": "About Yae Miko",
+                "text": "I have also heard of Guuji Yae's great deeds. In all fairness, I hold her to be an outstanding shrine maiden, and she has performed her duties marvelously. I even heard that she holds responsibility where Yae Publishing House's light novels are concerned. An enigmatic individual to say the least..."
+            },
+            {
+                "title": "About the Raiden Shogun",
+                "text": "Now that the Vision Hunt Decree is over, Watatsumi Island has once again returned to normal life. It has never been my intent to scrutinize the rights and wrongs of the Shogun's actions, even to this day. What I do care about is the future of our island. It is my hope that the Shogun will fulfill her promise and that we can live with the Shogunate in peace. However, if there comes a day when she once again casts aside the aspirations of the people, I can assure you that we won't sit by and watch."
+            },
+            {
+                "title": "About Beidou",
+                "text": "Ah... back when Beidou and I were carrying out ambushes against the Shogun's Army together, I raised my concerns that the enemy might detect our approach. But Beidou assured me of her fleet's unwavering discipline, and that raids could be carried out without detection. In the end, she was right, and that's exactly what happened. Now, every time the Watatsumi fleet encounters some sort of bottleneck, I consider inviting her to come and give them her instruction. There's no doubt, she runs a tight ship..."
+            },
+            {
+                "title": "About Kaedehara Kazuha",
+                "text": "Kazuha once came and bunked with the resistance for a time. If I'm not mistaken, he got along very well with Gorou — they would often fight side-by-side in battle. Kazuha has a carefree personality and doesn't like constraints, but he would follow every command to the letter when he was among our ranks. In my opinion, not only is he an outstanding swordsman, but a very refined character."
+            },
+            {
+                "title": "About Shikanoin Heizou",
+                "text": "Initially, I was astonished to see anyone coming to Watatsumi Island wearing a Tenryou Commission uniform. A Tenryou Commission samurai would never be that brazen, and a Tenryou Commission spy would never be that conspicuous. Shortly after, I discovered that he was a self-proclaimed \"detective\" by the name of Shikanoin, and that he took no interest in military, government, or commercial affairs. Instead, he seemed to have arrived for a bit of sightseeing. As such, I set a few eyes on him, but refrained from taking any action to remove him from the island. Be sure to talk to him if the chance ever presents itself."
+            },
+            {
+                "title": "About Yumemizuki Mizuki",
+                "text": "Miss Mizuki's talents are well-known throughout the land. I had some ideas for a few projects around Watatsumi Island and was hoping to bring her on as a consultant. But, after talking with her, it became clear that she has much bigger dreams in mind. I'm looking forward to the day when she brings that vision to fruition. In the meantime, Watatsumi Island is always open to her."
+            },
+            {
+                "title": "More About Sangonomiya Kokomi: I",
+                "text": "No matter how pressing the situation may become, I must remain composed. If I let the stress get to me, then what can I expect from others around me?"
+            },
+            {
+                "title": "More About Sangonomiya Kokomi: II",
+                "text": "Legend has it that our ancestors lived in a palace in the depths of the ocean, and that the god, Orobashi, brought us to the surface. I've often wondered, wouldn't a palace like that be too dark? Every time I think about it, I start to really appreciate the light..."
+            },
+            {
+                "title": "More About Sangonomiya Kokomi: III",
+                "text": "After you left, the soldiers of Swordfish II nominated a temporary captain, but everyone was hoping that you'd return. I could only tell them that you'd been tasked with an important solo mission. If you get the chance, you should go visit them, I'm sure they'd love to see you."
+            },
+            {
+                "title": "More About Sangonomiya Kokomi: IV",
+                "text": "A long time ago, I had no intention of becoming the Divine Priestess. My only goal was to study military strategy and become an adviser. That way, I could remain behind the scenes and lessen my overall burden. *sigh* Fate had other ideas in store... You can't defy that which flows in your veins."
+            },
+            {
+                "title": "More About Sangonomiya Kokomi: V",
+                "text": "After becoming the Divine Priestess, I gradually grew accustomed to this life. At the very least, I have the power to change something when it doesn't sit well with me. More importantly, this title allowed me to meet you, did it not?"
+            },
+            {
+                "title": "Feelings About Ascension: Intro",
+                "text": "Brute force is not my modus operandi. But becoming stronger isn't a bad thing."
+            },
+            {
+                "title": "Feelings About Ascension: Building Up",
+                "text": "I'm just bubbling with energy... We'll make a formidable force in our next fight."
+            },
+            {
+                "title": "Feelings About Ascension: Climax",
+                "text": "The moon shines bright over the depths of the seas as the tides come and go. It seems that as I go from strength to strength, so does my state of mind flow."
+            },
+            {
+                "title": "Feelings About Ascension: Conclusion",
+                "text": "I often used to succumb to self-doubt. I would think to myself, \"Can a person like me really hold the title of Divine Priestess?\" Now, the thought hardly crosses my mind. When I'm with you, I seem to be able to cut straight through most problems.\n}}\n\n==Combat==\n{{Combat VO\n|character           = Sangonomiya Kokomi\n\n|skill_1_tx          = Allow me!\n|skill_2_tx          = Hold the line.\n|skill_3_tx          = Rest and rebuild!\n\n|burst_1_tx          = Covenant of the Deep!\n|burst_2_tx          = Billowing surge!\n|burst_3_tx          = Torrents, bring refuge!\n\n|sprint-s_1_tx       = Let's move out.\n|sprint-s_2_file     = Sprint Start 02,Sprint Start 03\n\n|glider_1_tx         = Breathtaking.\n|glider_2_file       = Deploying Wind Glider 02,Deploying Wind Glider 03\n\n|chest_1_tx          =   Provisions are vital.\n|chest_2_tx          =   We should make the most of these supplies.\n|chest_3_tx          =   Mm... So this is the thrill of adventure...\n\n|low-hp_1_tx         = Fatigue is setting in...\n|low-hp_2_tx         = Time to switch tactics.\n|low-hp_3_tx         = Foresight brings victory.\n\n\n|ally-low-hp_1_tx    = Reinforcements have arrived!\n|ally-low-hp_2_tx    = Fall back.\n\n|fallen_1_tx         = New strategy needed...\n|fallen_2_tx         = A lapse in judgment...\n|fallen_3_tx         = Must learn from my mistakes...\n\n|hit-l_1_file        = Light Hit Taken 01,Light Hit Taken 02,Light Hit Taken 03,Light Hit Taken 04,Light Hit Taken 05,Light Hit Taken 06\n\n|hit-h_1_tx          = A brash maneuver!\n|hit-h_2_tx          = Uphill battle...\n|hit-h_3_file        = Heavy Hit Taken 03,Heavy Hit Taken 04,Heavy Hit Taken 05,Heavy Hit Taken 06\n\n|join_1_tx           = We'll need a strategy...\n|join_2_tx           = Take heart, victory will be ours.\n|join_3_tx           = All is accounted for, let's move out.\n\n|idle_1_file         = Standby 01,Standby 02\n\n|atk-l_1_file        = Light Attack 01,Light Attack 02,Light Attack 03,Light Attack 04,Light Attack 05,Light Attack 06,Light Attack 07\n\n|atk-m_1_file        = Mid Attack 01,Mid Attack 02,Mid Attack 03\n\n|atk-h_1_file        = Heavy Attack 01,Heavy Attack 02,Heavy Attack 03\n\n|climb_1_file        = Climbing 01,Climbing 02,Climbing 03,Climbing 04,Climbing 05\n\n|climb-b_1_file      = Climbing Breath 01,Climbing Breath 02,Climbing Breath 03\n\n|jump_1_file         = Jumping 01,Jumping 02,Jumping 03,Jumping 04,Jumping 05\n}}\n\n==Navigation==\n{{Character Navbox|VO}}\n\nes:Sangonomiya Kokomi/Voz\nfr:Sangonomiya Kokomi/Répliques\nit:Sangonomiya Kokomi/Battute\nja:珊瑚宮心海/ボイス\npt-br:Sangonomiya Kokomi/Falas\nru:Кокоми/Озвучка\ntr:Sangonomiya Kokomi/Replikler"
+            }
+        ]
+    }
+}

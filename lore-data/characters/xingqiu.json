@@ -1,0 +1,185 @@
+{
+    "name": "Xingqiu",
+    "entity_type": "character",
+    "status": "active",
+    "region": "Liyue",
+    "affiliations": [
+        "Feiyun Commerce Guild",
+        "Guhua Clan",
+        "Yae Publishing House",
+        "as Zhenyu"
+    ],
+    "power_source": "Vision",
+    "element": "Hydro",
+    "constellation": "Fabulae Textile",
+    "aliases": [
+        "Juvenile Galant",
+        "Guhua Guru of Feiyun Fame"
+    ],
+    "lore": {
+        "descriptions": [
+            "The second son of the Feiyun Commerce Guild, Xingqiu has had a reputation for being studious and polite ever since he was a young child.But there is another side to the mild-mannered Xingqiu everyone knows. A daring, adventurous and much more mischievous side..."
+        ],
+        "character_stories": [
+            {
+                "title": "Official Introduction",
+                "subtitle": "Rainbows Only Come After the Rain - Xingqiu",
+                "text": "Second son of the Feiyun Commerce Guild, Xingqiu has had a reputation for being studious and polite ever since he was a young child. Parents in Liyue Harbor would speak adoringly of him, all secretly hoping that their own children would show as much promise as Xingqiu.\nBut even at a young age, mild-mannered Xingqiu had a wilder side too. Unbeknownst to his father and elder brother, he would sit for hours in the classroom reading fiction, having hollowed out used textbooks and snuck martial arts novels inside. After classes, he'd go out exploring and looking for all sorts of little ways to cause mischief.\nSometimes, his antics would even end up embroiling the Feiyun Commerce Guild in controversy. Luckily for Xingqiu, he always managed avoid blame by hiding behind an insurmountable wall of eloquent filibustering. Since no-one had quite what it took to beat him in an argument, eventually people simply learned to put up with his eccentricities.\nAn avid reader, Xingqiu's lifelong dream is to be the real-life embodiment of the chivalrous heroes from the pages of his books. For Xingqiu, chivalry is more than a standard of conduct &mdash; it's a mindset. The most chivalrous of all are not deterred by setbacks, nor do they stop to indulge their sense of satisfaction when things turn out as hoped. Instead, their minds are focused at all times on seizing the next opportunity to advance the cause of compassion and justice.\nDespite his young age, Xingqiu has already mastered the chivalric code and cultivated the eccentric mindset that comes along with it. This gave him a knack for the style of martial arts practiced by the Guhua Clan, and he gained some renown for effectively starting a Guhua renaissance. However, eager devotees who flock to the Guhua Clan's gates in search of the master himself may be disappointed to hear the gatekeeper's awkward response: \"The master is off in the mountains taking some time to himself right now... Maybe try again another day.\""
+            },
+            {
+                "title": "Character Details",
+                "text": "Every merchant in Liyue Harbor knows of Xingqiu from the Feiyun Commerce Guild.All see him as a kind and well-mannered young man who is an excellent student, a top talent in every sense.As the second-born son of the family, Xingqiu is not required to shoulder the burden of managing the Guild's affairs. However, Xingqiu possesses a unique scholarly talent among his peers — that is, the offspring of Liyue's wealthiest merchants — and was often praised by his tutors as a young student.Xingqiu's elder brother, while learning the family business from their father, firmly believed that Xingqiu would become a great asset to the business one day.However, little did he know that Xingqiu, after finishing the dauntingly thick volumes on commerce and philosophy, would hollow them out and sneak martial art novels into them, which he read incessantly thereafter.Sometimes, Xingqiu suddenly disappears for hours at a time with no explanation. When asked why, he simply replies: \"A moment of solitude.\""
+            },
+            {
+                "title": "Character Story 1",
+                "text": "To Xingqiu, \"a moment of solitude\" can mean all sorts of things.Examples include visiting Wanwen Bookhouse to peruse the latest novels and going to Heyu Tea House to sample Yun Jin's latest drink.Sometimes, it means that he is off to fight for justice in the name of chivalry.Defeating bandits on the road, driving away monsters, helping distressed children by fetching their kites from the tree tops... there are all manner of responsibilities that fall into the category of chivalry.Inspired by tropes from his beloved martial arts novels — such as the king who wears a disguise and mingles with the common folk — Xingqiu does not hesitate to leverage the power of the Feiyun Commerce Guild to resolve more complex issues when violence isn't the answer."
+            },
+            {
+                "title": "Character Story 2",
+                "text": "One day, Xingqiu's older brother came looking for him, only to find he wasn't around. When Xingqiu later returned, he came across his brother in the hallway.\"Your room was a mess, so I cleaned it up. Listen, both you and I are responsible for the reputation of Feiyun Commerce Guild. We have to act the part. If you can't clean up a room, how will you clean up the world? An adeptus once said...\"After half an hour of lecturing, Xingqiu was finally let go, but his brother said something strange at the end:\"I'll not enter your room without permission next time... I'll make sure the maids do the same.\"Xingqiu had no idea what he was talking about. However, as his brother turned away, with a despondent look upon his face, he muttered to himself:\"Those books under his bed... No. No, I shouldn't go looking at what kind of books they are... Xingqiu is growing up after all... Don't want to be lecturing him all the time... Puberty perhaps?\"Afterwards, even Xingqiu found it odd. Expecting that one of the maids would have something to say about the stash of martial arts novels under his bed, he had long since prepared his response, but in the end, no one ever bothered to check his room again."
+            },
+            {
+                "title": "Character Story 3",
+                "text": "To keep Xingqiu from spending his whole day at Wanwen Bookhouse in Feiyun Slope, his father agreed to let him learn martial arts from the Guhua Clan. Much to his dismay, Xingqiu quickly discovered that Guhua was a dying art that had been in constant decline for years. There was no proper tuition and it turned out the luxury dojo he had signed up in didn't even belong to the clan — they had just rented it temporarily to keep up appearances.Xingqiu's father was, of course, fully aware of this state of affairs in advance. To him, the whole thing was just for fun. He thought Xingqiu would be content to learn a spot of bladework for show, not for serious self-defense.He hadn't counted on the prodigiously intelligent and extremely well-read Xingqiu being as outstanding a talent in Guhua as he was in every other discipline he had turned his hand to. A combination of his own intuition and extensive knowledge of ancient literature meant he was able to completely revitalize the dead art.Xingqiu was disappointed by Guhua's martial arts program at the beginning, but he found the other tricks they taught to be exactly what he had hoped for.Quicklime, smoking sand, paper fish, sword-swallowing, fire-breathing... Xingqiu was spoilt for choice.He decided on the spot that he would learn them all, no matter how long it would take him. He reasoned that they would be useful to have in his repertoire during his future exploits as a chivalrous hero."
+            },
+            {
+                "title": "Character Story 4",
+                "text": "There are two sides to the swashbuckling Xingqiu's personality. While quiet and unassuming in front of strangers, he is gregarious and chatty in the company of close friends and family. Though more restrained than his elder brother, he even has a playful and mischievous side.The one who usually bears the brunt of his bizarre sense of humor is someone named Chongyun, an exorcist usually found on one of the forest trails around Liyue.\"Chongyun... I found a haunted house for you to practice in...\"\"Chongyun, you have to believe me... It wasn't me who laid the traps inside that haunted house— What? It's not haunted? Well... I, uh, couldn't have known that, could I?\"\"Chongyun... Don't glare at me like that... Look, you're injured. You'd better just lie there and get some rest.\"\"Tell you what, Chongyun, we have a maid who learned the art of essential oil therapy in a nobleman's house in Sumeru... How about I ask her to tend to your wounds? You owe me for this, though...\""
+            },
+            {
+                "title": "Character Story 5",
+                "text": "The notion of chivalry means different things to different people.Chivalry means listening to your conscience calling you to action when you see an injustice, right? Or is chivalry simply about knowing right from wrong? No, that's not enough — it must have something to do with being a righteous person...To Xingqiu, chivalry simply means: be good, and do good.As a son of a wealthy merchant in Liyue Harbor, he was born to ride the waves in the world of trade. Notions of chivalry should have gradually left him as he grew up.However, obtaining a Vision changed everything — it meant he was finally able accomplish those legendary deeds he could only dream of as a child.Of course, there is no way he can completely divest himself of his duties in the Guild, but so long as he gets to go out and be the hero even occasionally, he is perfectly content with his life.The only thing that can wipe the smile from Xingqiu's face is when cynics question the true motives of chivalrous heroes.Rank, reputation, reward, shadowy deals... Whenever Xingqiu hears people smearing the names of true heroes, the expression on his face may not change, but he will be sure to add that person to the special section of his blacklist reserved for people he despises even more than carrots."
+            },
+            {
+                "title": "\"A Legend of Sword\"",
+                "text": "Xingqiu once wrote a martial arts novel named \"A Legend of Sword\" based on his own experiences, intending to publish it in Liyue Harbor.To his surprise, his manuscript was rejected by local publishing houses, who believed that no one would have any interest in a story with \"a setting as wildly unrealistic as the plot is banal.\"Undeterred, Xingqiu had a few copies printed privately, and sneakily placed them on the shelves of Wanwen Bookhouse during one of his many trips there. But just as the publishers had suspected, it failed to garner much interest from readers. This was quite a blow to Xingqiu's confidence.Unbeknownst to him, however, a passing merchant from Inazuma did purchase a copy to bring home, where it received rave reviews. Writers the region over attempted to copy the success of \"A Legend of Sword,\" but none succeeded — it maintains permanent residency in the number one bestseller spot to this day."
+            },
+            {
+                "title": "Vision",
+                "text": "The martial arts school known as the Guhua Clan has been in decline for several hundred years now. In its heyday, the name of the Clan rang like steel throughout the harbor. It was said that the Clan harbored three great secret arts — the ways of the \"Light Piercer\" for polearms, \"Rain Cutter\" for swords, and \"Life Ender\" for those who excelled in both. The three arts would be refined over the generations, and with time would reach their apex. Yet the Clan's strength would continue to wane, leading to them losing their influence... The three arts became diamonds hidden in the rough, quietly awaiting a successor.After many years, the Guhua Clan would finally get one in Xingqiu. It was he who successfully grasped the ancient \"Martial Principle\" after merely four years of study.The Guhua weapon arts stress using the weapon as an extension of your body, and indeed this is a common idea amongst the various schools of martial arts in Liyue. But the way Xingqiu saw it, the basis of the polearm and sword was the use of a Vision. Martial artists were meant to see a Vision as an extension of themselves, and see their weapon as an extension of the Vision. Hence, he says: the arts of both the polearm and the sword are just the art of the \"eye.\" Having come to this epiphany, Xingqiu took up a quill and penned a verse on the Martial Principle. Reading it, the Guhua head was shaken with tears, declaring that \"it is not Xingqiu who needs the Guhua Clan, but the Guhua Clan that needs Xingqiu.\" Since then, this verse has been sealed up at the Clan headquarters at Wangshan Hall. Disciples are proscribed from reading it, much less outsiders.The verse reads thus:Guhua's arts I have studied long, in its secrets I am trained, now its long-lost depths fall upon me like the coming of blessed rain.The beating heart of Guhua's sword art is as a shower of floating flowers. One amidst may seize a bloom, but those without read only doom.The Guhua lance is a lantern's dance, like flames in night's deep glooming. Like sparks, they scatter with ease in the dark, then join like the daybreak looming.They say the sword is as your arm — I say its glint is the beholder's eye, a light like the bright dawn coming.Those who wander are burdened not. Freely they cut rain, and enlightened they pierce light. Like a snaking dragon, they cannot be subdued. In their right eye the blade, and in the other the spear.This text should have been free for all to read. The only reason why it was sealed is the dreadful handwriting."
+            }
+        ],
+        "additional_lore": [
+            {
+                "title": "Hello",
+                "text": "Xingqiu at your service, my liege! I humbly trust that even one such as I, a mere bookworm, may yet prove to be of some utility under your wise leadership. Nice, I don't often get a chance to speak with such formality. It felt pretty good!"
+            },
+            {
+                "title": "About Xingqiu",
+                "text": "I always have to put on an act around other people, because they see me only as the second son of the Feiyun Commerce Guild. It's a relief that I can just be myself around you. I think it's because you don't see me in the same way."
+            },
+            {
+                "title": "About Us: Reading Buddies",
+                "text": "I would say we are book buddies. Huh? Combat? Guhua Clan? Comrades in arms? ...What on earth are you talking about? I told you that's our little secret!"
+            },
+            {
+                "title": "About Us: Swornship",
+                "text": "We should become sworn siblings, let's go to the altar at Jueyun Karst. Nope, no ifs, no buts, you know too much about me! You know the real me, the one I normally have to hide. I simply can't let you go until you promise me you will go through with it!"
+            },
+            {
+                "title": "About the Vision: Ancient Books",
+                "text": "There aren't many records on matters concerning Visions, but I do have a passage dedicated to the topic in my collection of ancient texts. I can lend it to you if you want."
+            },
+            {
+                "title": "About the Vision: Realization",
+                "text": "I've come to an epiphany based on some things I've been reading — ultimately, the arts of both the polearm and the sword are just the art of the hand-eye coordination. Ugh, it's a little difficult to explain... If you want to know more, come with me to Wangshan Hall. But first, you have to promise me you won't laugh."
+            },
+            {
+                "title": "Something to Share",
+                "text": "Must-see places in Liyue? That's a tough question. Hmm... The place I would miss the most if it disappeared would be Wanwen Bookhouse, first and foremost. The Guhua Sect would be in the top ten, too."
+            },
+            {
+                "title": "Interesting Things",
+                "text": "I used to like rabbits, but I'm more a fan of stags now. To me, the saying \"May my final stand be a monument to chivalry\" is about abandoning worldly possessions and reaching enlightenment. But the stag's final resting place represents the hope for life anew. Oh, how I'd love to see it again.The phrase \"But the stag's final resting place represents the hope for life anew\" is a mistranslation; it is better translated as \"But the stag represents the hope of being unexpectedly rescued from a desperate situation.\""
+            },
+            {
+                "title": "About Beidou",
+                "text": "I have great respect for Lady Beidou. I just wish she wouldn't call me \"kid\" and ruffle my hair each time she sees me."
+            },
+            {
+                "title": "About Ningguang",
+                "text": "In her capacity as the Tianquan, I am obliged to respect her. Otherwise, it could create issues for my father and brother. On a personal level? Let me think... I think I will go with \"no comment.\" I shan't speak ill of others."
+            },
+            {
+                "title": "About Chongyun",
+                "text": "Ah, dear Chongyun. Though he understands me quite well, one has to exercise caution when teaming up with him to go on a quest. He is making good progress in the martial arts, but I would say he hasn't quite internalized the chivalric code yet... He needs more practice. Especially at eating spicy food..."
+            },
+            {
+                "title": "About Yun Jin",
+                "text": "When Yun Jin drinks a beverage she is fond of, she will be inspired to write a new play. So, I keep a jar of tea leaves under my bed at all times, ready to deliver to her on the day that her inspiration dries up. This way, I shall never run out of heroic tales to listen to!"
+            },
+            {
+                "title": "About Hu Tao",
+                "text": "Ah yes, the young lady who is now the Master of the Wangsheng Funeral Parlor. If you're asking what I think about her as a person... Well, there are all sorts of rumors about the way she works. But I think if you really want to understand someone, you need to find out what they are really after."
+            },
+            {
+                "title": "About Qiqi",
+                "text": "I've always thought that there is more to Qiqi than meets the eye. But it's impossible to have a conversation with her when Baizhu's around. Hmm... We could wait till Baizhu makes a home call to one of his other patients and corner her..."
+            },
+            {
+                "title": "About Xiangling",
+                "text": "When you first spot Xiangling out and about, the first thing you should do is check the look on her face. Especially when she's just coming back from collecting new ingredients — the more excited she looks, the more dangerous it is to approach. Because if she sees you, she'll force you to taste-test her latest concoction... I usually get Chongyun to handle these situations, hehe..."
+            },
+            {
+                "title": "About Xinyan",
+                "text": "Where does Xinyan perform? Anywhere from Chihu Rock to Yujing Terrace — no spot is untouched by her disruptive presence... A quiet day when I can curl up with a good book is a rare treasure indeed."
+            },
+            {
+                "title": "About Albedo",
+                "text": "I've thought of all the illustrations I want for each of the major event in the next three volumes! I should write my thoughts down before I forget them, and send them to Mr. Kreideprinz..."
+            },
+            {
+                "title": "About Zhongli",
+                "text": "My father and brother entertained that gentleman as a guest once. From the way they were acting, he must be a very high-profile figure indeed. I also heard that he directs funerals for adepti, so he must surely have great depth to his character. We should do some digging and see what we can find out about him!"
+            },
+            {
+                "title": "About Shenhe",
+                "text": "I find that Miss Shenhe seems to look at me somewhat fiercely, so I daren't approach her lightly. Bizarre, did I inadvertently upset her? Or maybe... upset someone close to her?"
+            },
+            {
+                "title": "About Yelan",
+                "text": "Have you heard the expression \"same person, different face\"? Ms. Yelan gives me precisely this feeling. When she came to visit my family, my father and brother treated her with respect, and she was pleasant and polite in return. She seemed like a kind and mature young lady to me. But when I saw her elsewhere, she gave a completely different impression."
+            },
+            {
+                "title": "About Gaming",
+                "text": "Gaming's work has all the trappings of a chivalric hero. Picture the scene — on a dark and moonless night, a lone young figure clad in black stands fearless on a secluded country road. They say his mastery of the martial arts is unparalleled, and the mythical beast by his side always does his bidding... Bandits and brigands beware, for none who challenge him come away unscathed... When he has the time, I'd love to hear more about his experiences as a guard. You should come along too."
+            },
+            {
+                "title": "More About Xingqiu: I",
+                "text": "Are you keeping well, my liege? If you have no other matters to attend to, might I recommend a trip to the Wanwen Bookhouse?"
+            },
+            {
+                "title": "More About Xingqiu: II",
+                "text": "You ask me why I enjoy reading in solitude? ...Studiousness can hardly be considered a bad habit. There's not much more to it than that. Really."
+            },
+            {
+                "title": "More About Xingqiu: III",
+                "text": "Your schedule is free today? Wonderful. I am ready to leave whenever you are. ...My book? Oh, never mind that! I can always pick up where I left off when I get back. But those in distress who need our assistance cannot afford to wait."
+            },
+            {
+                "title": "More About Xingqiu: IV",
+                "text": "You feel inspired, you say? You want to write a martial arts detective novel based on our adventures together? And you want to call it the \"Chronicles of Wanwen\"? Hahaha... It's a good idea, it really is. But I'll have to decline, I'm sorry. Yes, really..."
+            },
+            {
+                "title": "More About Xingqiu: V",
+                "text": "\"A weaver of verses who draws from an ocean of expression...\" That's the reputation I aspire to. But you're the only person I can share that with. I am actually writing a novel... but I can't let you see it. Not yet. The time will come, though... You'll be able to read it when it's on sale in book stores all over Liyue."
+            },
+            {
+                "title": "Feelings About Ascension: Intro",
+                "text": "Were it not for my capability, the cause that so inspires me would remain confined to the pages that extol its virtues."
+            },
+            {
+                "title": "Feelings About Ascension: Building Up",
+                "text": "Had I no moral compass, my efforts would have been misguided. Doomed to grasp at shadows while missing the substance, I would have become a philistine that seeks only violence."
+            },
+            {
+                "title": "Feelings About Ascension: Climax",
+                "text": "There is a cause that I seek to champion, yet few in Liyue share my aspiration. This I have known for a long time, for it is a path I have walked for many years."
+            },
+            {
+                "title": "Feelings About Ascension: Conclusion",
+                "text": "I am most grateful for your company on my journey. I am proud of my achievements, both in the martial arts and in championing the cause so dear to my heart. ...Ah, I guess there's no need to euphemize any longer. Chivalry! That is the cause that inspires me, and that I seek to champion. Why should I shy away from it? I am sure my father and brother are under no illusion as to what I stand for by now. ...But of course, I still need to be somewhat discreet in the way I go about my business.\n}}\n\n==Combat==\n{{Combat VO\n|character           = Xingqiu\n\n\n|skill_1_tx          = Rain outlines your fate!\n|skill_2_tx          = Ha... Hmph!\n|skill_3_tx          = Know my sword!\n\n\n|burst_1_tx          = Witness the power of Guhua!\n|burst_2_tx          = Let me weave you a verse.\n|burst_3_tx          = Raincutter!\n\n\n|sprint-s_1_tx       = Body and mind.\n|sprint-s_2_tx       = Time to act.\n|sprint-s_3_file     = Sprint Start 03\n\n\n|glider_1_file       = Deploying Wind Glider 01,Deploying Wind Glider 02,Deploying Wind Glider 03\n\n\n|chest_1_tx          = Excellent.\n|chest_2_tx          = Treasure-hunting... A valiant endeavor.\n|chest_3_tx          = I hope we find long-lost ancient literature.\n\n\n|low-hp_1_tx         = Change of plans...\n|low-hp_2_tx         = I can no longer hold back.\n|low-hp_3_tx         = May my final stand be a monument to chivalry.\n\n\n|ally-low-hp_1_tx    = Come. I have devised a plan.\n|ally-low-hp_2_tx    = Tread carefully.\n\n\n|fallen_1_tx         = I have taught you... everything... I know...\n|fallen_2_tx         = The brightest flames... burn fastest...\n|fallen_3_tx         = I am outplayed...\n\n\n|hit-l_1_file        = Light Hit Taken 02\n|hit-l_1_tx          = A minor setback.\n|hit-l_2_file        = Light Hit Taken 01,Light Hit Taken 03,Light Hit Taken 04,Light Hit Taken 05,Light Hit Taken 06\n\n\n|hit-h_1_tx          = I let my guard down.\n|hit-h_2_tx          = Not good...\n|hit-h_3_file        = Heavy Hit Taken 03,Heavy Hit Taken 04,Heavy Hit Taken 05,Heavy Hit Taken 06\n\n\n|join_1_tx           = May knowledge guide you.\n|join_2_tx           = Chivalry will never die.\n|join_3_tx           = For justice.\n\n\n|atk-l_1_file        = Light Attack 01,Light Attack 02,Light Attack 03,Light Attack 04,Light Attack 05,Light Attack 06,Light Attack 07\n\n\n|atk-m_1_file        = Mid Attack 01,Mid Attack 02,Mid Attack 03\n\n\n|atk-h_1_file        = Heavy Attack 01,Heavy Attack 02,Heavy Attack 03\n\n\n|climb_1_file        = Climbing 01,Climbing 02,Climbing 03\n\n\n|climb-b_1_file      = Climbing Breath 01,Climbing Breath 02,Climbing Breath 03,Climbing Breath 03 01,Climbing Breath 03 02,Climbing Breath 03 03,Climbing Breath 03 04,Climbing Breath 03 05,Climbing Breath 03 06,Climbing Breath 03 07\n\n\n|jump_1_file         = Jumping 01,Jumping 02,Jumping 03,Jumping 04,Jumping 05\n}}\n\n==Translation Notes==\n{{Reflist|group=TN •}}\n\n==Navigation==\n{{Character Navbox|VO}}\n\nde:Xingqiu/Stimme\nes:Xingchiu/Voz\nfr:Xingqiu/Répliques\nit:Xingqiu/Battute\nja:行秋/ボイス/英語\npt-br:Xingqiu/Falas\nru:Син Цю/Озвучка\ntr:Xingqiu/Replikler"
+            }
+        ]
+    }
+}

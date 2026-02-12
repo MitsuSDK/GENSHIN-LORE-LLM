@@ -1,0 +1,155 @@
+{
+    "name": "Fischl",
+    "entity_type": "character",
+    "status": "active",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Adventurers' Guild"
+    ],
+    "power_source": "Vision",
+    "element": "Electro",
+    "constellation": "Corvus",
+    "aliases": [
+        "Prinzessin der Verurteilung!",
+        "Sovereign of Immernachtreich"
+    ],
+    "lore": {
+        "descriptions": [
+            "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz. Currently serves as an investigator in the Adventurers' Guild.Through her unique abilities, eccentric character, and (while she would never admit it herself) hard work, Fischl has become a rising star among the Adventurers' Guild's investigators, earning the recognition of all.",
+            "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz."
+        ],
+        "character_stories": [
+            {
+                "title": "Official Introduction",
+                "subtitle": "The Prinzessin der Verurteilung - Fischl",
+                "text": "Fischl,  of the outer realm Immernachtreich, and her kin, the night-bringing raven. Answering the call of destiny, we have descended upon Teyvat.\nFischl introduces herself to every member of the Adventurers' Guild in this way.\nDue to her shared vision with the raven Oz, Fischl was able to join the Adventurers' Guild and become an investigator with ease.\nInitially, it gave members of the Guild great difficulty to comprehend what Fischl was saying. But thanks to her tireless toil, and Oz's industrious interpretation, everyone was finally able to understand her.\nThough eccentric in word and deed, this investigator's reconnaissance is swift and her intelligence accurate, traits that allowed her to gradually win everyone's trust.\nIt helps that Fischl is also a very kind person.\n\"Oz, my familiar... spread your wings that eclipse the sun, and keep watch over the one to whom ill fate clings like a shroud.\"\n\"Yes, .\"\nToday, Fischl shall also show concern for the masses of the Adventurers' Guild in her own manner."
+            },
+            {
+                "title": "Character Details",
+                "text": "Fischl is the Prinzessin der Verurteilung who arrived here after being exiled from the otherworld, \"Immernachtreich.\"She \"observes and weaves the threads of fate\" together with her talking night raven familiar, Oz.Owing to reasons she cannot and Oz will not explain, Fischl now serves the Adventurers' Guild as an investigator."
+            },
+            {
+                "title": "Character Story 1",
+                "text": "As an investigator for the Adventurers' Guild, the single biggest advantage Fischl has over her peers is Oz.\"Milady, please stop sending me out to spy on Stormterror. That chap could eat me for breakfast! Well, I'm so puny I probably wouldn't even get caught between his teeth, but... Anyway, I don't want to die!\"\"Hmph! You are supposed to be my familiar. Not everyone gets to be the Prinzessin der Verurteilung's familiar, do you understand? Consider it your honor to dedicate your life to serving me!\"Fischl is able to see through Oz's eyes. Whenever she wants to, she possesses Oz and looks down upon the earth from the sky.Whether she wants to inspect the flora on the Stormbearer Mountains or observe a disturbance in Wolvendom, through Oz she can see anything and everything.Thanks largely to her unique ability — and, to a lesser extent, to her own effort and peculiar personality — Fischl quickly went from the rookie investigator of the Adventurers' Guild to a respected rising star of the organization.She's certainly done well for herself. She only landed the coveted position of Investigator at age fourteen in the first place because her parents managed to persuade the guild master.Then again, would they really have had to do much persuading? If she's the Prinzessin der Verurteilung... one can only assume that would make them the Kaiser und Kaiserin der Verurteilung."
+            },
+            {
+                "title": "Character Story 2",
+                "text": "It's said that there is currently a \"Fischl Dictionary\" in circulation among the adventurers.Namely, a book that aims to translate Fischl's peculiar way of speaking into something more understandable.For example:\"I hear... echoing in the abyss of time, the burning winds of the old, all of which shape the spire forgotten in the torrents of karma\" would translate into \"Stormterror's Lair\";\"Servants of the Verurteilung name! As you have requested, prepare to receive the great wisdom of the prinzessin\" would be \"I'll look into that and let you know ASAP\";\"Rejoice! O, ye servants who long for the blessing of the prinzessin; venture now deep into the battlefield with hearts of the tiger\" means that the initial investigative work has been completed;\"All has been written in this tome of dark prophecies\" simply means that her journal has been updated with the latest reports.However, the \"Fischl Dictionary\" is actually just an in-joke, not a real book.Those who are familiar with Fischl concentrate on what she means to say, not the way in which she says it; she notices this and takes it as a sign of true respect.\"Aha! So you do understand. Then fate does indeed bring kindred spirits together.\"Those who manage to adopt her speech mannerisms when they respond to her will find she is both delighted and bashful, and praises their language-learning ability.\"A prinzessin should always give praise where praise is due... Now, let us converse some more. Do not be mistaken; these are to be the foundations of the new world...\""
+            },
+            {
+                "title": "Character Story 3",
+                "text": "Oz and Princess Fischl are not only close friends but also servant and master, with a shared soul and fate.Their first encounter was mentioned in \"Flowers for Princess Fischl (I): End Time {{tt|Zersetzung|German for \"decomposition\"}}\"When the lone pilgrimaging princess reached the kingdom of eternal twilight, the fate-resisting royals chose to deny everything in their desperation.They refused to recognize Fischl's noble stature and mission as the princess of the Immernachtreich; denied their 13,000-year lineage as a branch of the royal family; and forsook their own nobility and restraints as humans... devolving into clumsy and vicious beasts.In the palace of Twilight and amidst the teeth of the beasts, the princess shed her sacred blood on the ancient emblem.At the moment of her peril, the dark wings of the night ripped the trapped, wounded princess from her despair and took her under its wings.Following the scent of her noble blood, Ozvaldo Hrafnavins, the King of Ravens came to the princess and pledged his eternal loyalty."
+            },
+            {
+                "title": "Character Story 4",
+                "text": "There is a story that goes as follows. A long time ago in a place far, far away, there was a tiny little girl.The girl's parents were busy adventurers. She spent most of her childhood in the library, traversing the countless universes that were contained in the pages of the library books.She became the ruler of the Immernachtreich, summoned Thundering Retribution as a royal princess, and formed a soul bond with a Raven......\"{{Obf|Amy}}, what books did you read today?\" Her parents asked her on one of the rare occasions that they were home between adventures.She proceeded to tell them the story she had read from her favorite series.\"...And then he said, Fischl von Luftschloss Narfidort, you are the Prinzessin der Verurteilung, my proud daughter. You shall never surrender your nobility and dreams.'\"\"Oh, that's a lovely story. Since you like it so much, {{Obf|Amy}}, how about I call you \"Fischl\" too?\" Her father smiled, put his hand on her head and repeated the words from the story to her.\"Fischl, you are my wonderful princess and my proud daughter. You shall never surrender your nobility and dreams.\"These kind and loving words lit up her world.However, the time with her busy parents was always fleeting.Unable to fit in with her peers due to her obsession with fantasy novels, she often felt lonely and sad. At these times, she would remind herself:\"I am Fischl, my daddy's wonderful princess. It's true, because Mommy and Daddy said so...\"\"Never will I surrender my nobility and dreams, for they are... a princess' rite of passage.\""
+            },
+            {
+                "title": "Character Story 5",
+                "text": "Just like in the universe of \"Flowers for Princess Fischl,\" entropy begot destruction.In other words: The girl who loved to dream grew up.On her fourteenth birthday, those of her peers who refused to accommodate her quirks belittled her once again.\"This is but a minor setback for the noble princess. My parents will understand,\" she thought to herself.For if she knew one thing, it was that as a princess she could never surrender her nobility and dreams.But when she threw herself into her parents' arms in need of comfort, she was met instead with gentle words of exasperation.\"{{Obf|Amy}}, you are fourteen years old now. It's fun to make-believe, but eventually you need to grow up and put your childish dreams behind you...\"And with that, the same voice that had once lit up her world now tore it apart.That day at midnight, she hid herself in the library she knew so well. She had a strange feeling that she was being watched... Suddenly, she heard an otherworldly flapping of wings.Sure enough, she looked up and her red, swollen eyes met with those of a night raven from another world.What transpired afterwards is another story...Fischl doesn't much like this story. Thinking about it causes her to feel suffocating pain and soul-devouring loneliness.Maybe one day, this story will be written. But that would be {{Obf|Amy}}'s story, not Fischl's.Fischl has but one identity: she's the Prinzessin.As long as she remembers this simple and perfect logic, with a little bit of nobility and a touch of kindness from others, nothing can ever hurt her.Things are looking up for Prinzessin Fischl these days — not only does she have Oz, but she has finally met a traveler who, just like her, comes from a different world..."
+            },
+            {
+                "title": "Flowers for Princess Fischl: Phantasmagoria",
+                "text": "The novel series \"Flowers for Princess Fischl\" is available as a collectible set.Due the tiny numbers in circulation, it is a priceless commodity amongst loyal fans of the author.But no matter how elegant these works are aesthetically, their worldview remains incredibly bleak:Every good, bright and noble thing must eventually fall to inexorable entropic destruction, and the final destination of the universe is the realm-in-waiting of the Prinzessin, Immernachtreich.This is the fate of all worlds, of the universe, and all who live in it.And the Prinzessin and her loyal companion, the \"Night-Severing Raven Oz,\" Ozvaldo Hrafnavins, are the World Beasts who will swallow all dreams.At the very end, at the end of karma itself, she will grant all the gathered souls her benediction, and use her Thundering Retribution to cleanse all that is ugly and wicked.The Prinzessin will then set her own heart ablaze, and the universe shall be born anew in its immortal light.But before all this can come to pass, the Prinzessin must first roam many universes, and see countless new sights.Thus it is perfectly within the spirit of the original work that the Prinzessin should be stuck as an investigator for the Adventurers' Guild in a slightly backward world. Just a little twist of fate, nothing more.The Prinzessin will come to understand someday that each moment of her life, no matter how insignificant their little twists could be, is to be treasured.After all, the Prinzessin's very own Phantasmagoria is made out of ones such as these."
+            },
+            {
+                "title": "Vision",
+                "text": "So, is Oz just an imaginary friend who only exists as a figment of Fischl's subconscious?Our story begins with the royal heirloom, {{tt|Edelstein der Dunkelheit|German for \"Gemstone of Darkness\"}} — that is to say, Fischl's Vision.When her wish was acknowledged, the raven Oz and her Vision both appeared before her eyes.That night, at dinner, Oz got on most well with Fischl's parents:\"Ah, mein {{tt|Kaiser und Kaiserin der Verurteilung|German for \"Emperor and Empress of Condemnation\"}}, forgive mine overstep, but the beans in your house are too delicious.\"\"Oh, then please, help yourself. This is the first time little {{Obf|Amy}} has met a friend she can bring over for dinner since she turned fourteen. This is a special occasion.\"\"W—What are you saying! I... One does not simply cavort with the plebeians!\"—And that's what happened.For all intents and purposes, it seems that the Kaiser und Kaiserin der Verurteilung could both see Oz, and both believed Oz to be the Prinzessin's first friend.As for the \"Adventurer Who Bears the World's Curses,\" the \"Visitor From Outer Worlds\" and the \"Strange Fae-shaped Emergency Sustenance...\"They would become the Prinzessin's new friends, though that would happen even further in the future."
+            }
+        ],
+        "additional_lore": [
+            {
+                "title": "Hello",
+                "text": "'''Fischl:''' I, Fischl, Prinzessin der Verurteilung, descend upon this land by the call of fate an— Oh, you are also a traveler from another world? Very well, I grant you permission to travel with me.<!--\n                    -->'''Oz:''' She means, \"Nice to meet you.\""
+            },
+            {
+                "title": "About Fischl: Prinzessin der Verurteilung",
+                "text": "'''Fischl:''' Me? Hehehe. Remember thou this, that I, Fischl, am the Prinzessin der Verurteilung, Sovereign of Immernachtreich, omniscient and eminent judge of all the world's iniquity!<!--\n                    -->'''Oz:''' She's an investigator for the Adventurers' Guild.<!--\n                    -->'''Fischl:''' ...Ahem. That is but one of my many royal engagements."
+            },
+            {
+                "title": "About Us: Beings Who Descended Upon This World",
+                "text": "Huh, you and I are both travelers from another world. That our paths have crossed here is no accident, but the will of fate."
+            },
+            {
+                "title": "About Us: Shooting Down the World Beast",
+                "text": "You seem... troubled. Traveler, do not lose heart! For with my left eye, the Auge der Verurteilung, which sees the threads of fate, I will surely keep you from harm. And Oz, the raven that has witnessed the demise of countless worlds, will watch over you on your journey. Should this world, like a beast prowling in the night, covet your dreams, then I, Prinzessin der Verurteilung, shall fell it with my ensorcelled arrows of judgment!"
+            },
+            {
+                "title": "About Us: Ones Dear to Heart",
+                "text": "'''Fischl:''' Oz, my loyal companion. That we should have met this person, one who hails from another world as I do... Perhaps even cruel fate has deigned to smile upon me, though sin courses through my veins. If I am indeed destined to remain here, in this inescapable prison that is reality, at least—<!--\n                    -->'''Oz:''' I understand, mein Fräulein! In this traveler, Fräulein has found one who will never forsake her."
+            },
+            {
+                "title": "About Us: Standing Watch",
+                "text": "'''Fischl:''' Ozvaldo von Hrafnavins. I, the Prinzessin der Verurteilung, sovereign of the Immernachtreich, do hereby call upon thee to do all within thy power to deliver the traveler from the claws of fate that would seek to snatch them at every turn, and to ready thy mind lest thou be required to make the ultimate sacrifice in the performance of this noblest of duties.<!--\n                    -->'''Oz:''' ...You'd place my life in danger so easily, mein Fräulein?"
+            },
+            {
+                "title": "About the Vision",
+                "text": "Oh? You inquire about my Edelstein der Dunkelheit? It is a royal heirloom, a ceremonial ornament that displays the majesty of the Prinzessin der Verurteilung before the unworthy. Even here, in this fallen world, I have been reunited with my rightful inheritance as one of royal blood and noble spirit, for the majesty of a true princess shall draw her royal heirlooms unto her wherever so she may roam."
+            },
+            {
+                "title": "Something to Share",
+                "text": "'''Fischl:''' If one must reckon time as this world does, I, Fischl, have already seen three thousand winters. Not that the illusory passage of time has any bearing on one such as I, to whom the causality of three thousand universes has been unveiled.<!--\n                    -->'''Oz:''' Be that as it may, mein Fräulein, you are not yet considered to be of drinking age in this world, and no bartender can ever be convinced otherwise."
+            },
+            {
+                "title": "Interesting Things",
+                "text": "Oz's full name is Ozvaldo von Hrafnavins. Where I hail from, he holds dominion over star and sky across three universes, and the souls of the mighty, fallen in battle, rest in the shadow of his wings. One should add that the penalty for mispronouncing his name is to have one's tongue torn from one's mouth. However, as I am a princess and you are one who has my favor, we are at liberty to simply call him, \"Oz.\""
+            },
+            {
+                "title": "About Bennett",
+                "text": "'''Fischl:''' Ah, the ill-starred young man... My Auge der Verurteilung has seen with unmistakable clarity how his heart ails at being forsaken by the world—<!--\n                    -->'''Oz:''' Someone needs to keep an eye on the unlucky fellow."
+            },
+            {
+                "title": "About Lisa",
+                "text": "'''Fischl:''' The magus-custodian of books, gatekeeper of universal knowledge... Win her trust, and one may yet gain access to a vast repository of wisdom...<!--\n                    -->'''Oz:''' She means as long as you return your first few library books on time, you'll never have any trouble borrowing a book again."
+            },
+            {
+                "title": "About Kaeya",
+                "text": "'''Fischl:''' His nature is obscure, his fate a mystery, and his speech a vexing tapestry woven of both fact and fiction... Perhaps he and I share the burden of mystical sight...<!--\n                    -->'''Oz:''' Or perhaps he's secretly an actual pirate?"
+            },
+            {
+                "title": "About Mona",
+                "text": "'''Fischl:''' Aha, yes, Mona, the mighty astrologer... Mona, who once had the vanity to probe the fate of the Prinzessin der Verurteilung herself! She wound up a trembling wreck, overborne and overmastered.<!--\n                    -->'''Oz:''' The poor lass was trying desperately not to laugh. It was no easy task."
+            },
+            {
+                "title": "About Rosaria",
+                "text": "'''Fischl:''' One finds Sister Rosaria to be a most devout believer in the Anemo Archon.<!--\n                    -->'''Oz:''' ...\"Devout believer,\" mein Fräulein?<!--\n                    -->'''Fischl:''' Indeed! One night, I heard her invoking the name of the Archon thus in another's presence: \"May you be struck down in the name of Lord Bartabos!\" One presumed that she was leading a prayer."
+            },
+            {
+                "title": "More About Fischl: I",
+                "text": "To condemn the guilty, to sanctify the just, and to draw all castaway dreams into the embrace of the infinite Immernachtreich. This is the birthright of the Prinzessin der Verurteilung, and her burden. None may gainsay it."
+            },
+            {
+                "title": "More About Fischl: II",
+                "text": "My left eye? It is the all-seeing Auge der Verurteilung, which reveals all that is true in the world. As to the question of why I conceal it... Well, would you willingly bear the agony of piercing to the heart of all truths? Furthermore... the world would lose much of its appeal if wholly stripped of delusion and falsehood."
+            },
+            {
+                "title": "More About Fischl: III",
+                "text": "'''Fischl:''' Stormterror? Why, one never would have thought that a being that one might have kept as her pet could, in this world, be capable of causing such calamity. *sigh* Pitiable are the incompetents of this world...<!--\n                    -->'''Oz:''' That said, mein Fräulein, were you not beside yourself with worry for everyone's safety during said calamity?<!--\n                    -->'''Fischl:''' Th—That is because the Prinzessin der Verurteilung has the solemn duty to safeguard the souls of all, be they petty beings or not..."
+            },
+            {
+                "title": "More About Fischl: IV",
+                "text": "'''Oz:''' Some people address her by other names. But to me, the one who gave me life and bestowed my powers upon me is Fischl, and none other. All things considered, Fischl is the name that most aptly captures her identity. Seriously, don't call her anything else, or—<!--\n                    -->'''Fischl:''' Oh, how one's royal ears do burn! Pray tell, what is the matter which you discuss so furtively?<!--\n                    -->'''Oz:''' Mid—Midnight Phantasmagoria, mein Fräulein! And... the majesty of the Verurteilung name!"
+            },
+            {
+                "title": "More About Fischl: V",
+                "text": "Why must the Prinzessin der Verurteilung punish sin? Because sin defies fate's rightful decree, of course! ...And of course, fate brought you here, so, so... Ahem! It was fate that saw to your descent upon this world, destiny that saw our paths intertwined. I, Fischl, shall always protect you. Because... because fate has revealed to me that this is what has been decreed!"
+            },
+            {
+                "title": "Feelings About Ascension: Intro",
+                "text": "'''Fischl:''' My magic arrow cries out my holy name as it streaks through the night, praying that the violet lightning of retribution shall strike the enemies of fate down from the skies!<!--\n                    -->'''Oz:''' Quite awe-inspiring, mein Fräulein! Since it's nearly dinner time, perhaps you might shoot a pigeon down while you're at it?"
+            },
+            {
+                "title": "Feelings About Ascension: Building Up",
+                "text": "'''Fischl:''' With this, I may more fully manifest my majesty as Prinzessin der Verurteilung, and defeat that sworn enemy of fate named \"reality.\"<!--\n                    -->'''Oz:''' It will also be of use in your work for the Adventurers' Guild, mein Fräulein."
+            },
+            {
+                "title": "Feelings About Ascension: Climax",
+                "text": "Rejoice! Else, tremble in fear! Whenceforth springs this call to mirth and misery, you ask? Let it be known that I, the Prinzessin der Verurteilung, sovereign of the Immernachtreich, have peered forth with mine leftmost eye into the tapestry of fate that doth make up the universe, and beheld its every warp, weft and dangling orphaned thread!"
+            },
+            {
+                "title": "Feelings About Ascension: Conclusion",
+                "text": "I appear to have now regained most of the strength I lost in my transition to this world. Mwuhahaha, the day of judgment is nigh! ...Ah, worry not. Even at the last, when I bring the lightning of retribution upon this world, you shall come to no harm, for thou art blessed by the Prinzessin.\n}}\n\n==Combat==\n{{Combat VO\n|character           = Fischl\n\n|skill_1_tx          = By royal decree!\n|skill_2_tx          = Oz, reveal thyself!\n|skill_3_tx          = ''(Resummon)'' I summon thee!\n|skill_4_tx          = ''(Resummon)'' '''Oz:''' No rest for the wicked...\n|skill_5_file        = Elemental Skill 2 01,Elemental Skill 2 02,Elemental Skill 2 03,Elemental Skill 2 04\n\n|burst_1_tx          = Wings of Darkness, come, sever the night from day!\n|burst_2_tx          = Midnight Phantasmagoria!\n|burst_3_tx          = Shadow raven, let night fall!\n|burst_4_tx          = '''Oz:''' As you wish, mein Fräulein!\n|burst_5_tx          = '''Oz:''' Midnight Phantasmagoria!\n\n|sprint-s_1_file     = Sprint Start 01,Sprint Start 02,Sprint Start 03\n\n|glider_1_file       = Deploying Wind Glider 01,Deploying Wind Glider 02,Deploying Wind Glider 03\n\n|chest_1_tx          = Destiny has brought me hither!\n|chest_2_tx          = What trinkets lie veiled within this desolate plane?\n|chest_3_tx          = Hahaha, cry out my illustrious name!\n\n|low-hp_1_tx         = Doth thou wish to witness my true power?\n|low-hp_2_tx         = '''Oz:''' Mein Fräulein! Should you fall...\n|low-hp_3_tx         = This cruel fate befits not one of royal blood!\n\n|ally-low-hp_1_tx    = Hmph! Allow me!\n|ally-low-hp_2_tx    = '''Oz:''' Mein Fräulein, your presence is urgently required...\n\n|fallen_1_tx         = This realm is no home for a princess...\n|fallen_2_tx         = One shall... descend... once again...\n|fallen_3_tx         = '''Oz:''' Mein Fräulein!\n\n|hit-l_1_file        = Light Hit Taken 02\n|hit-l_1_actual_tx   = Goodness gracious!\n|hit-l_2_file        = Light Hit Taken 01,Light Hit Taken 03,Light Hit Taken 04,Light Hit Taken 05,Light Hit Taken 06\n\n|hit-h_1_tx          = Insubordination!\n|hit-h_2_file        = Heavy Hit Taken 03,Heavy Hit Taken 04,Heavy Hit Taken 05,Heavy Hit Taken 06\n\n|join_1_tx           = In the name of the Prinzessin!\n|join_2_tx           = '''Oz:''' Behold, the Prinzessin der Verurteilung!\n|join_3_tx           = The threads of your fate lie in my hands!\n\n|idle_1_file         = Standby 02\n|idle_1_actual_tx    = I created another universe and founded paradise. For I, Fischl, am the Prinzessin der Verur—...\n\n|atk-l_1_file        = Light Attack 01,Light Attack 02,Light Attack 03,Light Attack 04,Light Attack 05,Light Attack 06,Light Attack 07\n\n|atk-l-laugh_1_file  = Light Attack Laugh 01,Light Attack Laugh 02,Light Attack Laugh 03\n\n|atk-m_1_file        = Mid Attack 01,Mid Attack 02,Mid Attack 03\n\n|atk-h_1_file        = Heavy Attack 01,Heavy Attack 02,Heavy Attack 03\n\n|climb_1_file        = Climbing 01,Climbing 02,Climbing 03\n\n|climb-b_1_file      = Climbing Breath 01,Climbing Breath 02,Climbing Breath 03,Climbing Breath 04,Climbing Breath 05,Climbing Breath 06\n\n|jump_1_file         = Jumping 01,Jumping 02,Jumping 03,Jumping 04,Jumping 05\n}}\n\n==Trivia ==\n* In English, Fischl often uses German for her titles and names. Oz, when playing along, uses a few German phrases himself.\n** \"Prinzessin der Verurteilung\" means \"Princess of Condemnation.\"\n** \"Immernachtreich\" means \"Kingdom of Eternal Night.\"{{Verify}}\n** \"Edelstein der Dunkelheit,\" which she uses to refer to her Vision, means \"Gem of Darkness.\"\n** \"Mein Fräulein\" means \"my lady.\"\n** \"Mitternachtsbrot des Sommernachtgartens\" means \"Midnight Bread of the Summer Night Garden.\"\n* While her Story makes it rather clear that Fischl is not from a world beyond Teyvat, she seems to possess some knowledge that others don't. Unlike many other characters, she acknowledges that the Traveler is from another world, apparently without having been told.\n\n==Navigation==\n{{Character Navbox|VO}}\n\nes:Fischl/Voz\nfr:Fischl/Répliques\nit:Fischl/Battute\nja:フィッシュル/ボイス/英語\npt-br:Fischl/Falas\nru:Фишль/Озвучка\nth:Fischl/เสียงพากย์\ntr:Fischl/Replikler"
+            }
+        ]
+    }
+}

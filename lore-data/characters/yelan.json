@@ -1,0 +1,165 @@
+{
+    "name": "Yelan",
+    "entity_type": "character",
+    "status": "active",
+    "region": "Liyue",
+    "affiliations": [
+        "Yanshang Teahouse",
+        "Ministry of Civil Affairs",
+        "Northern Intelligence Network"
+    ],
+    "power_source": "Vision",
+    "element": "Hydro",
+    "constellation": "Umbrabilis Orchis",
+    "aliases": [
+        "Valley Orchid",
+        "A mysterious person who claims to work for the Ministry of Civil Affairs"
+    ],
+    "lore": {
+        "descriptions": [
+            "A mysterious person who claims to work for the Ministry of Civil Affairs, but is a \"non-entity\" on the Ministry of Civil Affairs' list.Elusive, enigmatic, erratic - all of these are Yelan's hallmarks.",
+            "A mysterious person who claims to work for the Ministry of Civil Affairs, but is a \"non-entity\" on the Ministry of Civil Affairs' List."
+        ],
+        "character_stories": [
+            {
+                "title": "Official Introduction",
+                "subtitle": "The world is vast and infinite, the solitary one comes and goes as she pleases",
+                "text": "Yelan's identity has always been a mystery.\nLike a phantom, she often appears in various guises at the center of events, and disappears before the storm stops.\nThe people who are caught up in trouble look forward to meeting her. For some reason, most of them think she will help them, and if not, they want her to be their ally.\nBut the problem is, their opponents harbor the same idea.\nEvery one of these people has met a Yelan who goes by a different name and identity, and each of them thinks they can reach a partnership with her. However, everyone has been kept in the dark.\nWho does she want to help? When will she tell the truth?\nOnce she acts and intervenes, nothing can be trusted.\nWhen she reveals her true identity and speaks the truth, those who are eager for answers may not have the chance to hear it."
+            },
+            {
+                "title": "Character Details",
+                "text": "Liyue's Ministry of Civil Affairs is an organization marked by transparency — from ordinary staff members of the Eight Trades to prominent officials of Yujing Terrace, every employee has their basic information documented in the Ministry's lists.Yelan, despite claiming to work for the Ministry, is the sole exception. Most of her colleagues have never heard of her, nor is her name anywhere to be found on any rosters.This does say something about her character — elusive, enigmatic, and erratic.She is a ghost who walks in the middle of many crises under various names. But before the storms can come to an end, she has already disappeared without a trace.Sometimes, she will pick a side in some conflict to offer her help, but those who receive her aid would be fools to celebrate prematurely, for they soon find that the same help has been extended to their opponents.Having stepped into her trap, many have vowed to take revenge, yet none are able to tell what she is planning, let alone know where she stands.Many believe that she is a spy who works for some mysterious organization, and that her forte is stirring things up in the dark, which she then relies on to attain what she wants.Some even go as far as saying that she is a frenetic follower of disorder who neither serves any organization nor holds any meaningful purposes.Even if she does, all she wants is to add fuel to the already spreading flame and drag everyone down into a world of madness created by her.With so many theories and guesses circulating, she has become a mystery. As for the truth, you could only hope to get an answer from Yelan herself.But unfortunately, this is no easy task either — for it is always she who finds you when she wishes to, not the other way around."
+            },
+            {
+                "title": "Character Story 1",
+                "text": "Pharmacies in Liyue Harbor occasionally receive curious patients.On some days, it might be a Sumeru mercenary, on other days, a Fontaine adventurer, and there might even be some Mondstadt fisher who accidentally fell into water and bumped her head against a rock...These people are of different ages, statuses, and origins, but there is something equally peculiar to them, that is, they all share a slight addiction to pain.They like the stinging sensation when pharmacists apply herbal remedies to their wounds and enjoy the dull pain caused by pressure on their bruises.They even seem to care little if anesthetic is used or not when they are put through painful therapies.Surprised by their extraordinary endurance, novice pharmacists are sufficiently distracted, such that they fail to notice that all their patients are actually the same person.They are, all of them, Yelan in disguise. A master in this art, she always manages to avoid attention.As for the wounds on her person, these are the inevitable result of her constant exposure to danger from mission to mission.Despite the curious job, Yelan herself is not very curious about the world.She eats, sleeps, and lives just like everyone else, but few things can really pique her interest.She is well-read, but she is no avid reader. She always knows what to say to achieve the best result, yet she takes no pleasure in playing mind games.She travels far and roams the lands, yet the traveling and roaming are bland to her.In Yelan's eyes, these things are not hobbies, but a means to an end.She even prefers to roll the dice to decide how she will pass the time.Just as someone who is so used to spicy food might lose the ability to enjoy ordinary dishes, Yelan finds that only spicy cuisine can bring her satisfaction.\"Blandness is synonymous with blindness, while thrills afford clarity.\"Acting upon said philosophy, she chooses an acute style of life, venturing into many places while hiding in the shadows.She dances with danger, secrets, and a strong sense of achievement — these are the vivid proof of her existence."
+            },
+            {
+                "title": "Character Story 2",
+                "text": "Shorn of her masks, Yelan is a special intelligence officer who reports directly to the Tianquan Ningguang.The title itself is not entirely accurate, for it only covers the scope of her work but not her relationship with the Tianquan.Deep in her heart, Yelan does not think of herself as anyone's subordinate. The way she sees it, she is not so much working for Ningguang as making good on her end of the deal, or rather... she is honoring a certain pact.She plucks the fruits of intelligence from the tree of danger for Ningguang, and in return, all she asks for is danger itself and the sense of achievement.None know when their collaboration began.The only thing certain is that Yelan has long made her presence felt in lands outside Liyue.From other nations in Teyvat to even the perilous Abyss...Every secret and perilous demesne shall become a garden where orchids bloom.Stealthily she roams the night, stars shining upon her in the skies."
+            },
+            {
+                "title": "Character Story 3",
+                "text": "Yelan spends much of her time patrolling and roaming The Chasm, where she often stares into the darkness deep below.Her family's history dates far back into an ancient age, and her ancestors once fought in The Chasm against a great cataclysm.Wanton death was dealt during that battle, and even a yaksha met their end there. Only a few survived the grueling bloodshed.One of her ancestors died, while the other went insane, constituting a huge blow to her family.Yelan has always wanted to find out what happened back then. Despite her better judgment, she can't help feeling attracted to The Chasm.It almost feels like something that runs in her blood — something inexplicably ominous — has been summoning her to The Chasm.Perhaps she will plunge into that darkness one day, and the ill fate that once befell her ancestors shall find her too.The ominous calling that runs in the family shuts down her fear and turns on her craving for danger. This may be the reason for the peculiarities in her character, Yelan presumed.She had never doubted it until she came of age, until the seal on The Chasm was lifted.With the help of her companions, she unveiled the hidden past of her ancestors.That moment marked a new chapter in her life:In the past, she was a wild beast driven by pure instinct. Drawn to danger, she walked into darkness.From that moment on, she has found the true meaning of her instinct.That which hides inside her, that constant calling, is not only a source of worry but also a light of guidance.It is the blood of heroes which has been howling for 500 years.She has no fear, for the courage within her makes her strong. She craves danger, for the heir of heroes is meant for a great adventure.Some day, she will embark on the path her ancestors once took.She is the descendant of heroes, and she shall become the hero for many who will come after her."
+            },
+            {
+                "title": "Character Story 4",
+                "text": "The Ministry of Civil Affairs has a Special Attention List.The list isn't long, but everyone on it is truly extraordinary:For instance, the unbound and forthright leader of the armed fleet and the capable outland traveler with a broad range of skills.The list even includes some reclusive adepti in Liyue whose names still bear great weight today...These people could easily bring storms upon Liyue, their intentions notwithstanding.As such, the Ministry of Civil Affairs, ever on guard against risk, still watches them closely.On top of that, there is also a more classified Secret Intelligence List.Those on it are the real threats to Liyue.So who are they exactly?The Fatui Harbingers? Figures from the Abyss Order?Or perhaps, are even the names of gods listed there?Other than the Qixing, Yelan is likely to be the only one who can answer these questions, for she is the very person who compiled the two lists.The results of such work please her greatly, and day after day, she perfects the lists, as crows embellishing their nests with shining trinkets.That said, while both are equally obsessed with collecting, Yelan must sweat and even bleed to secure what she is after, while crows need only flap their wings to achieve their aim.Fortunately, this does not bother her at all, for she believes that the intelligence is worth whatever cost she is going to pay.One day, the information will come in handy — Liyue will never plunge into disaster without any clue of the danger like it once did 500 years ago.She will see to it that Liyue is not caught unprepared."
+            },
+            {
+                "title": "Character Story 5",
+                "text": "Don't play dice at Yanshang Teahouse.If you can't help yourself, play with someone you know.If a lady whom you've never seen before invites you to a game, just ignore her.Heed this earnest advice from veteran gamblers.Do not try your luck with that terrifying woman unless you want to have a gloomy day.The invincible lady of Yanshang Teahouse is none other than Yelan herself, and one of her guises is that of the owner of this teahouse.A while ago when she came back from abroad, Liyue had just weathered the Osial crisis, and the Fatui who had occupied Yanshang Teahouse were now largely out of the game.Yelan seized the opportunity to take it over, turning the teahouse into a secret base.On the one hand, with people from all walks of life to be found here, the teahouse serves as an ideal source of intel. On the other hand, as Yelan has no issue with occasionally giving herself a break, she will pretend to be a regular customer, drinking some tea and playing a few rounds of some game.Every round of finger-guessing is a tiny adventure, and every roll of dice sends sporadic thrills down her spine. Even the smallest challenge is something she can never get enough of.As an intelligence operative, Yelan takes pride in her skills — she is confident that she can read her opponents' eyes and roll the dice such that they fall outside the rules but well within her designs.If there is a draw, that could only mean one thing: Her opponents are cheating too.Don't try to reason with her. The very concept of \"reasoning\" is simply foreign to the Yanshang Teahouse, nor does it exist in Yelan's vocabulary.Be good and choose between the pain of losing and the disgrace of cheating.You want to have neither, huh? Then why don't you turn the clock back to the very beginning? Don't play dice at Yanshang Teahouse!"
+            },
+            {
+                "title": "The Fascinating Bracelet and the Whitesilk Mantle",
+                "text": "Throughout Yelan's intelligence career so far, there has been one memorable operation that fuses both failure and success together.One could say that it was a failure because she lost a family heirloom named the \"Fascinating Bracelet\" during that operation.The inside of the jade bracelet is engraved with a spell passed through her line that turns the heirloom into a simple communication device. However, the spell requires a pair of such vessels to work. Now that only one bracelet is left, it is no more than a mere accessory.However, the operation also proved a success for Yelan because her enemy did not get the upper hand, either. And this enemy of hers was no ordinary character — it was none other than \"Regrator,\" Ninth of the Fatui Harbingers.Yelan infiltrated a secret trade route that was run by Regrator behind the scenes, intercepting the goods and picking the most precious one of them as compensation for her bracelet.Now, there once existed a strange mystical beast in times of old. A robe made from its fur would be worth a fortune, and due to its rarity, such a robe is exceptionally hard to procure.In fact, the beast is so powerful that although it died centuries ago, its body remains intact today, and its fur still emits a mysterious fragrance.Regrator had intended it as an offer to the Tsaritsa, yet Yelan unexpectedly intercepted it.Not only that, she also rejected the style that Snezhnayans had chosen for their Tsaritsa — she yanked the fur off, combined it with Liyue's Ramie yarn, and made a rather fashionable sleeved mantle for herself.This series of happenings could be seen as significant or insignificant — depending on one's perspective. Ultimately, it all boils down to three words: gains and losses.The cycle of gaining and losing is a rather accurate summary of Yelan's life.None of that really bothers her though. Instead, she takes immense pleasure from it."
+            },
+            {
+                "title": "Vision",
+                "text": "Yelan wasn't always on her own. Many years ago, she once had a team who watched each others' backs.There were a small group of people who for various reasons chose to tread a path in the dark with her.But back then, Yelan had not yet realized that her clever tricks and ingenious traps, the skills that she took pride in, could not solve everything for her.Enemies with a strong sense of self-control would not bite her bait, opponents with cunning and calculating minds would not fall for her schemes, and those with overwhelming power would simply strong-arm their way out of her traps.Therefore, Yelan and her team paid the price — one by one, they perished along the way, though they had long foreseen and prepared themselves for such a fate...Still, after a mission to investigate the Abyss, Yelan eventually found herself left alone. For the first time in her life, she stopped, for a long, long time.This state of affairs persisted until one day, when Ningguang visited her in her wood hut personally.\"You haven't been back to Liyue Harbor for a while. Something must've happened. I can understand if you want to quit.\"Ningguang stood outside the door, with a serious look on her face but her voice still casual and relaxed.\"But it's alright. I work with those I trust, and I trust those I work with. I'm willing to believe that you're here trying to find a way out. All postures, aggressive or defensive, are all means to an end, anyway.\"There was no response, but only a suffocating silence. A long time passed before Ningguang finally heard an answer from behind her:\"We both made a mistake: We shouldn't have involved ordinary folk in what we do.\"\"Ordinary folk?\"Even as Ningguang was formulating thoughts, a flash of blue shot towards her, stopping as it passed her by.In a display of great control from the archer, the arrow quickly shattered into pearls of water and broke into glistening shards of light before touching the ground.Ningguang turned around and saw Yelan walking up, a bow in hand, blood dripping down from her fingertips.One could only imagine the days and nights of grueling training in archery Yelan had gone through for all her fingers to bleed.Knowing Yelan well, Ningguang also understood that she must have been through an uncommonly tough situation. Only that could explain Yelan's uncommon determination to lock herself up for this grueling re-training.Yelan aimed at the mountain in the distance, a gesture that was also an answer to Ningguang.She released the arrow. Like lightning it shot into the skies, piercing through clouds with might that could shatter the dome of heaven itself. As if responding to the call of an unknown power, waters in the mountains growled and howled, then swirled their way upward in the form of countless arrows.When they met halfway in the sky, they exploded into a curtain of water, bringing down a squalling shower like those that adorned summer nights.As the sky cleared, there was no rainbow, no butterflies to be seen, only a faint pillar of light that fell into Yelan's palm.According to Ningguang, the Vision carries a message: \"From today onward, leave all matters to the extraordinary Yelan.\""
+            }
+        ],
+        "additional_lore": [
+            {
+                "title": "Hello",
+                "text": "Hello, Traveler. Call me Yelan. I think you may need my help, and I just so happen to be interested in some information you have. In other words — you scratch my back, I'll scratch yours."
+            },
+            {
+                "title": "About {character}: Duties",
+                "text": "The Qixing know Liyue like the back of their hands. But there's certain information out there that can only be obtained using more specialized methods. That's my area of expertise, so I generally take care of all those assignments myself."
+            },
+            {
+                "title": "About {character}: Rumors",
+                "text": "Some say the boss of Yanshang Teahouse is a young entrepreneur who got rich overnight; some say there's a sickly and frail senior employee of the Ministry of Civil Affairs living as a hermit outside the city; others say you should stay away from restricted areas, or you'll get haunted by a blue ghost... Obviously, most civilians have never heard the name Yelan before. So you can safely laugh off all these rumors."
+            },
+            {
+                "title": "About Us: Relationship",
+                "text": "Huh? What's that look on your face for? You don't have to be on guard around me. I never scheme against people who have my stamp of approval."
+            },
+            {
+                "title": "About Us: Deception",
+                "text": "Don't be too ready to believe people when they cross their heart and hope to die. Sweet talkers only say what you want to hear. And think twice before meeting someone else's gaze — your eyes speak volumes about what you're thinking. When it comes down to it, we're friends, and if somebody ever conned you, I'd feel like I'd been cheated, too."
+            },
+            {
+                "title": "About the Vision",
+                "text": "Wherever there's important information to be found, the stakes involved in extracting it are often fatal. It doesn't matter how big or reliable the team under you may be, you can never completely rule out the risk. The bottom line is, have enough force at your fingertips to control the situation. I got lucky — I got my Vision just a few days after realizing that. Otherwise... you'd probably be talking to a very disheveled-looking ghost right now."
+            },
+            {
+                "title": "Interesting Things",
+                "text": "Do you know much about Weasel Thieves? They're not especially intelligent creatures, but once you tame them, they can be trained to steal things and even pick locks. Pretty clear-cut case, isn't it — if even animals can be used as pawns with the right methods, the same has to be all the more true of people, who are constantly plotting and scheming against one another to begin with."
+            },
+            {
+                "title": "About Ningguang: Relationship",
+                "text": "I got to know Ningguang a long time ago, before she was a Qixing, and we worked together for a while. Maybe I'm partly to thank for the fact that she became a Qixing so quickly. Hehe, who can say? Anyway, she was the one who recommended this job to me. It was a good choice, I'm very well-suited to it."
+            },
+            {
+                "title": "About Ningguang: Expectations",
+                "text": "Ningguang is good to work with. But I have to be mindful of our identities when I'm out in public. When I meet a Qixing as an employee of the Ministry of Civil Affairs, they're \"Sir\" or \"Lady\" to me."
+            },
+            {
+                "title": "About Ganyu",
+                "text": "Ah, the secretary... I could never work non-stop like she does, certainly not at that level of efficiency. I guess being half-adeptus must have its perks. Imagine not needing sleep to regain your energy levels..."
+            },
+            {
+                "title": "About Keqing",
+                "text": "I don't really like people who cram their schedules full, because it doesn't leave any room for negotiation. If something happens that they didn't anticipate, it throws their plans into oblivion, impacting not just themselves but their coworkers, too. But the Yuheng is different. She works in a very methodical way. I always enjoy working with her."
+            },
+            {
+                "title": "About Yanfei",
+                "text": "I like Yanfei a lot. And I'm not talking about our friendship — as a high-profile legal consultant, important intel in Liyue Harbor is constantly flowing in her direction. Whenever I help her out, I always get some invaluable leads in return. I gotta say though, sometimes I think she respects me a little too much."
+            },
+            {
+                "title": "About Xiao",
+                "text": "The elders in my clan once said that we must always show the utmost respect to the Vigilant Yaksha. Apparently, the only time that our ancestor would gain some temporary relief from his insanity was when passing by the Wangshu Inn. It must have been the comforting effect of his presence that wards off evil spirits. That said, if I ever have the honor of fighting side by side with the Conqueror of Demons, I will focus only on the mission. I cannot let myself be distracted by concerns about his status."
+            },
+            {
+                "title": "About Xiangling",
+                "text": "Ah, Xiangling, the lovely little chef. Her ingredients are always top quality, easily as good as Liuli Pavilion and Xinyue Kiosk. Sometimes I go to her for dried Jueyun Chilis... She doesn't seem to understand why I eat them in the way that I do, and I don't feel like trying to explain it to her, either. It's just a family tradition."
+            },
+            {
+                "title": "About Xingqiu",
+                "text": "Of course I remember him — the young master of the Feiyun Commerce Guild. I have dealings with his family all the time. Who knows... maybe one day, he'll be outsmarting everyone around him, too."
+            },
+            {
+                "title": "About Tartaglia",
+                "text": "The Fatui harbinger? He helped me out once — unwittingly. I was planning a deep-reaching investigation into the former owner of the Yanshang Teahouse, but our harbinger friend got to him first. He showed up demanding payment of his debt, and also exposed his accounting fraud, which got him thrown in jail. That made it very easy for me to take over Yanshang Teahouse myself, and it's proven to be a very useful base."
+            },
+            {
+                "title": "More About {character}: I",
+                "text": "The reason I'm willing to bet on you is because of your special status. I think it'll bring me a lot of leads that can get me closer to the truth... Heh, so, got any news for me today?"
+            },
+            {
+                "title": "More About {character}: II",
+                "text": "Exchanging information has to be a two-way thing, so I guess I can tell you something about my past. Thanks to my family's connections, I learned some useful skills from the Millelith scouts very early on. Although there are things working against you every step of the way when you're gathering intelligence, as long as I keep myself alive, I'll always emerge as the winner in the end..."
+            },
+            {
+                "title": "More About {character}: III",
+                "text": "Clues are links in a chain. You have to trace them all the way back to where everything began before there can be a resolution. To that end, I need to keep my eyes and ears on every part of society, and often, that means having to be more than one person. People sometimes describe me as \"one person, many faces\" and so on... I take it as a compliment."
+            },
+            {
+                "title": "More About {character}: IV",
+                "text": "Someone once warned me to be careful about digging up certain things from the past. Dig too deep and you might find yourself standing in your own grave, they say... Well, I'm not about to stop, least of all because of anything anyone else has to say. Sure, I can't change the facts, but if it's a choice between the cold, hard truth and blissful unawareness, I'll take the former. What about you? Which would you choose?"
+            },
+            {
+                "title": "More About {character}: V",
+                "text": "Tell me something. If I'm gonna stay around, what kind of person do you want me to be to you? Someone you work with? A competitor, who challenges you to sharpen your game? Just another name on your long list of acquaintances, or... somebody more important than that? Depending on what you're hoping for, I can either play that part or become that person."
+            },
+            {
+                "title": "Feelings About Ascension: Intro",
+                "text": "In my line of work, combat skills are essential."
+            },
+            {
+                "title": "Feelings About Ascension: Building Up",
+                "text": "Sometimes, you have to strike hard and fast at just the right moment to expose the lies while avoiding any unwanted interference."
+            },
+            {
+                "title": "Feelings About Ascension: Climax",
+                "text": "Finding the truth might sound simple, but it takes perseverance to stick to the trail of clues and it takes strength to follow them deep into dangerous territory."
+            },
+            {
+                "title": "Feelings About Ascension: Conclusion",
+                "text": "I have long regarded you as my most important informant. Naturally, I need to be fully prepared to face whatever risks come with the final answer when you bring it to me. Come on, let's go get it!\n}}\n\n==Combat==\n{{Combat VO\n|character           = Yelan\n\n\n|skill_1_tx          = Busted.\n|skill_2_tx          = Gotcha.\n|skill_3_tx          = Quietly now.\n\n\n|burst_1_tx          = Game's up, fun's over!\n|burst_2_tx          = Here comes the catch.\n|burst_3_tx          = Things are about to get dicey.\n\n\n|sprint-s_1_tx       = Take it easy.\n|sprint-s_2_file     = Sprint Start 02,Sprint Start 03\n\n|glider_1_file       = Deploying Wind Glider 01,Deploying Wind Glider 02,Deploying Wind Glider 03\n\n|chest_1_tx          = Easy money.\n|chest_2_tx          = Treasure... one way to draw your target out of hiding.\n|chest_3_tx          = A chest full of valuables... and a trove of potential clues.\n\n|low-hp_1_tx         = What a drag...\n|low-hp_2_tx         = Winging it wasn't the best idea...\n|low-hp_3_tx         = I didn't factor this in...\n\n\n|ally-low-hp_1_tx    = Get back, I'll finish this job.\n|ally-low-hp_2_tx    = You're running cold, allow me.\n\n|fallen_1_tx         = What are... the odds?\n|fallen_2_tx         = How was l... so wrong...\n|fallen_3_tx         = But the truth... is still unknown...\n\n|hit-l_1_file        = Light Hit Taken 02\n|hit-l_1_tx          = Gutsy.\n|hit-l_2_file        = Light Hit Taken 01\n|hit-l_2_actual_tx   = Really...?\n|hit-l_3_file        = Light Hit Taken 03,Light Hit Taken 04,Light Hit Taken 05,Light Hit Taken 06\n\n|hit-h_1_tx          = No...\n|hit-h_2_file        = Heavy Hit Taken 02,Heavy Hit Taken 03,Heavy Hit Taken 04,Heavy Hit Taken 05,Heavy Hit Taken 06\n\n|join_1_tx           = Who's our target this time?\n|join_2_tx           = It's time to pull the trigger.\n|join_3_tx           = Let's go get ourselves some answers.\n\n|atk-l_1_file        = Light Attack 01,Light Attack 02,Light Attack 03,Light Attack 04,Light Attack 05,Light Attack 06,Light Attack 07\n\n|atk-m_1_file        = Mid Attack 01,Mid Attack 02,Mid Attack 03\n\n|atk-h_1_file        = Heavy Attack 01,Heavy Attack 02,Heavy Attack 03\n\n|climb_1_file        = Climbing 01,Climbing 02,Climbing 03,Climbing 04,Climbing 05\n\n|climb-b_1_file      = Climbing Breath 01,Climbing Breath 02,Climbing Breath 03\n\n|jump_1_file         = Jumping 01,Jumping 02,Jumping 03,Jumping 04,Jumping 05\n}}\n\n==Navigation==\n{{Character Navbox|VO}}\n\nes:Yelan/Voz\nfr:Yelan/Répliques\nit:Yelan/Battute\nja:夜蘭/ボイス\nru:Е Лань/Озвучка\ntr:Yelan/Replikler"
+            }
+        ]
+    }
+}

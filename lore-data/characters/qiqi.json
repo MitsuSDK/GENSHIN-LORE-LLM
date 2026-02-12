@@ -1,0 +1,158 @@
+{
+    "name": "Qiqi",
+    "entity_type": "character",
+    "status": "active",
+    "region": "Liyue",
+    "affiliations": [
+        "Bubu Pharmacy",
+        "Adepti",
+        "energy carrier",
+        "Qiqi was imbued with adeptal energy and given an adeptus name, Fortune Preserver. See [[Qiqi/Lore#Vision|Qiqi's Vision story]] and {{S|Adeptus Art: Preserver of Fortune#Trivia}} for more information."
+    ],
+    "power_source": "Vision",
+    "element": "Cryo",
+    "constellation": "Pristina Nola",
+    "aliases": [
+        "Icy Resurrection",
+        "Pharmacist, Bubu Pharmacy"
+    ],
+    "lore": {
+        "descriptions": [
+            "An apprentice and herb gatherer at Bubu Pharmacy. \"Blessed\" by the adepti with a body that cannot die, this petite zombie cannot do anything without first giving herself orders to do it.Qiqi's memory is like a sieve. Out of necessity, she always carries around a notebook in which she writes anything important that she is sure to forget later.But on her worst days, she even forgets to look at her notebook...",
+            "An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion."
+        ],
+        "character_stories": [
+            {
+                "title": "Official Introduction",
+                "subtitle": "Fortune Preserver Amidst Everlasting Cold",
+                "text": "An apprentice and herb gatherer at Bubu Pharmacy, Qiqi is an undead with a bone-white complexion.\nShe seldom has much in the way of words or emotions.\n\"Blessed\" by the adepti with a body that cannot die, this petite zombie retains her original appearance as a child. Who knows how old she really is...\nZombies must have orders before they can do anything. Somehow Qiqi ended up responsible for giving orders to herself.\nQiqi's memory is like a sieve. Out of necessity, she always carries around a notebook.\nDespite how problematic her memory may be, she is actually quite well-equipped to get through the day: she can use orders to force herself to complete tasks; if she forgets anything, she can look at her notebook for a reminder; and if any task proves difficult, her incredible strength can help solve many problems.\nRecently, she has also added a section on \"brain training\" and \"mnemonic methods.\" Her notebook is becoming a true \"dummy's guide\" on just about anything.\nBut on her worst days, she even forgets to look at her notebook...\nIf while in the mountains of Liyue you see someone bumping into things, walking in circles, or chasing squirrels that don't exist, it is almost certainly to be the adorable undead herb gatherer. If she seems to be struggling, please lend a helping hand!\n\"I am Qiqi. I am a zombie. And I forgot what comes next.\"\nAn apprentice and herb gatherer at Bubu Pharmacy.\n\"Blessed\" by the adepti with a body that cannot die, this petite zombie cannot do anything without first giving herself orders to do it.\nQiqi's memory is like a sieve. Out of necessity, she always carries around a notebook in which she writes anything important that she is sure to forget later.\nBut on her worst days, she even forgets to look at her notebook..."
+            },
+            {
+                "title": "Character Details",
+                "text": "Due to being a zombie, Qiqi lacks facial expression. She hopes that's okay.She may look like a zombie, but she's surprisingly limber due to a strict calisthenics regimen.Her memory is poor. She forgets easily, and that is partly why she can seem cold to others.Her appearance is forever frozen at the point of her passing, so estimates of her age are unreliable.Zombies require orders to act, but due to some reason or another, Qiqi is presently giving herself orders."
+            },
+            {
+                "title": "Character Story 1",
+                "text": "Usually, zombies are cold and stiff, which forces them to locomote by hopping about.As such, Qiqi keeps up a calisthenics regimen to retain a human-like form.The 77th-generation Director of the Wangsheng Funeral Parlor, Hu Tao, doesn't see the point of all this. Whenever she meets Qiqi, she will say: \"It would be easier if you just let me bury you.\"Qiqi, of course, has no wish to be buried, and so conducts her exercises at night when no one's about.Qiqi's memory falls far behind those of non-undead disposition.If she does not continue to reinforce her impressions of someone, she will completely forget them in three days tops.But who knows, this might be a good thing — for a person with painful memories, forgetting may, in fact, be a form of release.The person Qiqi must remember most... not only does this person have a very punch-able face, but she also shows up every single day.As such, Qiqi isn't too concerned about her poor memory."
+            },
+            {
+                "title": "Character Story 2",
+                "text": "Qiqi is very petite indeed, but is in fact a very powerful zombie. Her short stature is hardly any impediment, but is instead good for high-speed movement.In combat, Qiqi will unleash the self-control that she usually maintains, allowing her body to return to an undead state, increasing her strength and speed.\"You're dead.\"Once she has stoically defeated her enemies, Qiqi will once again get her muscles under control, returning to her normal state.She has been threatened in the past by Treasure Hoarders while picking herbs by herself.Now, a little girl, all by herself, seems like an easy target, no?Who would have thought that this girl could send a whole crew flying?This is why we should always remember never to judge a person based on appearances. Or a zombie, for that matter."
+            },
+            {
+                "title": "Character Story 3",
+                "text": "Zombies mostly require orders from the person who awakens them to move. But strictly speaking, Qiqi has never been awakened.As such, she counts as a very rare case of a zombie that gives itself orders.If these orders are simple ones like \"defeat the enemy,\" Qiqi has no problem fulfilling them.But when faced with complex instructions such as \"go to Jueyun Karst, climb the sheer rock faces and pick herbs,\" Qiqi sometimes winds up stuck below the cliffs, unable to give up no matter how many times she tries and fails to scale the cliff.The method to cancel her orders is very simple — hug Qiqi from behind, tell her something like \"I love you the most,\" and the orders will dissipate, just like that.Unfortunately, there's just no element of sincerity when Baizhu does it, leading to greatly reduced results.Perhaps someday, someone will come along who understands that such words cannot be spoken lightly, and who slowly but carefully releases the hold that Qiqi's orders have over her...What will Qiqi's response be then?"
+            },
+            {
+                "title": "Character Story 4",
+                "text": "This ancient story has long been forgotten by mortals.An ordinary herb-picking lass named Qiqi lost her way and trespassed the realm of the adepti. Injuring her right leg in a fall, she hurriedly hid in a cavern to rest.Even occupied as she was in bandaging her wound, she could hear sounds that did not belong to the mortal plane. But she could have never expected that with a huge crash, she would forever be trapped between life and death.Whether adepti or demons, just or wicked, all understood that she was an innocent mortal caught in the crossfire.Or perhaps it was by the will of heaven that she received a Vision in her dying moments, and so ended this contention between adepti and demon.The adepti could not bear to let her die, and each imparted to her a portion of their strength, meaning to breathe life back into her body.Qiqi did indeed awaken and live again, but went into a berserk state, unable to control the adepti energy raging through her.Seeking to end the disturbance, Mountain Shaper had no choice but to seal the hapless maiden in amber."
+            },
+            {
+                "title": "Character Story 5",
+                "text": "After hundreds of years, Qiqi was discovered by humans, still trapped in the amber, and was brought to Wangsheng Funeral Parlor for burial.The mountain roads were treacherous, however, and the amber was bumped about. Coupled with the passing of many years, the seal on Qiqi was all but spent.She awakened in the middle of the night, broke the amber in secret, and fled.Following the herb-picking habits of her previous life, Qiqi headed right for the hills.By chance, she met Baizhu, the boss of Bubu Pharmacy, on the way, and he took her in.Now, Baizhu was a doctor of great skill, but he was hardly a man of high caliber or great courage.Even so, he took her in, never mind that her memory was so poor that she could not even sort herbs out.It does seem that his acceptance of Qiqi has something to do with his own personal pursuits.Qiqi is stiff, but not slow, and has long realized this. However, she does not take it to heart.Perhaps she has seen too much, or been alone for too long... But what remains true is that she treasures his concern, even if there is some other motive behind it."
+            },
+            {
+                "title": "A Home-and-Away Handbook of Practical Wisdom for the Undead",
+                "text": "Qiqi carries something with her that looks like a notebook.Qiqi's memory is very poor, so it is an object of irreplaceable importance if she is to smoothly go about her daily life.The words within are written in a centuries-old style, and are very elegant indeed.The first page is an instructional on calisthenics.Moving past that, one finds the descriptions of various herbs and some \"orders.\"Qiqi needs to give herself orders, so she has very precise instructions to ensure smooth transition.She has also dutifully written down all the things she needs to do in a day.Recently, she has also added a section on \"brain training\" and \"mnemonic methods.\"At this point, it has become a true \"dummy's guide\" on just about anything.But if the day ever comes when Qiqi also forgets to look at her notebook... there would truly be nothing for it then."
+            },
+            {
+                "title": "Vision",
+                "text": "Qiqi's Vision was given to her in the last moment of her life.She wanted to stop the clock from turning. She wanted to live happily again.She feared death. She wanted to live. She missed her family... These feelings coalesced at last into \"ice.\"\"If only I could freeze time... How wonderful would that be?\"As she thought thus, tears fell from the moribund girl's eyes upon the Vision that had appeared before her.The mighty and illuminated adepti all acknowledged this as a legitimate form of \"illumination\" — the yearning of humanity for bygone days is, after all, a desire to protect that past."
+            }
+        ],
+        "additional_lore": [
+            {
+                "title": "Hello",
+                "text": "I am Qiqi. I am a zombie. And I... forgot what comes next."
+            },
+            {
+                "title": "About Qiqi",
+                "text": "Did you ask me something? Sorry... I forgot."
+            },
+            {
+                "title": "About Us: Memory",
+                "text": "I have a poor memory for most things. But as far as I know, that doesn't matter."
+            },
+            {
+                "title": "About Us: Memory Training",
+                "text": "I started memory training exercises recently. So don't worry, I won't forget who you are."
+            },
+            {
+                "title": "About the Vision",
+                "text": "My Vision can't turn back time. But at least it gives me the power to protect the people that matter most."
+            },
+            {
+                "title": "Something to Share",
+                "text": "I may be a corpse, but I am in much better physical condition than Dr. Baizhu."
+            },
+            {
+                "title": "Interesting Things",
+                "text": "Sometimes I see finches near the pharmacy. A nice little group of finches."
+            },
+            {
+                "title": "About Baizhu",
+                "text": "I can never remember Dr. Baizhu's face. But I don't mind."
+            },
+            {
+                "title": "About Hu Tao",
+                "text": "Warm. Fake smile. Death. I despise Hu Tao."
+            },
+            {
+                "title": "About Xiao: Name",
+                "text": "Sounds like a historical artifact to me."
+            },
+            {
+                "title": "About Xiao: Memory",
+                "text": "Remind me, have I met him before?"
+            },
+            {
+                "title": "About Xinyan",
+                "text": "...Who?"
+            },
+            {
+                "title": "About Yaoyao",
+                "text": "Cute. Like a nice little finch."
+            },
+            {
+                "title": "About Dusky Ming",
+                "text": "On some nights, I almost feel like someone is doing stretches together with me. But maybe I just have an overactive imagination."
+            },
+            {
+                "title": "More About Qiqi: I",
+                "text": "What's going on?"
+            },
+            {
+                "title": "More About Qiqi: II",
+                "text": "I perform stretches regularly to help me maintain the same range of movement as a normal human being. But as soon as I stop doing them, the rigor mortis starts to set in again."
+            },
+            {
+                "title": "More About Qiqi: III",
+                "text": "Some people want to take advantage of me. Others are terrified of me. But you... You are not like any of those people."
+            },
+            {
+                "title": "More About Qiqi: IV",
+                "text": "Since we first met, I have had a warm feeling inside. Not the kind of warmth that makes me feel rotten. The other kind of warm. The one that happens inside my heart. Thank you. I am happy. Sadly I only recognize the current you. If I forget you... No. I will order myself to remember you."
+            },
+            {
+                "title": "More About Qiqi: V",
+                "text": "In the past, my only thought was: I must stay alive. Even though I didn't know what to live for. But now, I think I know. I want to live with you. I want to ask, can we stay together, for the rest of life, until death? Yes or no? Yes? Is that your real answer? Good, excellent. I promise to always protect you."
+            },
+            {
+                "title": "Feelings About Ascension: Intro",
+                "text": "Now, I have more power. But... what does that mean? Please explain. Thank you."
+            },
+            {
+                "title": "Feelings About Ascension: Building Up",
+                "text": "Ah, I understand. When I get stronger, I need to put more effort into controlling my strength."
+            },
+            {
+                "title": "Feelings About Ascension: Climax",
+                "text": "In the past, I did not understand the idea of being stronger than I already was. Now that I understand it well, I wish I was just a little stronger still."
+            },
+            {
+                "title": "Feelings About Ascension: Conclusion",
+                "text": "All of this is because of you. Thank you very much. Can you make me a promise? From now on, please, let me protect you. Do you accept? Yes or no?\n}}\n\n==Combat==\n{{Combat VO\n|character           = Qiqi\n\n|skill_1_tx          = Wheel of life.\n|skill_2_tx          = Life goes on.\n|skill_3_tx          = Go.\n|skill_4_tx          = Rise.\n\n|burst_1_tx          = Orders given. Orders received.\n|burst_2_tx          = Sacred name: Fortune Preserver.\n|burst_3_tx          = Opening box of Adepti tricks.\n\n|sprint-s_1_tx       = Faster? Okay, faster.\n|sprint-s_2_file     = Sprint Start 02,Sprint Start 03\n\n|glider_1_tx         = Uh... Huh...\n|glider_2_file       = Deploying Wind Glider 02,Deploying Wind Glider 03\n\n|chest_1_tx          = Ooh, pretty.\n|chest_2_tx          = Treasure chests... hmm... do we like treasure chests?\n|chest_3_tx          = Wasn't there something in here a second ago...?\n\n|low-hp_1_tx         = Ow.\n|low-hp_2_tx         = Oh no...\n|low-hp_3_tx         = I must live on...\n\n|ally-low-hp_1_tx    = Danger.\n|ally-low-hp_2_tx    = Stop. Let me do it.\n\n|fallen_1_tx         = Don't want... to be sealed... back up...\n|fallen_2_tx         = Cold... So cold...\n|fallen_3_tx         = No...\n\n|hit-l_1_file        = Light Hit Taken 02\n|hit-l_1_tx          = I didn't feel that.\n|hit-l_2_file        = Light Hit Taken 01,Light Hit Taken 03,Light Hit Taken 04,Light Hit Taken 05,Light Hit Taken 06\n\n|hit-h_1_tx          = Wow.\n|hit-h_2_tx          = Oh...\n|hit-h_3_file        = Heavy Hit Taken 03,Heavy Hit Taken 04,Heavy Hit Taken 05,Heavy Hit Taken 06\n\n|join_1_tx           = I'm here.\n|join_2_tx           = What's happening?\n|join_3_tx           = I will... bring my notebook.\n\n|idle_1_actual_tx    = One, two, breathe, three, four, and, um... *sigh*.\n|idle_2_actual_tx    = -\n\n|atk-l_1_file        = Light Attack 01,Light Attack 02,Light Attack 03,Light Attack 04,Light Attack 05,Light Attack 06,Light Attack 07\n\n|atk-m_1_file        = Mid Attack 01,Mid Attack 02,Mid Attack 03\n\n|atk-h_1_file        = Heavy Attack 01,Heavy Attack 02,Heavy Attack 03\n\n|climb_1_file        = Climbing 01,Climbing 02,Climbing 03\n\n|climb-b_1_file      = Climbing Breath 01,Climbing Breath 02,Climbing Breath 03\n\n|jump_1_file         = Jumping 01,Jumping 02,Jumping 03,Jumping 04,Jumping 05\n}}\n\n==Navigation==\n{{Character Navbox|VO}}\n\nde:Qiqi/Stimme\nes:Qiqi/Voz\nfr:Qiqi/Répliques\nit:Qiqi/Battute\nja:七七/ボイス/英語\npl:Qiqi/Kwestie dialogowe\npt-br:Qiqi/Falas\nru:Ци Ци/Озвучка\nth:Qiqi/เสียงพากย์\ntr:Qiqi/Replikler"
+            }
+        ]
+    }
+}

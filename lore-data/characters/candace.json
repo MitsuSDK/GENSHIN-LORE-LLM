@@ -1,0 +1,159 @@
+{
+    "name": "Candace",
+    "entity_type": "character",
+    "status": "active",
+    "region": "Sumeru",
+    "affiliations": [
+        "Aaru Village"
+    ],
+    "power_source": "Vision",
+    "element": "Hydro",
+    "constellation": "Sagitta Scutum",
+    "aliases": [
+        "Golden Vow",
+        "Guardian of Aaru Village"
+    ],
+    "lore": {
+        "descriptions": [
+            "The guardian of Aaru Village who is gentle and benevolent. She will not allow anyone to harm Aaru Village under her watch.",
+            "A descendant of King Deshret with an amber left eye. The defender of Aaru Village."
+        ],
+        "character_stories": [
+            {
+                "title": "Official Introduction",
+                "subtitle": "Of red sands and glimmering gold, her vow to defend stands strong",
+                "text": "\"That Candace... is a true descendant of King Deshret!\"\nAt a tavern in Sumeru City, a disheveled member of The Eremites exclaimed in fear.\nThe guardian with different-colored eyes has received the blessing of the gods and is able to summon a sandstorm that engulfs all enemies instantly.\nA former member of the Treasure Hoarders, who recently claimed to have quit, added that Candace can also summon the power of the desert. Every grain of sand is her scout and no one can escape from her grasp.\nBut a young adventurer who was about to leave for the desert looked surprised. He replied that Miss Candace, the guardian of Aaru Village, was actually a gentle and caring person.\nDuring a visit to Aaru Village, he had seen Miss Candace bring water and food to a hungry Treasure Hoarder, and arranged for another exhausted mercenary to rest in the guest room... In the eyes of this adventurer, \"terrifying\" is the last word one could use to describe this guardian...\nCandace, who is far away in the Great Red Sand, was unaware of this little debate about her - although she doesn't mind what people think about her.\nAs the guardian of Aaru Village, it is her duty to protect the peace of the village.\nAs long as they abide by the rules of Aaru Village, anyone can seek refuge here and receive the help they need.\nAs for those who violate the rules and commit atrocities in the village...\nCandace will personally ensure that they never harm the village again."
+            },
+            {
+                "title": "Character Details",
+                "text": "Candace, who has heterochromatic eyes, serves as the guardian of Aaru Village.<!--\n              -->Candace always shows the greatest kindness to all travelers visiting the village, and she will not pursue an inadvertent faux pas so long as that person corrects themselves in time. In Candace's view, the village rules are the most important thing. So long as these boundaries are respected, anyone can be allowed to rest in Aaru Village.<!--\n              -->But woe betide those who regard this tolerance as weakness. Those who try to do anything illegal in Aaru Village will definitely pay the price.<!--\n              -->By then, they will find that Candace's lance and shield truly are the most frightening of weapons.<!--\n              -->The scion of Al-Ahmar, a member of desert folk, the Guardian... Candace, burdened as she is with multiple identities, also bears the eternal responsibility of guarding Aaru Village.<!--\n              -->\"This village only welcomes those who can follow the rules.\""
+            },
+            {
+                "title": "Character Story 1",
+                "text": "\"Aaru Village is the final refuge for King Deshret's descendants.\" <!--\n              -->\"The mission of the Aaru Village's Guardian is to guard the village till the last of King Deshret's people fade away.\"<!--\n              -->When Candace was officially appointed as the new \"Guardian\" at the tender age of eight, the one who handed the position over to her admonished her as such.<!--\n              -->With King Deshret's death, it was already a blessing that his descendants might have such a refuge from the world.<!--\n              -->And so, generation after generation, the Guardians take up their duties in silence, defending countless villagers until they pass on as the \"descendants of King Deshret\" and gain eternal peace.<!--\n              -->It was once the common wish of the residents of Aaru Village to fade away in peace, sequestered in their village.<!--\n              -->However, when new life emerges in this ancient village... Everything that they used to know might just have to change a bit."
+            },
+            {
+                "title": "Character Story 2",
+                "text": "When Uncle Anpu, the village head, announced that a caravan from Sumeru City was about to arrive in the village for trade, the former Guardians could hardly believe their ears.<!--\n              -->They indignantly accused Uncle Anpu of undermining tradition and requested that Candace, the current Guardian, do her duty by summoning guards to drive the merchants out.<!--\n              -->However, Candace refused the request, for she had already reached an agreement with the village head that the village must make changes for the future of its residents.<!--\n              -->They kept explaining, but the former keepers did not relent, and it was even suggested that if Candace was unwilling to do her duty, they would take up arms again and carry out a Guardian's work themselves. At last, a clang of lance against shield silenced all the quarrels. With lance and shield in her hand, Candace stood up and looked around with a smile, before announcing to the stunned elderly folks around her:<!--\n              -->\"It is good to see you all in such good spirits.\"<!--\n              -->\"But I am the current Guardian of Aaru Village, so please, go and rest, as you should.\"<!--\n              -->The persuasive power of weapons trumped words at this moment, and it seemed that it would be enough to end the fracas.<!--\n              -->After a moment's preparation, Candace accompanied the village head in her station as Guardian to formally receive the caravan and hold trade negotiations with them, before personally escorting them out of the village.<!--\n              -->A few days later, the merchants visited again and completed this seemingly humble transaction regarding cloths.<!--\n              -->This batch of merchants returned to Sumeru City with news of the success of the deal. Soon after, a new topic cropped up among the business-folk of Sumeru, one which had been rarely heard of in the past:<!--\n              -->\"Hey, you know what? Someone went to Aaru Village to do business — and they made a good sum of Mora, too. Think we should give it a shot next time...?\""
+            },
+            {
+                "title": "Character Story 3",
+                "text": "In truth, Candace doesn't often use her lance and shield as debating tools.<!--\n              -->The children in Aaru Village have always believed that \"Big Sis Candace\" will only frown no matter how angry she is — at most, she might ask the children in trouble to copy the calligraphy prepared for them by Grandma Kulsoom several times.<!--\n              -->The other guards in Aaru Village believe that although Candace's requirements are strict, she will not give out corporal punishment to those who slack off or whose physical abilities are not up to par, and that she will simply guide them with more care instead.<!--\n              -->The older folks in the village, for their period, note that Candace is a person who will not let negative emotions show on her face, and indeed, she has never once looked sad in front of them.<!--\n              -->Even the merchants who visit the village will be received by Candace with the utmost hospitality. From introductions to accommodations, she arranges everything in good order.<!--\n              -->Perhaps she might even be too gentle for the merchants' comfort.<!--\n              -->After all, this village is next to Great Red Sand. Leaving the monsters aside, lawless bandits must have long had this village in their sights.<!--\n              -->Is the Guardian truly capable of protecting everyone... and their business as well?<!--\n              -->One night, a drunken merchant dared to ask:<!--\n              -->\"Guardian, we can do business in this village, no problem. But as you know, this desert is a real den of outlaws...\"<!--\n              -->\"You need not worry about this. Only those who obey the rules shall be guests in Aaru Village. As for those who don't...\""
+            },
+            {
+                "title": "Character Story 4",
+                "text": "Those who do not respect the rules shall be the \"enemies\" of Aaru Village.<!--\n              -->Whether they be Eremites hiding in the sands, bandits disguised as adventurers, or Treasure Hoarders attempting to steal goods...Anyone who dares to invade the village, no matter how they may try to hide and escape, will eventually receive the punishment they deserve.<!--\n              -->Those who sincerely confess their guilt will be forgiven and given enough supplies to cross the sands, but never again will they be permitted to show their faces around Aaru Village.<!--\n              -->As for the more recalcitrant sort...Their despicable souls shall find company only with the desert sands.<!--\n              -->A former member of The Eremites once warned his companions that Candace, the terrifying Guardian of the village, is a true descendant of King Deshret.<!--\n              -->The shield in her hand possesses the blessing of Al-Ahmar, such that as long as its wielder holds it tightly, every grain in the great desert will heed her call. So if Candace so wishes, she could even send forth a huge sandstorm to engulf all her foes.<!--\n              -->Not only that, her amber left eye can also perceive the future and read the fates of others. Indeed, such is her terrible might that none can ever escape her pursuit.<!--\n              -->Such are people's beliefs concerning Candance, that she has swept all of Aaru Village's enemies away by virtue of these divine powers."
+            },
+            {
+                "title": "Character Story 5",
+                "text": "Only Candace herself knows that she has never really felt the blessing of Al-Ahmar.<!--\n              -->\"The Guardians have never been blessed by the grace of god\" — this is a secret handed down from Guardian to Guardian.<!--\n              -->Only when a new Guardian takes up their shield will they be told the truth.<!--\n              -->The effects of the truth on those now in the know has varied. Some gave up and became so despondent that they stopped practicing martial arts. Some came to believe that since they were not being watched, they didn't have to obey the rules either, and so acted recklessly, even in violation of the law.<!--\n              -->But Candace was not depressed.<!--\n              -->\"My lance and shield are not wielded as a prayer for a god's blessing.\"<!--\n              -->\"My duty will not change, regardless of whether any god favors us or not.\"<!--\n              -->She practices diligently day after day and through this has forged both an extraordinary will and martial skills.<!--\n              -->Many who have visited Aaru Village have extended invitations to Candace, wondering why someone as capable as her would choose to live in such an inconspicuous place. If she was willing to leave, they often say, she may yet be able to start a new career...<!--\n              -->Yet Candace always answers them thusly:<!--\n              -->\"A Guardian will not leave what they have purposed to protect.\""
+            },
+            {
+                "title": "Candace's Trinkets",
+                "text": "Candace often buys all kinds of trinkets from merchants who visit Aaru Village.<!--\n              -->Hairpins adorned with aquamarine beads, headbands made of silk and satin, gilded necklaces, metal bracelets engraved with Kalpalata Lotus patterns, pendants with the emblems of the Akademiya's colleges drawn upon them...<!--\n              -->While Dehya has encouraged her to dress up more often and use the Mora she spends on herself, Candace feels that some things are too fragile to survive her daily work environment, and so she puts them deep in her wardrobe.<!--\n              -->So it seems that these trinkets will come in handy only when Candace temporarily puts her duties aside and changes into other clothes to have a rest in the shade — or perhaps she might just give it to a friend as a gift."
+            },
+            {
+                "title": "Vision",
+                "text": "With outsiders pouring in, Aaru Village was faced with a variety of unprecedented circumstances.<!--\n              -->They now had Treasure Hoarders pretending to be businessmen within the village, mercenary groups hijacking trade caravans, unscrupulous vendors engaged in charlatanry...<!--\n              -->Moreover, after seeing people who came from abroad, the residents of Aaru Village gradually began to yearn for life outside. Gradually, people tried to go out to make a living, and fewer and fewer young people were willing to stay in the village.<!--\n              -->The former Guardians had long been dissatisfied with Candace, who, as they saw it, had \"abandoned\" their traditions. Seeing that the village was in such a situation, they again held a meeting and prepared to challenge her.<!--\n              -->\"What we Guardians must do is maintain order in the village!\"<!--\n              -->\"Candace! What you have done will only cost this village its peace!\"<!--\n              -->\"Candace! Go and fulfill your duties now!\"<!--\n              -->As the war of words swayed back and forth, the lance-wielding female warrior suddenly shot up to her full height.<!--\n              -->\"That's enough!\"<!--\n              -->\"If you only wish to protect the 'past' of this village, then do it yourself! Whether you wish to just remain in your homes or leave Aaru Village, that is up to you!\"<!--\n              -->\"I will not let the people of Aaru Village be bound by the past forever.\"<!--\n              -->\"If you can't move forward, then it's up to me to protect our future!\"<!--\n              -->The old Guardians were intimidated by her, her young, fiery eyes making it impossible for them to come forward and question her further.<!--\n              -->Burning with rare anger, Candace hefted her long spear and stormed out of the dispute-ridden hut.<!--\n              -->And, as if in response to her convictions, a shining \"jewel\" had appeared at the tip of that lance, though she knew not when it had done so.<!--\n              -->The eyes of the gods had found her, and they had given her their approval.<!--\n              -->A \"Vision\" is also a resolute heart — and no finer ornament than it may be found anywhere."
+            }
+        ],
+        "additional_lore": [
+            {
+                "title": "Hello",
+                "text": "Welcome, weary Traveler from afar. Nights in the desert are cruel. You should rest here tonight. Sleep soundly, and know that I am watching over you."
+            },
+            {
+                "title": "About {character}: Eye Color",
+                "text": "...Strange? I'm not sure what you mean, both amber and blue are fairly common eye colors, I believe..."
+            },
+            {
+                "title": "About {character}: Aaru Village",
+                "text": "Aaru Village is where I was born and grew up. Even back when I was too young to understand anything else about the world, the one thing I knew for sure was that one day, I would take over from my grandfather as sworn protector of our village... Today, I am grateful to now hold this duty. It is what I was born to do."
+            },
+            {
+                "title": "About {character}: Parents",
+                "text": "My father was a scholar from the Akademiya. He originally came to Aaru Village on a research trip, and then he met my mother... As for her, unfortunately I only know what my father has told me. The day I was born, she began her journey into the eternal night..."
+            },
+            {
+                "title": "About Us: Hosting Guests",
+                "text": "You will always be an honored guest of Aaru Village, no matter the day or time of your visit. If ever you tire of your journey, know that here, you can always find rest. Aaru Village welcomes you with open arms... as do I."
+            },
+            {
+                "title": "About Us: Treasure in the Chest",
+                "text": "They say that in every person's heart is a precious box, into which they place the things they treasure, so that they may guard them for their entire life. My heart harbors many treasures... Care to guess what those might be?"
+            },
+            {
+                "title": "About the Vision",
+                "text": "When I received my Vision, people in the village kept telling me it was a blessing from Ahmar... but that doesn't matter to me. I swore to protect the village, and I will do it with or without a Vision."
+            },
+            {
+                "title": "Something to Share",
+                "text": "I do love spending time in Aaru Village. But each day I spend here is also a reminder that if I ever start to let my guard down... sooner or later, the day may come when I no longer have a life to return to here."
+            },
+            {
+                "title": "Interesting Things",
+                "text": "Have you come across Ajilenakh Nuts yet on your journey? They're naturally very sweet, and the villagers make the most delicious candies from them. If you're interested, you should give them a try."
+            },
+            {
+                "title": "About Lesser Lord Kusanali",
+                "text": "Perhaps it is a testament to the Dendro Archon's benevolence that I, a descendant of the Al-Ahmar bloodline, am able to live peacefully on this land. If so, I suppose I am grateful for this much, but... I am first and foremost a child of the desert."
+            },
+            {
+                "title": "About Layla",
+                "text": "An eccentric girl who always seems to be in a trance...? Yes, I believe I've seen her before — near the Wall of Samiel. I couldn't make sense of what she was saying, nor the calculations she wrote down, but she seemed to be in a much better mood after she'd finished. Perhaps this is her way of relieving stress."
+            },
+            {
+                "title": "About Alhaitham",
+                "text": "A truly unusual scholar, unlike any other I've ever met. He sees and thinks about things in his own unique way... I only hope he never wields his sharp mind against the peace of Aaru Village."
+            },
+            {
+                "title": "About Cyno",
+                "text": "In the past, it was rare to see the Akademiya's General Mahamatra on this side of the Wall of Samiel, but recently he has been showing up here all the time. I believe that the Eremites have some truly terrifying stories to tell about him..."
+            },
+            {
+                "title": "About Dehya",
+                "text": "Whenever Dehya brings any of her Eremites to stay at Aaru Village, she always keeps them on their very best behavior. I have to say, it makes my life a lot easier. Ah, Dehya... She might look like trouble at first, but the truth is that she's really quite adorable."
+            },
+            {
+                "title": "About Sethos",
+                "text": "The sons and daughters of King Deshret are a proud people, and he is no exception. I have heard his tale, of Hermanubis's glory dwelling within a worthy vessel. I also understand he has been active in Sumeru City recently? Apparently, he has spoken to Cyno and other friends of his plans to visit Aaru Village. I look forward to hosting him."
+            },
+            {
+                "title": "More About {character}: I",
+                "text": "You want to know more about me? ...I can't promise you a great story, but if you insist... Okay, let's wait until nightfall. We can sit by the fireside and I'll tell you all you wish to know."
+            },
+            {
+                "title": "More About {character}: II",
+                "text": "We are a people whose god is no longer with us. Lies pose no threat to us... the threat we face is the prospect of no tomorrow. The path before us is paved with barbs, there is pain in every step — yes, we tread forward clinging to a lie, but perhaps... perhaps there is more virtue in this than in selfishly embracing the truth, and death along with it..."
+            },
+            {
+                "title": "More About {character}: III",
+                "text": "Even now, there are those who hold on to a belief that the King Deshret will be resurrected. But it's not possible. The past is but grains of sand, scattered to the four winds. The best we can do is to let go, and leave the wind to carry them to their final resting place."
+            },
+            {
+                "title": "More About {character}: IV",
+                "text": "My shield? Well, according to what people outside the village say, it has the blessing of Bennu. With this shield in hand, all the grains of sand are my eyes and ears, and the desert is ready to do my bidding... Their imaginations can get a little carried away sometimes. But anyway, that aside, the main thing for me is it always works a charm."
+            },
+            {
+                "title": "More About {character}: V",
+                "text": "I'd really love to look into your future with my amber eye, if I could... Something tells me everything would be golden... somewhere between the color of sunlight and honey. A color filled with hope. Your journey will be a smooth road ahead. I give it my blessing."
+            },
+            {
+                "title": "Feelings About Ascension: Intro",
+                "text": "I feel a newfound strength within me... May it help me to be a better protector."
+            },
+            {
+                "title": "Feelings About Ascension: Building Up",
+                "text": "My shield grows sturdier, and my spear sharper. One is an unstoppable force, the other an immovable object... Oh, but... I would never pit these against each other."
+            },
+            {
+                "title": "Feelings About Ascension: Climax",
+                "text": "I learned to wield the spear and shield knowing that I would one day need them, and today I use these skills to protect the village. So perhaps this new strength I now gain in the present is preparing me for trials that lie ahead in the future."
+            },
+            {
+                "title": "Feelings About Ascension: Conclusion",
+                "text": "I am now capable of venturing ahead of you, and fending off all dangers that would seek to come your way. If you trust me, then I invite you to close your eyes and leave the enemies to me.\n}}\n\n==Combat==\n{{Combat VO\n|character              = Candace\n\n|skill_1_tx             = Yield!\n|skill_2_tx             = Flee!\n|skill_3_tx             = Do your worst!\n|skill_4_tx             = Pin them down!\n|skill_5_tx             = Hah, too easy!\n|skill_6_tx             = You're exposed!\n\n|burst_1_tx             = Hear my prayer!\n|burst_2_tx             = Grant us your blessing!\n|burst_3_tx             = We shall prevail!\n\n|sprint-s_1_file        = Sprint Start 01,Sprint Start 02,Sprint Start 03\n\n|sprint-e_1_file        = \n\n|glider_1_file          = Deploying Wind Glider 01,Deploying Wind Glider 02,Deploying Wind Glider 03\n\n|chest_1_tx             = These look... surprisingly useful.\n|chest_2_tx             = What do you think? Anything catch your eye?\n|chest_3_tx             = I hope you can find some use for these.\n\n|low-hp_1_tx            = No more mercy.\n|low-hp_2_tx            = Remorseless. Hmph.\n|low-hp_3_tx            = Leave... now...\n\n|ally-low-hp_1_tx       = Please, rest...\n|ally-low-hp_2_tx       = Get behind me!\n\n|fallen_1_tx            = Need to... train harder...\n|fallen_2_tx            = I have failed... I'm sorry...\n|fallen_3_tx            = The shield... has broken...\n\n|hit-l_1_tx             = It's nothing.\n|hit-l_2_file           = Light Hit Taken 02,Light Hit Taken 03,Light Hit Taken 04,Light Hit Taken 05,Light Hit Taken 06\n\n|hit-h_1_tx             = Impressive.\n|hit-h_2_tx             = Just a graze.\n|hit-h_3_file           = Heavy Hit Taken 03,Heavy Hit Taken 04,Heavy Hit Taken 05,Heavy Hit Taken 06\n\n|join_1_tx              = What's wrong? Are you in danger?\n|join_2_tx              = Stay close.\n|join_3_tx              = I promise to keep you safe.\n\n|idle_1_actual_tx       = \n|idle_2_actual_tx       = \n|idle_3_file            = Standby 03\n\n|atk-l_1_file           = Light Attack 01,Light Attack 02,Light Attack 03,Light Attack 04,Light Attack 05,Light Attack 06,Light Attack 07\n\n|atk-m_1_file           = Mid Attack 01,Mid Attack 02,Mid Attack 03\n\n|atk-h_1_file           = Heavy Attack 01,Heavy Attack 02,Heavy Attack 03\n\n|climb_1_file           = Climbing 01,Climbing 02,Climbing 03,Climbing 04,Climbing 05\n\n|climb-b_1_file         = Climbing Breath 01,Climbing Breath 02,Climbing Breath 03\n\n|jump_1_file            = Jumping 01,Jumping 02,Jumping 03,Jumping 04,Jumping 05\n}}\n\n==Navigation==\n{{Character Navbox|VO}}\n\nes:Candace/Voz\nfr:Candace/Répliques\nit:Candace/Battute\nja:キャンディス/ボイス\nru:Кандакия/Озвучка\ntr:Candace/Replikler"
+            }
+        ]
+    }
+}

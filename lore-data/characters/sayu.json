@@ -1,0 +1,172 @@
+{
+    "name": "Sayu",
+    "entity_type": "character",
+    "status": "active",
+    "region": "Inazuma",
+    "affiliations": [
+        "Shuumatsuban",
+        "Yashiro Commission"
+    ],
+    "power_source": "Vision",
+    "element": "Anemo",
+    "constellation": "Nyctereutes Minor",
+    "aliases": [
+        "Mujina Ninja",
+        "Shuumatsuban's Resident Ninja"
+    ],
+    "lore": {
+        "descriptions": [
+            "Sayu, Shuumatsuban's resident ninja, is obsessed with sleeping and growing taller.She has mastered all kinds of ninjutsu to run away and hide in pursuit of opportunities to laze around and sleep.Such an extraordinary skillset may have very unexpected uses.",
+            "A pint-sized ninja attached to the Shuumatsuban, who always seems sleep-deprived."
+        ],
+        "character_stories": [
+            {
+                "title": "Official Introduction",
+                "subtitle": "",
+                "text": "A pint-sized, agile ninja associated with the Shiyuumatsu-Ban.\nHeight has never been one of Sayu's strengths... She stopped growing a long time ago, long enough that she feels like she is trapped in a dream where time has stopped.\nWhy aren't I growing taller? Am I not getting enough sleep?\nAnd just like that, the pint-sized ninja who awoke to this thought drifted off to sleep again.\nSayu firmly believes that sleep can replenish all her energy and help her grow taller. In order to live by this principle and have as much time to nap as possible, she honed her ninjutsu to perfection.\nFleeing, hiding, transforming... Sayu is the master of all ninjutsu techniques. An unsuspecting leaf or a bucket? It might be just one of Sayu's many disguises!\nAs a result, if the Shiyuumatsu-Ban needs Sayu's help, they need to commit all efforts to finding her first.\nOf course, from Sayu's point of view, this so-called \"laziness\" is just better time allocation which allows her to focus on things... like sleeping and growing taller."
+            },
+            {
+                "title": "Character Details",
+                "text": "Most Inazumans are unaware of the existence of the Shuumatsuban. In fact, the Shuumatsuban is a secret organization under the Yashiro Commission.There is also a little ninja who goes by the name of Sayu in the Shuumatsuban, and this fact is even less known.Sayu is a special existence in the Shuumatsuban. She has been raised in the Shuumatsuban since she was a child, and is extremely loyal to the organization.That said, her most prominent trait is not \"loyalty\", but \"laziness.\"Lazing around is what Sayu does best. She has long mastered the various arts of ninjutsu, particularly those that help her to slack off or shirk her duties, such as escape techniques and aura concealment.People who don't know about her habits will have to make a lot of effort to find her.However, if you ask Sayu about her slacking, she will shrug and reply, \"It's not that I'm lazy, I just want to spend my time on more meaningful things.\""
+            },
+            {
+                "title": "Character Story 1",
+                "text": "Sayu is petite and can even be described as delicate.This is also something that bothers her —One by one, her peers are growing taller, but she still has the stature of a child, as her height has not changed at all.Sayu is really anxious about this matter.Day by day, the world seems to be sprouting skyward, and only she remains small as ever.Growing taller has gradually become an obsession in Sayu's mind.\"As long as I sleep long enough, I can definitely grow taller!\"She came to believe this ever so firmly, seizing every opportunity to sleep as much as possible, creating every opportunity and circumstance, even when there were none.People around little Sayu often let her be, as they don't have the heart to disturb her sleep.So now, the situation has progressed such that Sayu is able to fall asleep, even whilst standing."
+            },
+            {
+                "title": "Character Story 2",
+                "text": "The ninjutsu that Sayu has learned is not very powerful in combat, but it is quite useful in the matter of slacking off.She is extremely skilled at hiding and covering her tracks, and is an expert in this area. Therefore, if she has the intention to hide, ordinary people absolutely cannot find her.However, even the most ingenious puzzles have answers, and even the most elusive treasures have clues for people to find them. This also holds true for Sayu.After spending enough time with Sayu, one will understand her habits and preferences. Trying to find her doesn't seem so difficult anymore.For example, if you go to Sayu's room early in the morning and lift the covers, the odds are that you will find her in bed.At noon, you can check out the trees near the shrine and who knows, you may find something unexpected.It will be more challenging to find Sayu at night, but it's a good idea to go to her house and wait for her to emerge.However, please remember not to disturb Sayu, who is busy growing taller, unless it is absolutely necessary.Even gentle rabbits bite when provoked, let alone Sayu..."
+            },
+            {
+                "title": "Character Story 3",
+                "text": "That said, finding Sayu doesn't mean that she can be put to work quietly.Moreover, Sayu's work at the Shuumatsuban is not that of a fixed daily routine, but missions that pop up if and as needed.And so, this happens:When new missions are assigned, you won't see hide or tail of her.By the time she has been found (and with much effort), a more suitable person has been assigned for the mission.And in case there is no other suitable candidate other than Sayu, all the more she will try to slip away, so as not to be overwhelmed by the mission.It's just that... If Sayu used her ninjutsu to work hard, she would have had great accomplishments in the Shuumatsuban."
+            },
+            {
+                "title": "Character Story 4",
+                "text": "Sayu is the last successor to the Ninjutsu Art — Yoohoo Art.In this school of ninjutsu, which is known for teasing its enemies, Sayu has learned only ninjutsu such as escape and clone techniques.These ninjutsu are of little use in actual combat, but have an undeniable aesthetic flair.Amongst falling leaves, a silhouette vanishes in a flash, a gentle breeze blows, and a kite suddenly appears on the ground... The incredible scene is comparable to an artistic performance.Thus, whenever there is a festival, Sayu will be invited by various parties to perform her mysterious ninjutsu.If it's Yoimiya who's searching for her, Sayu can still find ways to hide.But if the person in question is Lady Guuji Yae, resistance is futile for Sayu.Clone techniques do nothing to fool the Lady Guuji's sharp eyes, and aura concealment doesn't help Sayu at all in escaping from the Lady Guuji's grasp.Running for the hills is even less feasible, and might even risk angering the Lady Guuji...Fortunately, there are very few circumstances that require Lady Guuji Yae to make a personal appearance."
+            },
+            {
+                "title": "Character Story 5",
+                "text": "For as long as Sayu can remember, she has been studying ninjutsu with her sensei in the Shuumatsuban.Although the Shuumatsuban is a clandestine organization, the elders are very kind and have taken good care of young Sayu.\"Being overly reliant on others is never a good thing for a ninja.\"After Sayu had reached a bottleneck in learning ninjutsu, her sensei observed her situation and thought thusly.As the years passed, Sayu grew steadily. Once she was capable enough to defend herself, her sensei chose to leave quietly.A young animal that leaves the protection of its parents will grow up rapidly. The same is true of the sensei's expectations for Sayu.The young ninja did not disappoint her sensei. Soon after, Sayu obtained a Vision.And then, she started working diligently in the Shuumatsuban... diligently shirking her duties.Sayu is always busy sleeping and hiding from people, so in that sense, she also has a lot to do.Occasionally, when Sayu is free and alone to enjoy the moonlight, she feels lost deep inside.The people who have always been with you will one day leave...is this how life is meant to be?But perhaps someday in the future, I will also meet the person who will always be with me.Pondering the matter, the little ninja fell asleep again..."
+            },
+            {
+                "title": "Mini Mujina",
+                "text": "Sayu's outfit is said to be a gift from her sensei.The style references the form of a small animal — the \"mujina,\" and Sayu's favorite colors were also specially chosen for it.It is light and flexible, thus making it suitable for a ninja.Sayu is especially fond of the huge hood, as it brings about a sense of security.The long tail is designed for Sayu to maintain balance on the branches.As for the only drawback... this outfit probably looks too much like a tanuki, and Sayu often gets misunderstood because of it.Initially, she would seriously explain to the other party that:\"I'm not a tanuki, I'm Sayu.\"However, over time, similar incidents have occurred too many times, and Sayu now bears a grudge against tanuki.Nowadays, if such a situation happens again, Sayu will pout in anger.So, in order to get along well with Sayu, please memorize the following:Sayu is not a tanuki, but Sayu.Her outfit is also not that of a tanuki's, but a mini mujina."
+            },
+            {
+                "title": "Vision",
+                "text": "This is the story of Sayu when she just started being on her own.Fragile beings walking alone in this world inevitably find themselves in scary situations. The only way to understand what it's like is to have experienced it.This is exactly what happened to Sayu. Adept at observation and evasion, she has always understood that she is not suitable for combat.Her overly petite stature gives her no advantage in terms of strength to speak of, and her ninjutsu will not be of much use in actual combat.Yet missions do not wait for ninjas to grow fully before descending upon them. In an era of turmoil, Sayu would also find herself in trouble because of not-so-important work.Surrounded by strong foes, she had to do her best and barely managed to escape. It cost her almost everything to bring the information back safely.Exhausted and wounded, Sayu was about to faint, but only one thing lingered in her mind:\"It's not only strong brute force that can overpower everything, the weak have their own way of surviving. It's because you're weak that you can notice those unseen moments that change your fate... The chances of escaping from here are slim, but that's what my ninjutsu is for.\"The moment the leaves fell, she disappeared. All her pursuers were incredulous. The tiny ninja disappeared as if she were dust in the wind.The next morning, Sayu struggled to get up, and found that the ninja pack strapped to her leg had long since disappeared.However, a surprising object appeared in the same place instead — a Vision gleaming in the sunrise.Now, with the power of the Vision, Sayu can wield a claymore taller than herself. She no longer has to fear the omnipresent strife of a chaotic world.Unfortunately, Sayu's most immediate worries have not yet been resolved.Regarding her growing taller, it seems that even a Vision is unable to do anything about it."
+            }
+        ],
+        "additional_lore": [
+            {
+                "title": "Hello",
+                "text": "Sayu, Shuumatsuban, at your disposal! Whew, but if you don't need me right now, I'm gonna grab some sleep. Nope, no need to tuck me in — I need the extra room to grow into."
+            },
+            {
+                "title": "About {character}: Shuumatsuban",
+                "text": "Yeah, I'm in the Shuumatsuban, but they only ever get me to do stuff like... *yawn* information gathering and stealing. So, y'know... it's not really a big deal if the work doesn't get done."
+            },
+            {
+                "title": "About {character}: Skiving",
+                "text": "So I don't do any important work at the Shuumatsuban, and anything that gets put off for long enough ends up getting done by someone who's more suited to it anyway. Sleep, on the other hand — that is of the utmost importance. Because I need to get enough sleep to make sure I get my growth spurt."
+            },
+            {
+                "title": "About Us: Favor",
+                "text": "Hey, will you do me a favor and let me know if you see the shrine maiden coming? I'm just gonna, um... rest my eyes for a moment."
+            },
+            {
+                "title": "About Us: Headpats",
+                "text": "I'm not a pet, y'know! Hmm, but since it's you... Okay, you can pat my head and I promise not to bite your hand. Just a little, though! If you pat someone's head too much, it stunts their growth."
+            },
+            {
+                "title": "About the Vision",
+                "text": "My sword is crazy heavy, even with my ninjutsu training there's no way I could lift it without the help of my Vision. So yeah, having a Vision is a huge help for me."
+            },
+            {
+                "title": "Something to Share",
+                "text": "Sensei says I'll be the last ninja ever in our line. I guess it can't be helped, because this style of ninjutsu wouldn't be much help in a fight anyway — all I've been taught is how to escape and how to cover your tracks."
+            },
+            {
+                "title": "Interesting Things",
+                "text": "Do you know the mujina? It looks similar to a tanuki, but it's way cuter. I'll take you to see one next time!"
+            },
+            {
+                "title": "About Kamisato Ayaka",
+                "text": "As the eldest daughter of the Kamisato Clan, she always looks very graceful and elegant. But she got one of the shrine maidens to keep tabs on me and make sure I don't slack off... Why would she do that?"
+            },
+            {
+                "title": "About Kamisato Ayato",
+                "text": "Sometimes, when I'm taking a rest up in a tree, I overhear the shrine maidens talking about him. Sounds like he's pretty important and super busy most of the time. I don't get it, though — it's only work, or whatever, so why doesn't he just... not do it?"
+            },
+            {
+                "title": "About Thoma",
+                "text": "He's got a Vision, and yet for some reason he pesters me about learning ninjutsu every time I run into him. I don't know what his deal is. It's not like I'd have the time to teach him anyway, I barely get enough sleep as it is."
+            },
+            {
+                "title": "About Yoimiya",
+                "text": "Every time she sees me she says, \"Hey, little tanuki! Let's go hang out at the festival.\" Firstly, I'm not a tanuki. Secondly, I don't wanna go to a festival. Thirdly, she says she wants to hang out — but really, she just wants me to do a ninjutsu performance during the fireworks show. That's not even related to my work for the Shuumatsuban!"
+            },
+            {
+                "title": "About the Raiden Shogun",
+                "text": "Her Excellency? Definitely not someone I'd ever get to meet. If you've got questions, maybe Miss Ayaka's the person to ask."
+            },
+            {
+                "title": "About Yae Miko",
+                "text": "She's always patting me on the head... I've never bitten her, though, or even said anything, because I'm frightened of how she'd react if I stood up to her. But what am I gonna do? Because if she keeps on patting my head, I'm gonna get stuck at this height forever!"
+            },
+            {
+                "title": "About Arataki Itto",
+                "text": "Why does he have to make such a racket? And how did he get so tall!?"
+            },
+            {
+                "title": "About Kuki Shinobu",
+                "text": "Doesn't ring a bell, umm... What? Arataki Itto's little sidekick? Ugh, well she's definitely gotta be a sleep disturbance then. Birds of a feather flock together..."
+            },
+            {
+                "title": "About Kirara",
+                "text": "One time, when I woke up from an afternoon nap, I felt something warm against my back. I turned around and saw a cat curled up fast asleep. You wouldn't believe this — it had not only one, but two fluffy tails! I almost fell from the tree in surprise. I—Is this some form of ninjutsu too?"
+            },
+            {
+                "title": "About Yumemizuki Mizuki",
+                "text": "That strange, purple youkai... Every time she looks at me, I get this feeling like she could devour me whole... Eek! I can't afford to get on her bad side, so I'm just gonna stay out of her way!"
+            },
+            {
+                "title": "More About {character}: I",
+                "text": "Zzzz..."
+            },
+            {
+                "title": "More About {character}: II",
+                "text": "Huh? You wanna know the name of my style of ninjutsu? Uhh... Y'know what, I can't think straight right now, I'm still half asleep here. Lemme snooze a while longer, maybe my mind'll be clearer when I wake up."
+            },
+            {
+                "title": "More About {character}: III",
+                "text": "Alright, fine... I'll tell you. But you'd better not laugh, or I'm never talking to you again. Uh so, my style of ninjutsu is called... um... Yoohoo Art.The reason is supposedly that our style focuses on making fun of the enemy, but still... I mean... *sigh*"
+            },
+            {
+                "title": "More About {character}: IV",
+                "text": "Do you know how to climb trees? I'm an expert, I can teach you. There's this tree down at the shrine — it's the perfect place, you could just literally sleep there all day if you wanted and no one would ever find you... Uh, I just mean, it's a great place for a power nap. Next time you wanna take a nap, let me know, I'll take you there."
+            },
+            {
+                "title": "More About {character}: V",
+                "text": "It was actually sensei who gave me this outfit. They said it was modeled after the mujina, and it could help with escapes, or something... and then sensei said that I was all grown up and ready to go it alone, but that I should still be careful to protect myself... then they left me. Am I really ready to go it alone, at my height?Um... Hmm? Y—You'll keep my company? Really? Promise you won't leave me?"
+            },
+            {
+                "title": "Feelings About Ascension: Intro",
+                "text": "Is it just me, or did I get a little taller!?"
+            },
+            {
+                "title": "Feelings About Ascension: Building Up",
+                "text": "Awesome, now I can slip away faster than ever. Hee-hee, they can't catch me now."
+            },
+            {
+                "title": "Feelings About Ascension: Climax",
+                "text": "Hey, thanks for going and gathering all those materials for me. I would've gone myself, but... I probably would've got about halfway before falling asleep."
+            },
+            {
+                "title": "Feelings About Ascension: Conclusion",
+                "text": "I think I'm finally ready to go it alone now, just like sensei said I should. And... maybe it's not such a big deal now if I can't grow any taller. Because what really matters... is that I have you to keep me company.\n}}\n\n==Combat==\n{{Combat VO\n|character           = Sayu\n\n|skill_1_tx          = ''(Normal Fuufuu Whirlwind Kick)'' Bye!\n|skill_2_tx          = ''(Normal Fuufuu Whirlwind Kick)'' Gotta dash~!\n|skill_3_tx          = ''(Normal Fuufuu Whirlwind Kick)'' Poof!\n|skill_4_tx          = ''(Stronger Fuufuu Whirlwind Kick)'' I'm outta here.\n|skill_5_tx          = ''(Stronger Fuufuu Whirlwind Kick)'' Can't catch me~!\n|skill_6_tx          = ''(Stronger Fuufuu Whirlwind Kick)'' And away I go.\n\n|burst_1_tx          = Twinjutsu!\n|burst_2_tx          = Come on out!\n|burst_3_tx          = Hah! ...Phew...\n\n|sprint-s_1_tx       = Make my escape.\n|sprint-s_2_file     = Sprint Start 02,Sprint Start 03\n\n|glider_1_actual_tx  = Run with the wind!\n|glider_2_file       = Deploying Wind Glider 02,Deploying Wind Glider 03\n\n|chest_1_tx          = Looks kinda cozy in here... Nap time!\n|chest_2_tx          = Mission accomplished! Can I go back and sleep now?\n|chest_3_tx          = Ooh, what's in here? Maybe a growth serum?\n\n|low-hp_1_tx         = What was that escape method again...?\n|low-hp_2_tx         = I feel kinda woozy.\n|low-hp_3_tx         = Whew, so tired.\n\n\n|ally-low-hp_1_tx    = I'll protect you.\n|ally-low-hp_2_tx    = Take 5. Or maybe 10.\n\n|fallen_1_tx         = Almost. Got. Away...\n|fallen_2_tx         = Uh, sw—sweet dreams...\n|fallen_3_tx         = My fault for being so lazy...\n\n|hit-l_1_tx          = Ow.\n|hit-l_2_file        = Light Hit Taken 02,Light Hit Taken 03,Light Hit Taken 04,Light Hit Taken 05,Light Hit Taken 06\n\n|hit-h_1_tx          = Almost dodged that.\n|hit-h_2_tx          = I'm about to pass out over here.\n|hit-h_3_file        = Heavy Hit Taken 03,Heavy Hit Taken 04,Heavy Hit Taken 05,Heavy Hit Taken 06\n\n|join_1_tx           = So sleepy.\n|join_2_tx           = Can I go catch up on my sleep?\n|join_3_tx           = Drat, you caught me.\n\n|idle_1_file         = Standby 01, Standby 02\n\n|atk-l_1_file        = Light Attack 01,Light Attack 02,Light Attack 03,Light Attack 04,Light Attack 05,Light Attack 06,Light Attack 07\n\n|atk-m_1_file        = Mid Attack 01,Mid Attack 02,Mid Attack 03\n\n|atk-h_1_file        = Heavy Attack 01,Heavy Attack 02,Heavy Attack 03\n\n|climb_1_file        = Climbing 01,Climbing 02,Climbing 03,Climbing 04,Climbing 05\n\n|climb-b_1_file      = Climbing Breath 01,Climbing Breath 02,Climbing Breath 03\n\n|jump_1_file         = Jumping 01,Jumping 02,Jumping 03,Jumping 04,Jumping 05\n}}\n\n==Navigation==\n{{Character Navbox|VO}}\n\nes:Sayu/Voz\nfr:Sayu/Répliques\nit:Sayu/Battute\nja:早柚/ボイス/英語\npt-br:Sayu/Falas\nru:Саю/Озвучка\ntr:Sayu/Replikler"
+            }
+        ]
+    }
+}

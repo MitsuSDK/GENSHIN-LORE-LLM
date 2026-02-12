@@ -1,0 +1,171 @@
+{
+    "name": "Noelle",
+    "entity_type": "character",
+    "status": "active",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Knights of Favonius"
+    ],
+    "power_source": "Vision",
+    "element": "Geo",
+    "constellation": "Parma Cordis",
+    "aliases": [
+        "Chivalric Blossom",
+        "Maid of Favonius"
+    ],
+    "lore": {
+        "descriptions": [
+            "Like most of Mondstadt's young people, Noelle always dreamed of being a knight of Favonius when she grew up.She may not have what it takes to be a knight just yet, but she is learning. Working as a maid at the Knights' headquarters, she is constantly taking notes on what constitutes knightly speech, knightly conduct, and knightly customs.She holds firm to her belief that one day she will join their ranks &mdash; she just needs to keep trying her hardest at everything she does.",
+            "A maid who faithfully serves the Knights of Favonius. She dreams of joining their ranks someday."
+        ],
+        "character_stories": [
+            {
+                "title": "Official Introduction",
+                "subtitle": "A Maid's Job Knows No Bounds",
+                "text": "▌Maid of Favonius · Noelle\nA Maid's Job Knows No Bounds\n========================\nMany people in Mondstadt think there's something a little bit magical about Noelle: She seems to have the ability to be everywhere at once, and to do absolutely anything she sets her mind to.\nWhether it's a Knights of Favonius dinner party, a winery banquet, or just an ordinary barbecue, Noelle is a whirlwind of helpfulness that will burst through your door at the first sign of a problem and whisk it away for you.\nIt's no wonder that people have taken to calling her the \"Wondermaid.\"\nBut ask Noelle and she'll tell you there's nothing wondrous about the way she works, let alone magical. She just takes pride in her work and is constantly in pursuit of perfection.\n\"Nothing more, nothing less. Just as it should be, and not as it should not be.\""
+            },
+            {
+                "title": "Character Details",
+                "text": "Noelle has much greater dreams and ambitions than other maids in the Knights of Favonius.Like anyone else in this city protected by the Knights of Favonius, she too dreams of donning the honored armor.Even if her skills are not enough to pass the rigorous selection trials, she still wishes to observe and learn from them every chance she gets.Aside from her training, she enjoys her current life, helping everyone in need.\"You can leave absolutely anything to me!\"That's her signature line. If there's anything that you need, Noelle is glad to be of aid."
+            },
+            {
+                "title": "Character Story 1",
+                "text": "Noelle is \"the maid of all maids\" to many.Such people also tend to say this of her: \"She's everywhere.\"For example, there was a child who once tried to get a plate during a banquet, but found that there was no way to open the cabinet without all the plates falling out...\"Noelle!!!!!!\"All the child needed to do was scream, and Noelle appeared. She put the cabinet down on its back, took a plate out, and handed it to the child, reminding him not to have cold drinks immediately after having barbecue. Then she righted the cabinet, cleaned up other plates, and then put them back in order.Noelle's ability to be everywhere all at once is something miraculous to many.However, the job of a maid is no myth or legend. Noelle only does her job to the letter.\"No more, no less. As it should be, not as it should not be.\"Noelle doesn't think herself special, only that she thinks too much at times."
+            },
+            {
+                "title": "Character Story 2",
+                "text": "Noelle is always eager to help, sometimes excessively so.If you were to ask her how to build a campfire as she passed by, she would not only stop and build the campfire for you, she would also put up the grill racks, season the food, cook it for you, taste it herself to make sure it's done, and remind you to put out the fire when you've finished so as not to burn the forest down. Then she would get back to whatever she had been doing beforehand.Of course, most people don't mind at all that she regularly goes the extra mile. But it can sometimes produce unexpected results...For example, a merchant from Snezhnaya once came to Mondstadt, ostensibly wishing to get into the winery business. In truth, he had an evil plot to ruin the land, destroy the winery business in Mondstadt altogether and then seize the market with wines from Snezhnaya.He disguised himself as an honest merchant with his family on a business trip to Mondstadt. Naturally, with them being visitors from afar, Noelle gave them a warm reception.Initially, the merchant was delighted with Noelle's hospitality; it was a cut above the crude etiquette he had come to expect from most peasants in Mondstadt. However, after a while he began to feel that something was amiss.Noelle seemed to be able to read his mind: She correctly guessed his schedule, cooked his family's favorite Snezhnayan dishes for them each day, and even knew that his daughter liked to go to bed hugging a ragdoll, presenting her with a hand-made doll she had sewn together herself.This spooked the merchant, and made him hesitant to execute the next phase of his plan. Noelle's warm smile now chilled the merchant to the bone. What else did she know, and what was she really planning?In the end, the merchant fled Mondstadt with his family.Noelle was upset for a few days, thinking she had somehow insulted her guests. Little did she know that all of Mondstadt was indebted to her for taking her job so seriously."
+            },
+            {
+                "title": "Character Story 3",
+                "text": "Most of the time, Noelle's reliability provides a comforting presence, but there are always exceptions.Once, she learned that an adventurer was trapped on Dragonspine, so she decided to mount a rescue by herself.The snowstorm that day was terribly fierce, wiping out any tracks left by humans as soon as they were made. It was impossible to find a safe route to proceed, to say nothing of saving the adventurer amidst the snow.However, Noelle persisted on searching for the adventurer and eventually found him inside a cave, suffering from severe hypothermia.At the time, her coat was completely soaked, and the water inside her bottle had turned to ice. Thirsty and hungry, Noelle still managed to carry the adventurer down on her back.The adventurer was saved, but Noelle, having over-exerted herself, laid in bed for three days straight, suffering from a high fever. Everyone in the Knights of Favonius barely slept out of concern for her during that period. Fortunately, Noelle recovered.It was not the first or second time that something similar had happened, and everyone was deeply worried for Noelle.In order to prevent Noelle from putting herself in harm's way again, Jean had to invent some safe jobs to keep Noelle busy. If something were to happen, then Kaeya would have to save the day.During the Stormterror threat, Noelle was also eager to resolve the threat at its source. However, Kaeya managed to arrange quite a few \"urgent matters\" for her to attend to inside the city until it was all over."
+            },
+            {
+                "title": "Character Story 4",
+                "text": "Noelle's petite form does a good job of hiding her great strength.This does not just refer to her resoluteness or her indomitable spirit, but also her physical strength.Once, Lisa accidentally dropped her experimental apparatus under her bookshelf and troubled over whether she could remain decent while bending over to retrieve it. Noelle made it over in the nick of time, lifting the full bookshelf with only one hand — and not a single book fell out between her hefting it and putting it down.There was another incident in which several cargo-bearing carts were attacked by Pyro Slimes as they tried to pass through Mondstadt's side gate. As the owners were all in a panic, it was Noelle again who came to the rescue — hurling the carts — cargo and all, into the Cider Lake, before leaping into the water herself and retrieving every last item.Rumor has it that when Noelle was studying the blade, she nearly sent Wagner — who prided himself in his forging skills — into despairing seclusion.In all, he forged over ten different swords with different alloy compositions for Noelle, but all would lose their edge after a few uses.At first, Wagner thought Noelle unskilled, but eventually found that the problem was more foundational: the swords just weren't strong enough.Putting his reputation on the line, Wagner finally made Noelle a sturdy and heavy claymore that was further reinforced by her affinity for Geo. Only then was her weapon issue (barely) solved.But don't worry, Noelle won't use her superhuman strength unless the situation calls for it, as she is a pacifist at heart.They say, however, that the very day Noelle received her custom-made claymore, she was set upon by a pair of drunken Treasure Hoarders in Drunkard Gorge, who thought her a harmless lamb...Let's just hope that no one else will ever be so unlucky."
+            },
+            {
+                "title": "Character Story 5",
+                "text": "Noelle's greatest enemy, curiously, is not a person, but Ludi Harpastum itself.During Ludi Harpastum, long tables arranged in a circular shape and filled with all kinds of food will be set up in the plaza before the Cathedral for everyone to enjoy.The food is usually prepared by volunteers who can cook. During this time, Noelle, who always holds herself to a high standard, joins the volunteers in continuously cooking and serving food.It's not really any additional work; what's difficult is that she insists on tasting every dish to make sure they are up to standard.The crispy Moon Pies; the sizzling Mondstadt Pork Chops; the towering Pile 'Em Ups — all the fried and barbecued foods, equal parts delicious and fatty, are customary at the festival.The smiles on people's faces make Noelle truly happy. What makes her less so is seeing her bulging belly. She can't help but let out a sigh.For the entire month following the festival, Noelle will volunteer for the Knights of Favonius' city night patrol.The festival may be over, but her battle is only beginning."
+            },
+            {
+                "title": "\"Warning of Roses\"",
+                "text": "The maids of the Knights have many \"red lines\" that are not to be crossed, and one of these is that \"the personal information of the Knights must be kept in strict confidence.\"This does not only require restricting outsider access to such information — this restriction also applies to other members of the Knights.For example, what Jean keeps in her private quarters, the contents of Amber's Baron Bunny, the number of special eye patches that Kaeya owns, the number of Klee's hidden bomb caches... These things are all top secret.To avoid leaking such information, Noelle used red cloth to make a great many roses — in Mondstadt, this flower means \"my lips are sealed.\"She specially wove one such rose into her gauntlet as an ever-present reminder to herself.Revealing secrets would be a major dereliction of duty for a maid, and those who aspire to be knights cannot afford such errors.So you can forget about probing Noelle for any secrets. She won't tell."
+            },
+            {
+                "title": "Vision",
+                "text": "Noelle did once wish to fulfill her dream before its time. Some years ago, after failing her seventh selection test, which was really a foregone conclusion, she felt somewhat discouraged.The etiquette, swordsmanship, the lines she had memorized... had they all gone to waste? She remembered all the strong points of every official knight, but who would remember the hard work of a failure like her?She had never stopped aspiring to become a Knight of Favonius, but her exhausted body wouldn't let her get back on her feet like she normally would. She felt like someone who had spent days and nights traveling through an icy tundra.At that moment, the main gate of the Knights Headquarters were flung upon, and out walked Acting Grand Master Jean, who had just been in charge of the selection process.Without a thought, Noelle gave a precise knight's salute.Immediately, she knew that this was too abrupt a thing to do, and wondered what Jean might think of her.But just as she was wishing that there was some hole she might crawl into to flee, Jean stopped in her own tracks and returned the salute.After a moment's surprise, Noelle gave a strained smile, clumsy but pure.This was a lucky day that she would always remember, for she would receive recognition from two all-important sources this day: once from Jean, and the other from the gods.Her hard work had been remembered after all.From that day forward, Vision in hand, Noelle reaffirmed her belief that she would one day be able to don that armor. That she would be gentle and reliable — and yes, everywhere at once too."
+            }
+        ],
+        "additional_lore": [
+            {
+                "title": "Hello",
+                "text": "My name is Noelle, maid of the Knights of Favonius, and it's my pleasure to be joining you on your adventure today. Should you encounter any problems at any point throughout your journey, please do not hesitate to call me and I will be delighted to provide you with my full assistance. Yes, starting right now — what do you need?"
+            },
+            {
+                "title": "About Noelle: Discipline",
+                "text": "In my job, I do the exact same things every day — a far cry from being a true knight, that's for sure. But ultimately, this is all part of my training, and when it comes to training, actions speak louder than words."
+            },
+            {
+                "title": "About Noelle: Disagreement",
+                "text": "I'm a bit useless in an argument because I can't really explain my reasoning clearly. People find that hard to understand, so instead, I try to just get on with my work in my own way. But then they call me stubborn. All I try to do is convince people with results instead of trying to talk them round... Is that really stubborn of me?"
+            },
+            {
+                "title": "About Us: Identities",
+                "text": "I am devoted to what I do, but make no mistake — I devote myself freely. A maid, to me, is the most liberating job there is. I'm a chef, a gardener, a warrior, a guide... I can be anything you need me to be!"
+            },
+            {
+                "title": "About Us: Reminders",
+                "text": "Even when you're too busy to eat three square meals, never eat something if you don't know where it came from, and always maintain a balance between meat and vegetables. Oh, and no swimming right after a meal. Haha, I do hope you're not thinking, \"that's too much trouble I'll just leave it to Noelle,\" are you? ... Oh... but of course, if you are... Well then, just leave it to me."
+            },
+            {
+                "title": "About Us: Welcome Party",
+                "text": "So I hear you're an Honorary Knight of Favonius? I envy you! I suppose that makes you my senior... Anyway, it's about time someone threw you a welcome party, surely? Leave it to me!"
+            },
+            {
+                "title": "About the Vision",
+                "text": "To be honest, I'm feeling a little dejected. Sure, this Vision proves that the Archons think I'm worthy, but why is it a Geo Vision? I mean, Geo's the furthest thing from Anemo, and for a Knight of Favonius..."
+            },
+            {
+                "title": "Something to Share",
+                "text": "I actually really like the smell of wine, I'm just not of drinking age yet. There have been a few times when I could have had a little taste if I'd wanted, and no one would ever have known... but I resisted the temptation. I feel like the first time you try it is probably really magical, so I want to save it till I'm older."
+            },
+            {
+                "title": "Interesting Things",
+                "text": "A maid is required to keep everyone's secrets. That's why my favorite flower is the rose. Here in Mondstadt, the rose represents the saying \"As wine bottles are corked, so too are my lips sealed.\" It reminds me to— What? ...Roses represent love in your hometown? I—I had no idea the rose held such a... passionate meaning."
+            },
+            {
+                "title": "About Amber",
+                "text": "I really look up to Amber. Not only is she an accomplished knight, but she's a kind person too. She taught me how to make a Baron Bunny. I keep it on my person for luck, and it looks quite alright I think. Oh no, please do not be alarmed. There's no risk of explosion whatsoever."
+            },
+            {
+                "title": "About Klee",
+                "text": "I've always been curious as to how she managed to become a fully-fledged knight at such a young age. I actually went to ask her for tips once, but I'd barely started talking to her when she grabbed me by the hand and took me outside the Knights headquarters to play with bombs. I thought it was some kind of training exercise at first, but Jean found us, and we both ended up in a solitary confinement..."
+            },
+            {
+                "title": "About Jean",
+                "text": "Master Jean has always been my role model, both in terms of ability and dedication. She holds herself and others to the same high standards, so if there ever comes a day when I meet with her approval, it will be the ultimate acknowledgment of all my efforts so far. Until then, there's no room for complacency!"
+            },
+            {
+                "title": "About Varka",
+                "text": "At first I wanted to join his expedition party and do my part as a maid. But the Grand Master said no — it would give him more peace of mind if I stayed behind to take care of things in Mondstadt. It made me so happy to hear how much he values me! ...Okay, so apparently he said the same thing to a lot of people. But that doesn't change the fact he prizes me too!"
+            },
+            {
+                "title": "About Kaeya",
+                "text": "He's a mysterious character! He comes and goes like the wind, and is always occupied with important business. I like the fact that he delegates some of the smaller jobs to me sometimes, it's nice to feel like part of the team, you know... What do you mean, \"errand runner\"? I don't see it like that at all! Okay, well yes, technically I run errands for him. But still, I really appreciate it!"
+            },
+            {
+                "title": "About Bennett",
+                "text": "He's asked me to join the Adventurers' Guild more than a few times, saying that life there would suit me better than with the Knights of Favonius. While I could help him take care of his \"dads\" like the other adventurers... the Knights hold a special meaning for me, and I'm not ready to give up on becoming one yet. No, I simply cannot accept his offer."
+            },
+            {
+                "title": "About Fischl: Tea",
+                "text": "I think she's from another world, but I don't know the details. One thing I do know, however, is that she loves the Knights of Favonius' library. She can always be found there with her nose in a book. I bring her some refreshments whenever I go in there to clean, and she always thanks me profusely. When I say profusely... I mean she goes a bit over the top, to be honest, and... I actually don't understand half of what she's saying."
+            },
+            {
+                "title": "About Fischl: Background",
+                "text": "So once when I was cleaning the library, I noticed a book on the shelf called Flowers for Princess Fischl. At the time I assumed it was just a fantasy novel... I was so surprised to find out the main character is a real person. I could hardly believe it! She must be someone incredible to have a whole book dedicated to her."
+            },
+            {
+                "title": "About Barbara",
+                "text": "We take tea breaks together sometimes. Often she'll start humming a tune, saying inspiration has come to her. I'm not the right person to give useful feedback on anything musical... But I still love spending time with Barbara."
+            },
+            {
+                "title": "More About Noelle: I",
+                "text": "How may I be of assistance? ...Oh, you just want to chat? Okay then! Well, if that's how I can help, then please feel free to chat as long as you'd like."
+            },
+            {
+                "title": "More About Noelle: II",
+                "text": "Not a problem, I am here to serve in whatever capacity you require. You needn't be concerned about the way I feel. ...Huh? More tool than maid? I disagree! A tool might help you to complete a million tasks to a satisfactory standard, but it feels nothing. I, on the other hand, feel a strong sense of achievement every time I do something for you."
+            },
+            {
+                "title": "More About Noelle: III",
+                "text": "Th—These treats are for me? Oh no, I couldn't, really. Well... Then I'll make some for you too! I'll go right now, right this instant! Half an hour... Ah, okay, maybe an hour, tops. You can busy yourself with other things first, and I'll be sure to deliver them right to you, hot and fresh out of the oven!"
+            },
+            {
+                "title": "More About Noelle: IV",
+                "text": "I spend all my days handling the most trivial of matters, but so long as it helps you in your adventure, or makes your life easier in some small way, I couldn't be happier. That's because each time I get a thank-you, it makes me feel like my work at least has some meaning, no matter how insignificant it seems."
+            },
+            {
+                "title": "More About Noelle: V",
+                "text": "Even though I mostly work for the Knights of Favonius, I'm always looking out for ways I can help more people. These days, though, I seem to be spending more and more of my time with you... It might be a bit selfish of me... What do you think?"
+            },
+            {
+                "title": "Feelings About Ascension: Intro",
+                "text": "What is this... new power!? Thank you! Now I can be of assistance to even more people."
+            },
+            {
+                "title": "Feelings About Ascension: Building Up",
+                "text": "I cannot rest on my laurels. After all, I'm not even formally a knight yet. Until that day, I must work even harder."
+            },
+            {
+                "title": "Feelings About Ascension: Climax",
+                "text": "Thank you for the opportunity to accompany you on your adventures, it's taught me a lot and I believe I have improved a lot. As a maid, I should be the one serving you, but it seems you have done more for me than I could ever imagine..."
+            },
+            {
+                "title": "Feelings About Ascension: Conclusion",
+                "text": "Everyone in Mondstadt is saying that I'm much more reliable now. Some even say that I'm to be made a true knight soon, but I don't think... What!? You think so too!? Oooohh, thank you! Coming from you, that is the best compliment I could ever hope for!\n}}\n\n==Combat==\n{{Combat VO\n|character           = Noelle\n\n|skill_1_tx          = Steady as stone.\n|skill_2_tx          = I must leave no stone unturned.\n|skill_3_tx          = Leave it all to me.\n\n|burst_1_tx          = Time to clean up.\n|burst_2_tx          = As a good knight should.\n|burst_3_tx          = As a dutiful maid would.\n\n|sprint-s_1_tx       = I'll catch up.\n|sprint-s_2_tx       = Someone needs assistance.\n|sprint-s_3_file     = Sprint Start 03,Sprint Start 04,Sprint Start 05\n\n|glider_1_file       = Deploying Wind Glider 01,Deploying Wind Glider 02,Deploying Wind Glider 03\n\n|chest_1_tx          = All in a day's work.\n|chest_2_tx          = Oh, wonderful...\n|chest_3_tx          = A little dusty... Best give it a spring-cleaning!\n\n|low-hp_1_tx         = I can patch myself up.\n|low-hp_2_tx         = Ugh, that's going back in the wash...\n|low-hp_3_tx         = If at first you don't succeed...\n\n|ally-low-hp_1_tx    = Apply continuous pressure to the wound.\n|ally-low-hp_2_tx    = Let me get this. You need medical attention!\n\n|fallen_1_tx         = I am a disgrace... to the knights...\n|fallen_2_tx         = But they still need me...\n|fallen_3_tx         = It was my honor to serve you...\n\n|hit-l_1_file        = Light Hit Taken 01,Light Hit Taken 02,Light Hit Taken 03,Light Hit Taken 04,Light Hit Taken 05,Light Hit Taken 06\n\n|hit-h_1_file        = Heavy Hit Taken 02\n|hit-h_1_tx          = Ugh... I missed a spot...\n|hit-h_2_file        = Heavy Hit Taken 01,Heavy Hit Taken 03,Heavy Hit Taken 04,Heavy Hit Taken 05,Heavy Hit Taken 06\n\n|join_1_tx           = Ohhh, how exciting! Ahem.\n|join_2_tx           = I will protect you.\n|join_3_tx           = As you wish.\n\n|atk-l_1_file        = Light Attack 01,Light Attack 02,Light Attack 03,Light Attack 04,Light Attack 05,Light Attack 06,Light Attack 07\n\n|atk-m_1_file        = Mid Attack 01,Mid Attack 02,Mid Attack 03,Mid Attack 04,Mid Attack 05\n\n|atk-h_1_file        = Heavy Attack 01,Heavy Attack 02,Heavy Attack 03\n\n|climb_1_file        = Climbing 01,Climbing 02,Climbing 03\n\n|climb-b_1_file      = Climbing Breath 01,Climbing Breath 02,Climbing Breath 03,Climbing Breath 04\n\n|jump_1_file         = Jumping 01,Jumping 02,Jumping 03,Jumping 04,Jumping 05\n}}\n\n==Navigation==\n{{Character Navbox|VO}}\n\nes:Noelle/Voz\nfr:Noëlle/Répliques\nit:Noelle/Battute\nja:ノエル/ボイス/英語\npt-br:Noelle/Falas\nru:Ноэлль/Озвучка\nth:Noelle/เสียงพากย์\ntr:Noelle/Replikler\nvi:Noelle/Lồng Tiếng/Tiếng Anh"
+            }
+        ]
+    }
+}

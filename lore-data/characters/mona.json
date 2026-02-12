@@ -1,0 +1,166 @@
+{
+    "name": "Mona",
+    "entity_type": "character",
+    "status": "active",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Mondstadt City",
+        "Mondstadt",
+        "The Steambird",
+        "columnist"
+    ],
+    "power_source": "Vision",
+    "element": "Hydro",
+    "constellation": "Astrolabos",
+    "aliases": [
+        "Astral Reflection",
+        "Enigmatic Astrologer"
+    ],
+    "lore": {
+        "descriptions": [
+            "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful.Though she is often strapped for cash and lives a life of thrift, she is resolved to never use astrology for profit... It is this very resolution that has caused her to constantly fret about money.",
+            "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful."
+        ],
+        "character_stories": [
+            {
+                "title": "Official Introduction",
+                "subtitle": "The shining stars above have long decided the fate of all.",
+                "text": "Mona is unique among astrologers &mdash; others may speak with great ostentation for money, but Mona has never done so. Nor does she dress up or mince her words, even if her results are unpleasant to hear: \"You won't amount to anything even if you join the Adventurers' Guild.\" \"You've got no chance with him. In fact, he will soon leave you\" &mdash; such is the nature of her rejoinders.\nHer blunt nature has resulted in plummeting numbers of people coming to have their fortunes told. But Mona isn't one to complain, for that just leaves her with more time for her personal research.\nBut when one speaks of research, one also speaks of the necessity of purchasing texts and research apparatus. Mona's only income comes from her contributions to The Steambird's \"All Things Astrological\" column. Every paycheck is spent first on her research. Books from Liyue, an astrolabe from Sumeru... all of these come with a hefty price tag, and by the time Mona regains her senses, there's only enough of her income left for her to scrape by each month.\n\"It matters not. Astrologers must rid themselves of material desires. Only by ridding oneself of clutter can one see the true world around them.\" So says Mona, coughing loudly all the while to cover the sound of her growling stomach.\nToday, too, is another day Mona worries about Mora."
+            },
+            {
+                "title": "Character Details",
+                "text": "Teyvat is a place where people of all sorts go about their business. Merchants move products, knights patrol, and farmers till the land.But if one were to ask Mona — the enigmatic and prideful astrologist — what she busies herself with, she will reply by saying that she is servicing a debt known as \"life.\"She will, however, vigorously deny being \"poor,\" giving the following explanation:\"Beautiful veneers may obscure simple truths.Exquisite food may mask its nutritional value.One lives simply, all the better to expose this world's truths.\"A frugal lifestyle, therefore, is a form of training to access the truth... Or so Mona will insist.Teyvat is a place where people of all sorts go about their business, and even an enigmatic astrologist must look to hers.—That said, it seems like bards might be the exception to this rule."
+            },
+            {
+                "title": "Character Story 1",
+                "text": "Recently, Mona's teacher, an old but highly skilled female astrologist, has entrusted a very important task to her.Her teacher has an erstwhile rival-friend in Mondstadt, and she wanted Mona to retrieve a highly confidential box from that person's successor.\"If you dare look inside that books... Well, you'll see.\"That was the warning Mona received before departing.To Mona's surprise, this successor was none other than the Spark Knight, Klee.The box was still extant, but due to Klee's actions and a series of accidents... Mona unwittingly unraveled the enigma behind the box.\"I—I'm done for. The thing inside this was the dark history of her youth... she will kill me if I go back like this...\"Mona was thus forced to stay in Mondstadt, beginning a bitterly frugal but bountifully fulfilling existence."
+            },
+            {
+                "title": "Character Story 2",
+                "text": "Mona's astrology utilizes hydromancy, and she once explained the underlying principles thusly:\"It is people's fate that shines in the night sky, and though its reflection in water is but an illusion, it reveals the truth nonetheless.\"No one else can quite comprehend this principle, but Mona's ability convinces people to believe in it anyway.Albeit, sometimes grudgingly...Her astrological readings are exceptionally precise, and she will neither lie nor hold anything back when revealing the results of her readings.\"Your son says that he's made it. That's a lie.\"\"You've got no chance with him. In fact, he will soon leave you.\"The cold, hard truth is laid bare before people's eyes, complete with all the grisly details that they would rather remained buried.Mona will make no exceptions to this, and as such she can seem completely lacking in human emotion.But sometimes, on a clear night, she can be seen on a high mountain slope.There, Mona gazes up at the stars in the sky — so close, she feels, that she could almost reach out and touch them — with gentle eyes, humming an unknown tune to herself."
+            },
+            {
+                "title": "Character Story 3",
+                "text": "Having never studied the art of finance, the astrologist Mona is always hovering around the poverty line.In order to save on food expenses, she once ate mushrooms for an entire month straight. If not for some relief funds coming from time to time, she would have had trouble eking out a living.Mona does in fact have some money set aside. Even though she must eventually run dry without an income, she can slow the bleeding by scrimping in the food department.So where does the rest of the Mora go? Well, if you've ever had a look inside her lab, then know that the big pile of astrology-related apparatus and tools in there didn't come out of thin air.In fact, all of them come with a hefty price tag — books from Liyue, an astrolabe from Sumeru... The shipping fees alone are impressive.That Mona should be in abject poverty comes, therefore, as no surprise.In order to support herself, Mona eventually took up a commercial contract — her contributions to a column about constellation in The Steambird have become her most stable income source.Now having a monthly income, Mona could have left her life of poverty. But how could an astrologist's pursuit of knowledge end here?Whenever she gets paid, Mona will immediately shell out on more astrology-related resources, returning to a state of destitution once more.This process plays out every month.Today, too, is another day Mona worries over Mora."
+            },
+            {
+                "title": "Character Story 4",
+                "text": "Mona will sometimes meet up with Klee and Albedo, her primary reason being to get a free meal.Secondary to that is to exchange pointers with Albedo.Since they are both people who seek to unveil the principles of the world, and both are accomplished students of famed masters, aligning themselves with one another and working together is perfectly normal.Mona staunchly defends her teacher's image in front of Albedo.However, she also often complains about \"that old hag.\"\"You speak of your illustrious lineage, yet you also refer to your master as a \"hag\" and a \"stubborn dimwit.\" Which of these descriptions is accurate?\"Albedo could not help but ask this question — and when he did, Mona promptly realized that she had never given it much thought herself.Stroking her chin, she pondered this paradox deeply for a moment, before responding:\"Hmph. The techniques passed down to me are exceptional, of course, but my teacher is not my equal.Does she know the market rates for eggs, butter, or wheat? In this regard, I have already far surpassed her.\""
+            },
+            {
+                "title": "Character Story 5",
+                "text": "During her apprenticeship, Mona found that the subtle abstractions of her master's teachings could explain the laws that governed the existence of all things.Human hearts were guided by these laws, and if one had great enough powers of calculation, all the mysteries of the world could be understood.Mona once believed this to be true.But when she had to strike out on her own and live day-to-day, she found herself doubting.Not everyone lived wealthy and comfortable lives. Some neither had food nor warm clothes, living no differently from beggars.And it was just such an adventurer who, when meeting Mona while she was out looking for fruits and vegetables to fill her stomach, shared half their food with her.\"Out here, we've gotta have each other's backs.\"This was not something inscribed on these so-called principles of the world. And many other such things she encountered on her journey — the honesty of a thief, a robber's change of heart, a coward's courage, the good deeds of a wicked person...Mona began to have some doubts, but she also felt like she finally had her feet on solid ground.When she was again alone with her thoughts under the stars, she marveled that her research had been so full of holes.Perhaps she would have to continue researching the world's principles for the rest of her life."
+            },
+            {
+                "title": "All Things Astrological",
+                "text": "The Court of Fontaine's mainline newspaper, The Steambird, has many a featured section that contains all sorts of news and gossip drawn from every corner of the seven nations.The section Mona contributes to is known as \"All Things Astrological,\" and it is a column specifically targeted at hobbyists and professionals. That she had this opportunity at all was pure chance.When the previous contributing author was traveling the world, he heard tell of a strange astrologist, and his hobbyist's curiosity compelled him to seek her out.Their correspondence left him deeply impressed.As it happened, he was also looking to retire, and seeing that Mona was strapped for Mora, reached out to help her by recommending her to the editor-in-chief of The Steambird.When Mona released her first column, \"An Introduction to Astrology,\" the column, heretofore known for being easy reading, experienced a massive shift in tone.Most of each issue was dedicated to discussing the movement of celestial bodies and other difficult (and obscure) topics. Academic quotations, dense footnotes and even the occasional hand-drawn star maps abounded in these writings.The editor-in-chief could not help but feel worried that this approach was too academic. Would it find acceptance with long-time readers? As it turned out, there was no need to fret. The publishing house received a great many letters that read something like this:\"Wow, this is amazing. I don't really get it, but this is super interesting. Consider me a fan of Astrologist Mona Megistus.\"After getting approval to continue submitting manuscripts, Mona could finally heave a sigh of relief.Now, how best to celebrate... Ah yes. Perhaps she should use her first paycheck to purchase that latest-edition planetarium she'd had her eye on for a while now..."
+            },
+            {
+                "title": "Vision",
+                "text": "To Mona, that her Vision was sent to her from the gods doesn't mean a great deal.This is not to say that possessing an external focus for elemental power is not useful.Having power is always a good thing, but when compared to lofty \"truth,\" \"martial prowess\" is such a pathetically small concept.The gods, too, are bound by the rules of this world. Mona seeks the final truth of the world, hidden amidst the sea of stars.As such, she does not have any reverence for her Vision, which the people of this world consider to be a sign of divine favor and the source of all power.Nonetheless, this item that serves no practical use in her hands is something that she treasures greatly.It was gifted to her by her teacher as a teaching aid, and it is the only evidence of their time together as master and pupil.She preserves these distant memories with great care. This exquisitely-made teaching aid thus accompanied her everywhere, like an accessory worn by any other maiden.Until one day, when a Vision of her very own would quietly indwell this old teaching aid..."
+            }
+        ],
+        "additional_lore": [
+            {
+                "title": "Hello",
+                "text": "I am Astrologist Mona Megistus, meaning \"The Great Astrologist Mona.\" If it is divination you seek from me, then I ask you respect my name by learning it wholly, here and now."
+            },
+            {
+                "title": "About Mona",
+                "text": "The work of the astrologer is to show people what fate has in store for them, and that's exactly what I do. There will always be those, however, who are unable to accept what they are told."
+            },
+            {
+                "title": "About Us: Work",
+                "text": "Why do I write reports, rather than using my divination to earn Mora? I would never use hydromancy for the sake of Mora, nor did I learn hydromancy for that purpose."
+            },
+            {
+                "title": "About Us: My Fate",
+                "text": "I don't know. Unless left with no other choice, astrologers do not foretell their own fate. The elders of my art warned against it, for it can turn fate in on itself, which is incredibly dangerous."
+            },
+            {
+                "title": "About Us: Your Fate",
+                "text": "As you are not from this world, I am unable to give you a prediction. All I can tell you is that your journey is far from over."
+            },
+            {
+                "title": "About the Vision: Disdain",
+                "text": "When I first received my Vision, the elderly woman that gave it to me, she put on this air and said \"May your heart of truth be with you.\" And yet this thing does nothing for my hydromancy, all it does is get me wet."
+            },
+            {
+                "title": "About the Vision: Value",
+                "text": "That said, a Vision doesn't hurt to have as a little accessory. It is, after all, the one useful study tool that miserly old lady ever gave me, in a rare act of generosity."
+            },
+            {
+                "title": "Something to Share",
+                "text": "Do you know about constellations? Astrologers believe that the patterns of the stars map out the destiny of Vision bearers — past, present, and future, everything is written in the stars."
+            },
+            {
+                "title": "Interesting Things",
+                "text": "This... travel companion of yours — do you know anything of her origins? No matter what, I cannot seem to discern a single shred of information regarding this floating fairy's fate. ...Oh? So you don't know where she comes from, either?"
+            },
+            {
+                "title": "About Jean",
+                "text": "You mean the Acting Grand Master of the Knights of Favonius? Her constellation is Leo Minor, which represents strength and responsibility shouldered too young... Though the lioness has been separated from her pride for a long time, she grows from strength to strength, and the day will come when she is ready to return as its glorious leader."
+            },
+            {
+                "title": "About Albedo",
+                "text": "Albedo? Ah... I envy his ability to solely focus on his research without getting bogged down in mundane worldly affairs. What a wonderful life! If that batty old lady hadn't had one too many screws loose, perhaps that's the life I'd be living by now myself..."
+            },
+            {
+                "title": "About Klee",
+                "text": "Ah yes, Alice's daughter. She's in the custody of the Knights of Favonius, and Albedo looks after her too. She's blessed to have Trifolium as her constellation, which represents good luck. I'm slightly envious... *smirk*Although, if I'd been blessed with good luck, I suppose I never would have had the great honor of running into that old woman, would I..."
+            },
+            {
+                "title": "About Diluc",
+                "text": "Diluc Ragnvindr. His constellation, Noctua, represents vigilance in the darkness of night... A lone guardian keeping watch, longing for the splendor of dawn, yet destined to solitude in the dark days preceding its arrival....Or, wait, maybe Noctua's the one tied to wealth...?"
+            },
+            {
+                "title": "About Kaeya",
+                "text": "Kaeya Alberich? He's a Pavo Ocellus. Destined for greatness and grandeur... and to hide ugly realities behind a layer of charm and elegance. He believes he has made a clean break with his past, but one day fate will catch up with him. When it does, he will have a major decision to make."
+            },
+            {
+                "title": "About Lisa",
+                "text": "A Tempus Fugit... The constellation derives its name from the hourglass, and stands for knowledge and time — or rather, the trade-off between them. As each grain of sand falls down, a moment of time — of life, even, dies for good. To stop the unrelenting flow of sand, one would have to turn the hourglass on its side. But once the sand comes to rest, it remains motionless forever... Hmm, maybe \"becomes lazy\" is more accurate than \"comes to rest,\" in this case."
+            },
+            {
+                "title": "About Venti",
+                "text": "Venti? The bard that sits around doing nothing all day? What's so interesting about him? Sure, I guess I can take a look...Huh, that's weird, the scryglass, it's... I can't see a thing... this wind... I can't... open my eyes! No, my hat! Ah! My clothes, stop! The wind's going to strip all my clothes off! Make it stop, make it stop! ...Alright, alright! I'll never do this again!"
+            },
+            {
+                "title": "More About Mona: I",
+                "text": "You want to chat... for fun? Oh... I don't usually have spare time for such activities, especially when I have so many columns left to write... Then again, since it's you, it might be worth it. Hehe, a change of pace once in a while isn't such a bad thing."
+            },
+            {
+                "title": "More About Mona: II",
+                "text": "Income? From astrology...? You can't use... things like Mora to determine the value of astrology! You need to understand: hydromancy is the one and only means of discerning people's true destiny in the whole of Teyvat! No matter how much Mora or gems you might have, the value of fate is quite simply incalculable! Perhaps not the smartest question you might have had for me..."
+            },
+            {
+                "title": "More About Mona: III",
+                "text": "You want me to explain how astrology works? I'm not sure you'd understand even if I told you. But since you ask... The method I use is called hydromancy. The art of inferring fate from the illusory reflection of the stars on the water's surface. The inverted reflection in the water is an image of the heavens from within which the truth of our world can be observed. ...It is the one and only success story of that old lady's research endeavors."
+            },
+            {
+                "title": "More About Mona: IV",
+                "text": "Mona Megistus, the Astrologist — we came up with that name together, the old lady and me. She said it had a nice ring to it... But then she started calling me 'Meg' for short, which is obviously unnecessary, because clearly 'Mona' is already suffice for a shorter name— No! You are NOT allowed to call me that, it's embarrassing! Gah! I knew I shouldn't have told you!"
+            },
+            {
+                "title": "More About Mona: V",
+                "text": "The golden rule all fortune-tellers abide is: never offer advice. Only state the results of the divination. Otherwise, you risk your fate becoming tangled up with that of your subject. But for you, I will make an exception to this rule — because our fates have been intertwined from the beginning."
+            },
+            {
+                "title": "Feelings About Ascension: Intro",
+                "text": "This was ordained by fate! Long had I forseen it."
+            },
+            {
+                "title": "Feelings About Ascension: Building Up",
+                "text": "...One step closer. Maybe soon I shall finally uncover the truth of this world?"
+            },
+            {
+                "title": "Feelings About Ascension: Climax",
+                "text": "My scryglass has long since preordained all that will take place beneath the stars it reflects."
+            },
+            {
+                "title": "Feelings About Ascension: Conclusion",
+                "text": "In the reflection of the water, I see the ascension of the morning star.\n}}\n\n==Combat==\n{{Combat VO\n|character           = Mona\n|skill_1_tx          = Let me scry!\n|skill_2_tx          = Shadows of fate!\n|skill_3_tx          = Delve into destiny!\n|burst_1_tx          = Fate is upon you.\n|burst_2_tx          = Written in the stars!\n|burst_3_tx          = Decided by destiny!\n|sprint-s_1_file     = Sprint Start 01,Sprint Start 02,Sprint Start 03\n|glider_1_tx         = Scry the sky!\n|glider_2_file       = Deploying Wind Glider 02,Deploying Wind Glider 03\n\n|chest_1_tx          = We could do with some more fortune...\n|chest_2_tx          = This should cover food and rent for a while!\n|chest_3_tx          = Ah, finding treasure is pretty exhilarating!\n|low-hp_1_tx         = My vision is clouded...\n|low-hp_2_tx         = Odious fate...\n|low-hp_3_tx         = This was not foretold!\n\n|ally-low-hp_1_tx    = Do not tempt fate.\n|ally-low-hp_2_tx    = This is not your destiny.\n\n|fallen_1_tx         = The stars... are fading...\n|fallen_2_tx         = Destiny cannot be... denied.\n|fallen_3_tx         = My reckoning... has come...\n|hit-l_1_file        = Light Hit Taken 02\n|hit-l_1_tx          = Curses.\n|hit-l_2_file        = Light Hit Taken 01,Light Hit Taken 03,Light Hit Taken 04,Light Hit Taken 05,Light Hit Taken 06\n|hit-h_1_file        = Heavy Hit Taken 02\n|hit-h_1_tx          = Leave my space!\n|hit-h_2_file        = Heavy Hit Taken 01,Heavy Hit Taken 03,Heavy Hit Taken 04,Heavy Hit Taken 05,Heavy Hit Taken 06\n|join_1_tx           = This is destiny.\n|join_2_tx           = This is how it must be.\n|join_3_tx           = It is as the stars foretold.\n|idle_1_file         = Standby 01, Standby 02\n|atk-l_1_file        = Light Attack 01,Light Attack 02,Light Attack 03,Light Attack 04,Light Attack 05,Light Attack 06,Light Attack 07\n|atk-m_1_file        = Mid Attack 01,Mid Attack 02,Mid Attack 03\n|atk-h_1_file        = Heavy Attack 01,Heavy Attack 02,Heavy Attack 03\n|climb_1_file        = Climbing 01,Climbing 02,Climbing 03,Climbing 04,Climbing 05\n|climb-b_1_file      = Climbing Breath 01,Climbing Breath 02,Climbing Breath 03\n|jump_1_file         = Jumping 01,Jumping 02,Jumping 03,Jumping 04,Jumping 05\n}}\n\n==Navigation==\n{{Character Navbox|VO}}\n\nes:Mona/Voz\nfr:Mona/Répliques\nit:Mona/Battute\nja:モナ/ボイス/英語\npl:Mona/Kwestie dialogowe\npt-br:Mona/Falas\nru:Мона/Озвучка\nth:Mona/เสียงพากย์\ntr:Mona/Replikler"
+            }
+        ]
+    }
+}

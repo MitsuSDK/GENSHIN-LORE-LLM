@@ -1,0 +1,198 @@
+{
+    "name": "Zhongli",
+    "entity_type": "character",
+    "status": "active",
+    "region": "Liyue",
+    "affiliations": [
+        "Liyue Harbor",
+        "Wangsheng Funeral Parlor",
+        "The Seven",
+        "Adepti"
+    ],
+    "power_source": "Gnosis",
+    "element": "Geo",
+    "constellation": "Lapis Dei",
+    "aliases": [
+        "Vago Mundo",
+        "Wangsheng Funeral Parlor Consultant"
+    ],
+    "lore": {
+        "descriptions": [
+            "Wangsheng Funeral Parlor's mysterious consultant. Handsome, elegant, and surpassingly learned.Though no one knows where Zhongli is from, he is a master of courtesy and rules. From his seat at Wangsheng Funeral Parlor, he performs all manner of rituals.",
+            "A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things."
+        ],
+        "character_stories": [
+            {
+                "title": "Official Introduction",
+                "subtitle": "Zhongli ‧ Vago Mundo",
+                "text": "Wangsheng Funeral Parlor Consultant\nWangsheng Funeral  mysterious consultant. Handsome, elegant, and surpassingly learned.\nThough no one knows where Zhongli is from, he is a master of courtesy and rules. His grasp of Liyue's traditions is superior to that of any scholar. From his seat at Wangsheng Funeral Parlor, he performs all manner of rituals. Proper clothing, auspicious timing, locations and appliances, observances and regulations, all such things can be left in his hands without a care.\nBut though he is a man of such particularity, he never has a Mora to his name. Trade requires capital, and transport demands payment, and yet Zhongli has no such thing on him &mdash; for in the end, someone else will always foot the bill.\nHe will attend the most celebrated performances, and be accompanied by the loveliest thrushes. His behavior is immaculate in every way, save for the matter of money. Those around him have long gotten used to his eccentricities, and do not take this matter to heart. If you ask him, he will say: \"Is that so? I don't recall anyone ever taking issue with me concerning money.\"\nMoney for goods &mdash; that is the norm. How could someone living in this world not comprehend its fundamental truths?\nHas the passage of too many years eroded his sense of mortal trivialities? Or does he see his voyage through this world as though it were a stroll amongst the clouds?"
+            },
+            {
+                "title": "Character Details",
+                "text": "In Liyue's traditional customs, \"receiving adepti\" and \"sending adepti off\" are equally important.The Hus of the Wangsheng Funeral Parlor, who have been in this business for 77 generations, are the masters of handling funerals. However, Hu Tao, the current owner of Wangsheng Funeral Parlor, primarily focuses on the art of sending mortals on their way.For the various ceremonies for sending adepti off, Hu Tao usually employs the help of a friend in more or less the same business. That person's name is Zhongli. The adepti have been with Liyue for millennia, but only a handful have ascended in the past three thousand years, which means that everything regarding the traditions now only exists in texts. This is not something one would likely witness twice in their entire lifetime.Not even the most particular and learned of researchers or scholars could find one fault in Wangsheng Funeral Parlor's ceremonies for sending adepti off.Everything must be perfect, from the costumes, the time, the place, the items, the weather, the scheduled length, the size of the permitted audience, to the stature, profession, and age of said audience. Nothing can be overlooked.When folk describe Zhongli as \"living history,\" the latter usually only smiles and sighs.\"I... just have a good memory.\""
+            },
+            {
+                "title": "Character Story 1",
+                "text": "In Liyue, if a person pays great attention to details, and has insuperable criteria by which they judge certain matters, then they are called \"particular.\"In truth, everyone is \"particular\" about something. Some people hate spicy food, others don't eat fish, and some want their tofu served sweet...But as for Zhongli, he is particular about everything.He attends operas performed by only the most celebrated stars, takes only the most luxuriant thrushes out for walks, and he goes into the kitchen personally to instruct the cooks as to the ratio of shrimp and fish required to make the most authentic Fullmoon Egg.Zhongli has expertise in all manner of things, from fashion to daily essentials, to fine wines and delicacies, to teas and spices, and to flora and fauna. He is also more than capable of participating in discussions on commerce, politics, and international relations.But on a typical day, all you will glean from him is a few pieces of useless trivia, because he particularly enjoys sharing these fun tidbits with you."
+            },
+            {
+                "title": "Character Story 2",
+                "text": "When making a purchase, look to haggle.This is a common understanding among the people of Liyue. No matter what high heavens the store owner praises their product to, no matter its ancient history or classical value, prices are always flexible. Half the stated cost is a good place to start.But when Zhongli pays up (or rather, calls for someone else to pay up on his behalf), he never looks at the price tag. As long as it catches his eye, Zhongli will pay as much as the owner asks. Indeed, he will even buy it at a premium sometimes.But for some reason, Zhongli always forgets to bring money.For small purchases, he has friends to help him out, and large bills he somehow finds ways to have written off.To those merchants who secretly pride themselves on their powers of flattery, Zhongli is a man of strange proclivities: in truth, he knows a great deal about the value of money and finance, and he also understands the suffering of the people. However, he seems to not understand that poverty is part of the human condition.Or perhaps it might be said that he cannot imagine himself being poor.How has such a person not died of hunger yet?"
+            },
+            {
+                "title": "Character Story 3",
+                "text": "There is no way Zhongli can starve.Such concerns as profit and loss are beneath his notice. The Seven Nations and the world itself are where his efforts are directed.As for wealth... He is wealth itself.He is Morax, the overlord Rex Lapis who rules Liyue, and the Geo Archon of the Seven Archons. The very money that circulates throughout Teyvat, Mora, is named after him.When night falls and bustling Liyue begins to slumber, he will sometimes stand atop the towering mountains and gaze upon this city, which he made with his own hands.To the people of Liyue, Rex Lapis has many divine titles.When he laid down Liyue's laws by his divine might, he was the God of Contracts. When he minted the first Mora and made Liyue strong by dint of commerce, the merchants revered him as the God of Commerce.He has lived through countless years and is the eldest of the Seven, and so historians call him the God of History.Thousands of years ago, the forebears of the citizens of Liyue Harbor struck stones together to start fires and used piled stones to create stoves. These blessings derived from the Geo element led the Geo Archon to gain the title of God of the Stove.People from other lands tend to call him Morax, though the people of Liyue prefer to use the term Rex Lapis.But in the hearts of lovers of opera and children, Morax's on-stage aspect, the all-conquering defender of Liyue — the Warrior God — is the most fascinating.The delicacies that Rex Lapis discovered while lost in the streets, the plaques inscribed with his handwriting, a famous opera that he once starred in, playing the part of a warrior... Many stories and tales of Liyue are, when studied closely, stories of people visited by their deity at some point — and the citizens of Liyue are most proud indeed of that history."
+            },
+            {
+                "title": "Character Story 4",
+                "text": "As the founder of Liyue Harbor, \"contracts\" are the most important thing to Morax.From simple monetary exchange and agreements between merchants to the ancient laws that Morax himself laid down, there is no part of city life untouched by \"contracts.\"To merchants, \"contracts\" are the most important standard to which they hold themselves: deadlines, invoices, shipping destinations... Only a refined and strict order can sustain vibrant commerce, which is itself the lifeblood of Liyue Harbor.Thus the Qixing punish violators of such laws unceasingly, not only to uphold the divine rulings of Morax but also to allow Liyue to maintain its vitality.Through the millennia, every generation of the Liyue Qixing commits to interpreting the law, including subtle amendments to plug loopholes found in the law. Any loopholes that remain undiscovered are seen by the merchants as \"permissible if unaddressed,\" and they make killings off such holes until they are discovered and patched up by the Liyue Qixing.Amid this game of cat-and-mouse, the book that collates such amendments has reached a whopping 279 pages thick.The person currently responsible for maintaining this book, the Tianquan Ningguang, is secretly (and humorously) referred to as the \"Tailor of Liyue,\" in honor of her speed in patching these laws up, and for her sharpness of eye.But no matter how complicated or tangled mortal laws become, one of these stands above all others in the eyes of Rex Lapis.\"The one who reneges on their words shall suffer the Wrath of the Rock.\""
+            },
+            {
+                "title": "Character Story 5",
+                "text": "Rex Lapis, most ancient of The Seven, has lived far too long.Rex Lapis still remembers that moment when the final archon took their divine seat, thus ending the Archon War and the era of warring gods. The Seven were a diverse lot and dispersed far and wide, but they all shouldered the burden of guiding humanity.As time passed, many of The Seven's titles changed hands, and only two remain of the first Seven: Rex Lapis and the Anemo Archon.The carefree Barbatos, the Anemo Archon, is the second eldest of The Seven.When Barbatos first came to Liyue, Rex Lapis believed his fellow archon to have encountered some terrible crisis in pursuit of their duties, thus requiring his aid.So when Barbatos descended in a gust of wind, the Geo Archon had already prepared himself to receive this neighboring deity and lend what help he may.But as he looked, the Anemo Archon tossed a wine bottle at him.\"Here's some wine from Mondstadt. Care for a taste?\"To forsake one's duty to deliver a single bottle of wine — what a preposterous notion!Yet the Anemo Archon kept coming to visit, to explore Liyue Harbor, all sorts of strange questions on his lips. The Anemo Archon's questions knew as little limits as the wine in his hands.From then on, the first Seven would often gather in Liyue.Rex Lapis still remembers how those wines tasted.The world has changed much since then, and all that was once familiar has faded into memory.The seven seats changed and again were changed, till five of the seven at the table were all departed.Nor would the duty of guiding humanity be honored by the new archons.Even the hardest rocks may be worn down after three thousand years.Nor would the wind ever return again.One drizzly day, the ancient ruler was strolling about Liyue Harbor, and overheard a merchant telling one of his workers,\"You've finished your duties, go ahead and call it a day.\"Long did he stand amidst the milling crowd.\"Have I... already finished my duties?\""
+            },
+            {
+                "title": "That Which Rises From the Sea",
+                "text": "During the Archon Wars, every corner of Teyvat was consumed in the fires of conflict. Not only did gods fight amongst themselves, but countless wicked things also sought to expand their domains.One such type of creature caused no end of woe for the Geo Archon, long before he took that title along with his place among The Seven.These foul creatures, straight from the murky depths of the ocean abyss, had a squishy exterior, and possessed agile tentacles that would live on even after being cut off, even secreting some thick and revolting fluid in the process.This alone would have been enough to make them the most monstrous of all creatures, and still it was not the pinnacle of their monstrosity.What made them so truly terrible was their small size, which gave them the ability to duck into unimaginably small nooks and crannies.No space was too narrow for them, neither the wooden boards of tables and chairs, nor the seams of windows and doors and curtain folds, nor even books and brushes.Many a poor soul had, on at least one occasion, unwittingly outstretched their hand, only to quickly retract it in horror with a blood-curdling scream at the sensation of something cold, clammy and damp, while one or more of these despicable creatures came crawling up their arm, leaving a shiny trail behind them...At the behest of the people of Liyue, Morax agreed to wipe these creatures out. But these parasites upon civilization could not be destroyed like enemies on a battlefield, by simply summoning a storm of stone spears that would shatter the earth and churn the soil{{sic|....|hide=1}}Still, he was the God of Contracts. His word had to be his bond.So, he went through the town from house to house with prisons of stone, seizing these creatures one by one and locking them away for good...This long campaign of pest extermination taught Morax the true meaning of \"a burden lifted.\"The grueling campaign itself, and the terrible smell of those ocean creatures' secretions, left a lasting impression on the deity.Today, even when he goes out incognito as the mortal man, Zhongli, Morax gives those living, squirming seafood products a wide berth....Well, except for dishes where said seafood products have been sliced and diced into oblivion, such as seafood tofu. He'll quite happily eat those."
+            },
+            {
+                "title": "Gnosis",
+                "text": "Once the Rite of Parting, of which Zhongli was both director and star, was over, the Fatui Harbinger named Signora appeared before him.By prior contract, she was here to claim the Geo Archon Morax's Gnosis.Before the Traveler and the two Fatui Harbingers, Zhongli related the truth that he had established a contract with the Cryo Archon.In his own words, this was his final \"Contract to End All Contracts.\"Yet no matter how one looks at it, the loss of his divine ability to defend Liyue was too great a price to pay.Even amongst mortals, the basis of a contract is \"equivalent exchange.\"And for the God of Contracts, who must have established countless such agreements in his long years of existence, such an important contract must have come with its benefits.Now, the Geo Archon has given away his Gnosis as his part of the deal.What, then, must the Cryo Archon have wagered to balance the scales?"
+            }
+        ],
+        "additional_lore": [
+            {
+                "title": "Hello",
+                "text": "A new contract? Okay. I'm still on leave, but I can accompany you for a while. What name should I use on the contract? I have a great many names, though when on leave... I tend to go by Zhongli. And you, Traveler? What name will you be signing on this contract?"
+            },
+            {
+                "title": "About Zhongli",
+                "text": "Nothing can be accomplished without rules or standards. No matter if it is mortals or adepti, everyone has their place. This rule keeps Liyue in peace."
+            },
+            {
+                "title": "About Us: Gold",
+                "text": "Gold is Liyue's treasure. It is the blood that runs through her heart. As for whether your own heart shines like gold — we will have to wait and see."
+            },
+            {
+                "title": "About Us: Contracts",
+                "text": "You and I have a contract, so feel free to discuss anything at all within the scope of said contract."
+            },
+            {
+                "title": "About Us: Fairness",
+                "text": "We can discuss matters that fall outside of our contract too. After all, I have been on this land for a time, and have come to know a thing or two. Of course, I do hope you can do some things for me as well. That would only be fair."
+            },
+            {
+                "title": "About Us: Confusion",
+                "text": "Contracts cannot be used to define friendship, nor measure sentiment. So just what can we use to measure the weight of our emotions? Do you know the answer, friend?"
+            },
+            {
+                "title": "About the Vision",
+                "text": "Visions... are also a type of contract. You should know that all power comes at a price. For every bit of power you gain, so too do you gain more responsibility."
+            },
+            {
+                "title": "Something to Share",
+                "text": "Trade relies on both contracts and fairness. There is one thing you must never forget when making and abiding by a contract: if fairness is lost, then the contract shall become proof of one's deception."
+            },
+            {
+                "title": "Interesting Things",
+                "text": "If you're heading to Jueyun Karst, please bring me back a bunch of Qingxin. Just one bunch is enough. Travel expenses... Ah, I almost forgot, during the effective period of our contract, travel expenses are to be paid for by yourself. Sorry to bother you."
+            },
+            {
+                "title": "About Xiao",
+                "text": "You speak of the young adeptus of Guili Plains... *sigh* Still fulfilling his duty to this very day. Please give this Remedium Tertiorum to him on my behalf. Oh, yes... be sure not to let Paimon eat them. Nothing of this world can withstand the power of this medicine."
+            },
+            {
+                "title": "About Venti",
+                "text": "*sniff* Tsk... It reeks of wine. That bard has just been through here, hasn't he? That drunkard is a disgrace to the arts. Oh... Has he tricked you into getting drunk? You're slurring a little. Wait a moment, I'll brew a pot of sobering tea. It'll be ready in only six hours, so just wait a moment."
+            },
+            {
+                "title": "About Ningguang",
+                "text": "Despite the multitude of affairs she deals with in a day, Ningguang always continues to press on. A rare gem indeed. I'm reminded of the time that she used to walk barefoot from Yaoguang Shoal to the south wharf, trying to sell her wares as she went. Time is cruel to humans."
+            },
+            {
+                "title": "About Hu Tao",
+                "text": "The current overseer of the funeral parlor? Ahem. I cannot deal with that child."
+            },
+            {
+                "title": "About Tartaglia: Composed",
+                "text": "That rascal from Snezhnaya has yet to depart from Liyue? Heh, no matter. Just let me know if he gives you any trouble. I shall deal with the matter swiftly."
+            },
+            {
+                "title": "About Tartaglia: Drinks",
+                "text": "It's said that Childe and his reputation have yet again stirred up waves among the inner ranks of the Fatui. Knowing his type, he will be sure to swiftly depose anyone who dares to challenge his actions. Hmm... Come to think of it, there will be a lot of interesting news to be heard the next time we gather for drinks. Care to join me when the time comes, Traveler?"
+            },
+            {
+                "title": "About Ganyu",
+                "text": "Liyue's prosperity has not been merely built on Rex Lapis' oracles or wisdom. It is also thanks to the countless servants of the Geo Archon who have honored their end of the contract. Of them, Ganyu is the one who has served for the longest time. If you want to know about her past... You should ask her about it. I fear my wording would not be delicate enough to receive her approval."
+            },
+            {
+                "title": "About Keqing",
+                "text": "She is the most impious of the Qixing — but I actually find the conviction of such people quite endearing. The only reason I was able to consider taking a step back from such overarching management of Liyue was because there are people like her. People who speak up when they believe themselves to be right, and then go and do something decisive about it."
+            },
+            {
+                "title": "About Yanfei",
+                "text": "Despite never having signed a contract with me, she upholds order within many strata of Liyue society in her own way, dispelling misconceptions and correcting biases... Should her father one day return from his travels, I imagine that he would be even more delighted than I."
+            },
+            {
+                "title": "About Baal",
+                "text": "Time tempers all volition. Yet she would give up everyone for her beliefs. Perhaps it is for this very reason that she has come to where she stands today... Should the chance come by me, I too would like to learn of the Eternity for which she so earnestly endeavors."
+            },
+            {
+                "title": "About Buer",
+                "text": "As well as ruling over all of Sumeru, the God of Wisdom, Buer, has a duty to guard Irminsul. Only one who possesses great wisdom could hope to shoulder these responsibilities. All life in Teyvat owes her gratitude for saving Irminsul."
+            },
+            {
+                "title": "About Furina",
+                "text": "She made a contract with her own self to save the nation, strictly adhered to it for over five centuries without once wavering, and even fooled the Heavenly Principles in the end... I have great respect for approaches to justice that place exacting demands not only on others, but also on the self. Though her divinity has vanished and the throne of the Archon is no more, Furina will go down in Fontaine's history as a God of Justice worthy of recognition."
+            },
+            {
+                "title": "About Xianyun",
+                "text": "I hear many merchants of Liyue tell tales of a Ms. Xianyun. By most accounts, she appears proud and taciturn upon first glance, yet in conversation, people find her to be forthright and fair-minded, and they are pleased to make her acquaintance. I am glad to hear this. But... I have also heard a great many accounts lauding her readiness to part with large sums of Mora..."
+            },
+            {
+                "title": "About Haborym",
+                "text": "Natlan's long history of struggle fueled its warriors to overcome the Abyss and transcend fate to forge a new future. Behind this triumph stands a leader who wields both time and history as her weapons, with a level of strength that rivals the gods. She is impressive indeed."
+            },
+            {
+                "title": "About the White Horse Adeptus",
+                "text": "The white horse... An old acquaintance, and one I haven't met in a very long time... One laments spring nights, how short they last, and autumn days that quickly pass. A steed that bolts and swiftly flees, a candle shivering in the breeze."
+            },
+            {
+                "title": "More About Zhongli: I",
+                "text": "Why is it that once you finally get a break, rather than taking a rest, you instead come to me? Is it that you want to hear one of my stories?"
+            },
+            {
+                "title": "More About Zhongli: II",
+                "text": "Have you heard of the origin of the Blackcliff Forge? In the past, they would mine the ore veins of Mt. Tianheng, and then replace the cavities with factory equipment. Tunnels run in all directions throughout the mountain — some even run to the ruins deep within the earth. I doubt there is a person today who could map out all the tunnels."
+            },
+            {
+                "title": "More About Zhongli: III",
+                "text": "Have you heard of the origins of the Lantern Rite? In a war, long ago, the people of Liyue would release lanterns to remind their soldiers of the way home, and to never lose sight of themselves. Though in this day and age, I doubt there are any that remember."
+            },
+            {
+                "title": "More About Zhongli: IV",
+                "text": "The God of Contracts. Have you heard of him? He has an impressive memory. He remembers the name of every person he comes across, and the date that every ship in Liyue sets sail. After all, only in being able to do so can he memorize all of the contracts he holds. With that said, not every memory is a happy one..."
+            },
+            {
+                "title": "More About Zhongli: V",
+                "text": "For those that live too long, the friends of days gone by and scenes from their adventures live on in their memories. As such I have no regrets in meeting you, friend. Should the day ever come that we are not together, you will continue to shine like gold in my memories."
+            },
+            {
+                "title": "Feelings About Ascension: Intro",
+                "text": "It seems my strength is returning. Not a lot, but enough."
+            },
+            {
+                "title": "Feelings About Ascension: Building Up",
+                "text": "My power is growing, and so with it grows the burden on my body... I'm okay. My structure is not the same as that of normal people. Please, do not worry yourself."
+            },
+            {
+                "title": "Feelings About Ascension: Climax",
+                "text": "I see. Using a Vision harnesses elements. As far as the common folk are concerned, this is no small feat. So... back then... they were aware of this as they stood beside me..."
+            },
+            {
+                "title": "Feelings About Ascension: Conclusion",
+                "text": "After letting go of my Gnosis, I never expected to see a day like this again. Thank you, friend. Ah, yes, I have a new contract here. Care to take a look at it together?\n}}\n\n==Combat==\n{{Combat VO\n|character           = Zhongli\n\n|skill_1_tx          = Rise!\n|skill_2_tx          = Quake!\n|skill_3_tx          = Crumble!\n|skill_4_tx          = ''(Hold)'' Gather.\n|skill_5_tx          = ''(Hold)'' Stabilize.\n|skill_6_tx          = ''(Hold)'' Solidify.\n\n|burst_1_tx          = Order guide you.\n|burst_2_tx          = This is order.\n|burst_3_tx          = I will have order!\n\n|sprint-s_1_file     = Sprint Start 01,Sprint Start 02,Sprint Start 03\n\n|glider_1_file       = Deploying Wind Glider 01,Deploying Wind Glider 02,Deploying Wind Glider 03\n\n|chest_1_tx          =   One man's stone is another man's gem...\n|chest_2_tx          =   Unsolicited... and all the more valuable for it.\n|chest_3_tx          =   Certainly worth the extra mile.\n\n|low-hp_1_tx         = I see your power.\n|low-hp_2_tx         = Ha, this is getting interesting.\n|low-hp_3_tx         = Emergency countermeasures aren't my thing.\n\n|ally-low-hp_1_tx    = Don't try to rush your enemy.\n|ally-low-hp_2_tx    = Take a rest. Leave it to me.\n\n|fallen_1_tx         = Ugh... I'm feeling a little... off...\n|fallen_2_tx         = You shouldn't see me like this...\n|fallen_3_tx         = Even bedrock can be turned to dust...\n\n|hit-l_1_file        = Light Hit Taken 01,Light Hit Taken 02,Light Hit Taken 03,Light Hit Taken 04,Light Hit Taken 05,Light Hit Taken 06\n\n|hit-h_1_tx          = Careless...\n|hit-h_2_tx          = Nothing to fear.\n|hit-h_3_file        = Heavy Hit Taken 03,Heavy Hit Taken 04,Heavy Hit Taken 05,Heavy Hit Taken 06\n\n|join_1_tx           = Sure.\n|join_2_tx           = A walk would be nice.\n|join_3_tx           = What shall we do?\n\n|idle_1_file         = Standby 02\n|idle_1_actual_tx    = Osmanthus wine tastes the same as I remember... But where are those who share the memory?\n\n|atk-l_1_file        = Light Attack 01,Light Attack 02,Light Attack 03,Light Attack 04,Light Attack 05,Light Attack 06,Light Attack 07\n\n|atk-m_1_file        = Mid Attack 01,Mid Attack 02,Mid Attack 03\n\n|atk-h_1_file        = Heavy Attack 01,Heavy Attack 02,Heavy Attack 03\n\n|climb_1_file        = Climbing 01,Climbing 02,Climbing 03,Climbing 04,Climbing 05\n\n|climb-b_1_file      = Climbing Breath 01,Climbing Breath 02,Climbing Breath 03,Climbing Breath 04\n\n|jump_1_file         = Jumping 01,Jumping 02,Jumping 03,Jumping 04,Jumping 05\n}}\n\n==Trivia==\n* In his \"Good Afternoon\" line, the \"good place in Chihu Rock\" he refers to is likely either Wanmin Restaurant or Third-Round Knockout, two restaurants in Chihu Rock that he shows a preference towards.\n* \"About Us: Gold\" is a reference to the description on Prithiva Topaz Gemstone, which are words spoken by him.\n* Differences between language versions:\n**'''Good Evening:''' In Chinese, Zhongli calls Yun Jin {{zh|云先生|Yún-xiānshēng}}. Though {{zh|先生|xiānshēng}} is now normally only used for men, similar to \"Mr.\" in English, in ancient times it's used as a respectful address for accomplished or influential individuals, similar to {{ja|先生|sensei}} in Japanese.\n** '''About Tartaglia: Composed:''' In Chinese, Zhongli calls Tartaglia {{zh|武人|wǔrén}} instead of \"rascal,\" which is a general term for any martial artist.\n** '''Chat: Reminiscing:''' In Chinese, the first sentence Zhongli recites is from a [https://baike.baidu.com/item/唐多令·芦叶满汀洲/8464037 Chinese poem]: \"{{zh|欲买桂花同载酒}}\". The direct translation of this line is \"[I] wish to buy {{w|Osmanthus fragrans|osmanthus}} and drink wine together.\" The poem continues with \"{{zh|终不似，少年游}}\", meaning: \"In the end, it cannot be [carefree] like the journeys of my youth.\" Zhongli says instead, \"{{zh|只可惜故人，何日再见呢？}}\", which roughly means: \"It's only a pity I know not when I can see that old friend again.\"\n** '''About Xiao:''' In Chinese, {{zh|连理镇心散}} is used instead of \"painkillers.\" This fictional medicine is based on {{zh|镇心散}}, a traditional Chinese medicine for clearing the mind and relieving emotional pain, commonly used to treat symptoms such as postpartum depression in new mothers.\n* In the Japanese version, one of his voice lines (\"Chat: Reminiscing\") was updated twice.\n\n==Navigation==\n{{Character Navbox|VO}}\n\nes:Zhongli/Voz\nfr:Zhongli/Répliques\nit:Zhongli/Battute\nja:鍾離/ボイス/英語\npl:Zhongli/Kwestie dialogowe\npt-br:Zhongli/Falas\nru:Чжун Ли/Озвучка\nth:Zhongli/เสียงพากย์\ntr:Zhongli/Replikler"
+            }
+        ]
+    }
+}

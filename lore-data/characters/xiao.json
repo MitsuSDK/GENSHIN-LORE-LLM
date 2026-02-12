@@ -1,0 +1,177 @@
+{
+    "name": "Xiao",
+    "entity_type": "character",
+    "status": "active",
+    "region": "Liyue",
+    "affiliations": [
+        "Adepti",
+        "Liyue Adeptus",
+        "Yakshas"
+    ],
+    "power_source": "Vision",
+    "element": "Anemo",
+    "constellation": "Alatus Nemeseos",
+    "aliases": [
+        "Vigilant Yaksha",
+        "Bane of All Evil"
+    ],
+    "lore": {
+        "descriptions": [
+            "One of the mighty and illuminated adepti guarding Liyue, also heralded as the \"Vigilant Yaksha.\"Despite his youthful appearance, tales of his exploits have been documented for millennia.He is especially fond of Wangshu Inn's Almond Tofu.This is because it tastes just like the sweet dreams he used to devour.",
+            "A yaksha adeptus who defends Liyue. Also heralded as the \"Conqueror of Demons\" and \"Vigilant Yaksha.\""
+        ],
+        "character_stories": [
+            {
+                "title": "Official Introduction",
+                "subtitle": "",
+                "text": "The people of Liyue Harbor greatly revere the mighty and illuminated adepti who dwell in Jueyun Karst.\nDuring the festival seasons, they will offer up incense and pray to the adepti for their protection.\nBut none pray to Xiao.\nFor Xiao is no lucky star that promises fame and fortune &mdash; he is a demon-hunting Yaksha.\nAfter the lantern lights of Liyue have faded, the thankless battle to protect the city goes on unseen. It is an endless battle, and there can be no victor.\nStill, none of this fazes Xiao, for as the Vigilant Yaksha, he must protect Liyue to honor his contract.\nThis is simply the way it is."
+            },
+            {
+                "title": "Character Details",
+                "text": "Xiao may have the appearance of a young man, but his true age is something over two thousand years.Fortunately, people do not tend to underestimate him on the basis of his appearance — one only needs to spend a short time with Xiao to clarify that he is not someone to be trifled with.Xiao is a man of few words. He is highly dangerous, and has the most piercing gaze you've ever seen.He enjoys a formidable reputation and high level of seniority among the adepti, but is relatively unknown in the mortal realm.This is inevitable. Xiao is not one of those popular deities to whom people pray for wealth and protection, nor is he a mystical sage of Jueyun Karst to whom pilgrims flock in search of divine wisdom.No... If any mortal witnesses Xiao unleashing his true power, it is certain to be under the direst of circumstances — and they will be extremely lucky if they survive the ordeal.This is not because Xiao seeks to harm people. Rather, since Xiao wages a constant war against dark forces powerful enough to devour Liyue in its entirety, any bystanders who witness him in the heat of battle are likely to end up as collateral damage.Not that this is a secret worth going around silencing witnesses for."
+            },
+            {
+                "title": "Character Story 1",
+                "text": "What exactly is Xiao wrestling with?The tactful answer would be old grudges, unfulfilled dreams, the lamentations of the vanquished...The unmitigated truth is that Xiao fights against the remnants of the defeated gods from the Archon War, which took place prior to the rise of The Seven.Morax defeated those gods and buried their remains beneath the rocks of the earth.However, gods are immortal. Their consciousness may diminish, but their power and hatred will always remain and spread like poison, relentlessly stirring up chaos for the world and its inhabitants.Liyue's rulers, who are aware of the truth regarding Xiao, refer to him in his millennia-long experience as the \"Bane of All Evil.\" The war he fights can never be won, and will never come to an end.It is also an invisible war that no one will ever witness or thank him for."
+            },
+            {
+                "title": "Character Story 2",
+                "text": "Xiao is not this yaksha's true name, but a name given to him in the interests of his own protection.Back in a younger, more naive time, a god had gotten a hold of Xiao's weakness and forced him to serve as their bloodhound, in which capacity he was forced to perform cruel and violent acts.Many died at his hand, many hopes were crushed, and he was even forced into devouring his victims' dreams. As much as it pained him to do this, he was helpless to resist.Finally, on the battlefield of the Archon War, Morax, the Geo Archon,In Chinese, the phrase used here is {{Lang|mini=1|zh=岩之神|zh_rm=}}, which the English version usually translates as \"God of Geo.\" The term \"Geo Archon,\" meanwhile, is typically reserved for {{Lang|mini=1|zh=岩神|zh_rm=}}. There is no significant difference between the two phrases in Chinese (they directly translate as \"God of Rock\" and \"Rock God,\" respectively), but it lends to confusion in the English translation as the terms \"god\" and \"Archon\" are not completely interchangeable. had a fateful encounter with the yaksha's master.The current state of the world has already revealed the results of that battle.Rex Lapis liberated the yaksha and gave him the name \"Xiao.\" \"In the fables of another land, the name Xiao is that of a spirit who encountered great suffering and hardship. He endured much suffering, as you have. Use this name from now on.\""
+            },
+            {
+                "title": "Character Story 3",
+                "text": "To repay his debt of gratitude to the Geo Archon, Xiao shouldered the burden of protecting Liyue in the millennia that followed.His past of service under the evil god had rid Xiao of his innocence and gentleness. All that remained within him was the means to kill and the weight of his sins.The only way he could be of service to mortals was in doing battle.But what could people do for him in return?No ordinary person would ever stop to ask such a question. The sight of Xiao, even far off in the distance, was intimidating enough to send people instantly running for their lives.That said... if ever someone did want to show some appreciation for Xiao, there is perhaps one thing they could try.There is a certain secret agent of the Qixing who is tasked with supporting Xiao in subduing demons. That secret agent runs a front organization called the Wangshu Inn.Occasionally, Xiao stops by the inn for a bowl of Almond Tofu, and if you could see the look on his face when he eats it... there's no mistaking it — he clearly loves the stuff.Nonetheless, it is not the sweet taste that Xiao hankers after. It's the texture he finds irresistible — apparently, it's very similar to that of the dreams he used to devour."
+            },
+            {
+                "title": "Character Story 4",
+                "text": "What exactly is Xiao wrestling with?To those in Liyue's corridors of power, Xiao's battle is against the evil manifestations produced by the remnants of defeated gods.However, if you asked Xiao the same question, he may well give you an entirely different answer.Xiao was once enslaved by an evil god and suffered immensely under his rule until finally regaining his freedom at Rex Lapis' hand.Xiao's powers were highly regarded by the adepti and he seemed to vanquish all manner of evil demons with consummate ease.But the evil gods also held immense power, and their lust for revenge ran deeper than mere mortals could ever contemplate. Xiao relentlessly slaughtered the endless, impure manifestations of their vengeful souls, but in doing so, he caused them to fracture. Eventually, these fragments of their hatred were able to taint Xiao's own soul.The only way to eradicate such hatred is to accept the karmic debt it brings. The magnitude of the bad karma Xiao has accumulated over the years is enough to consume flesh, bone, and soul alike.And yet, Xiao does not feel any hatred. Having lived for over two thousand years, no single karmic debt constitutes anything more than a fleeting memory.No grudge can last a thousand years, nor is any debt so great that it cannot be paid off in this time.Xiao has spent many long years alone.But his battles have never been in vain.Because ultimately, the one with whom Xiao wrestles is himself."
+            },
+            {
+                "title": "Character Story 5",
+                "text": "What does Xiao fight against?The Traveler understands very well that Xiao fights against the darkness that threatens Liyue. He fights to defend Liyue.But who will defend him?There was once when most of Xiao's strength was spent fighting from dusk till dawn, with him emerging victorious by a mere hair.The reeds in the fields had been sliced to ribbons in the fierce fighting. Plucking his spear from where it had been planted in the ground, Xiao began the trek home.Well, one says \"home\" — yet, where did Xiao have to return to? He was merely leaving the battlefield.Long exhausted, Xiao felt the divine hatred that tainted his body take effect.Limitless hate flooded his senses, and he fell to the ground in agony.But it was also at that moment that the pain vanished without warning.This was not by Xiao's own strength, for he had been rescued by the sound of a flute.The clear, lovely sound of the flute came over the mountains and rivers, carried on the wind to where he lay.And clear it continued to ring till the first light of dawn brought with it the startled flight of distant birds.It protected Xiao, massaging his wild senses, and giving him a moment's peace.Who was playing this music? Xiao was curious but did not pursue the matter. For he already had something approaching an answer.The last person who could help him was one of The Seven themselves. So this person, too, must be—"
+            },
+            {
+                "title": "Ode to Windborne Wraith",
+                "text": "A scholar of the Sumeru Akademiya once did folklore studies in Liyue, the result of which was a book called \"Tour of the Land of Liyue,\" with separate editions being available in Sumeru and Liyue.\"Hidden Diamond and Cloudy Moon: Wonders and Folklores of Liyue\" is the version available in Liyue, and has had many mystical and magical portions removed.The \"Ode to Windborne Wraith\" is one of the mystical chapters that remain recorded within the complete version at the Akademiya.The document mentions that though the yaksha were mighty and upright among the adepti, they were bound by their own karma to suffer great horrors and tribulations. As such, they wandered the land in a state of unending suffering.The chapter lists many methods of comforting the yaksha, such as food offerings, holy chants, and the like. These would appease the yaksha and help them to continue defending the peace.As noble warriors among adepti, the yaksha would often descend upon the battlefield in person. However, as conflicts grew over the millennia, they have almost been wiped out. Today, large statues of the yaksha subduing demons remain within Liyue's borders, but they have had their features destroyed.By the by, the language used in that text was so meandering, and its contents so dense, that it sold far fewer copies than the Teyvat Travel Guide and the international cultural summaries written by El Musk."
+            },
+            {
+                "title": "Vision",
+                "text": "All adepti are known as the \"mighty and illuminated\" adepti, and this \"illumination\" refers to the light of a third \"eye\" that they possess: a Vision.But do adepti receive their Visions as a form of acknowledgment from Celestia, like humans do?Xiao no longer remembers the moment he received his Vision. To humans, this would be an unforgettable event. But for him, this was just the beginning of his endless battle.The thing that Xiao truly cannot forget is something different.There are a great many human festivals, and few remember the stories behind them.The greater part of these days coincide with occasions where man-eating monsters were defeated by the adepti host. People imitated their deeds and staged exorcism rituals to remember their ancient heroism, with these practices eventually evolving into celebratory festivals.The hatred and residual might of many of the gods defeated by Morax throughout Liyue will sometimes erupt with abnormal force amid their half-awake, half-dreaming state. Among them, the eruption that takes place during the Lantern Rite is the most extreme in scale.Xiao has his mission to perform the time-honored \"Nuo Dance of Evil Conquering,\" and so he fights night and day during the Lantern Rite. Thus, he has come to hate it.Now, Xiao did not consider battle dangerous. It was due to his hard work that Liyue was kept safe. People lit their lanterns, and the blessed lights shone across the night sky and the nearshore.At that moment, another special feeling blossomed in Xiao's heart. Loneliness? Peace? Or was it his fears for the future? The young-seeming adeptus searched his heart, only to find no answers."
+            }
+        ],
+        "additional_lore": [
+            {
+                "title": "Hello",
+                "text": "If you awake to a knife at your throat, if monsters dig their claws into you, if death comes knocking at your door, call out my name. Adeptus Xiao. I will be here when you call."
+            },
+            {
+                "title": "About Xiao: Inhuman",
+                "text": "I'm far from human. I can't make much of human emotions."
+            },
+            {
+                "title": "About Xiao: Liyue",
+                "text": "Liyue is changing. Rapidly... Forget it, it means nothing to me."
+            },
+            {
+                "title": "About Us: Warnings",
+                "text": "If a day comes where even you are taken by the darkness, it will be up to me."
+            },
+            {
+                "title": "About Us: Trust",
+                "text": "Do not fall prey to the darkness. I have no mercy.Though perhaps you can stand your ground alone."
+            },
+            {
+                "title": "About Us: Drowsiness",
+                "text": "Who's there? Oh... You think I sleep? You have no respect for the ways of the adepti."
+            },
+            {
+                "title": "About Us: Lantern Rite",
+                "text": "The Lantern Rite? The time for humans to discard their glowing trash into the sea has returned... How childish...Though if you insist... I will go with you."
+            },
+            {
+                "title": "About the Vision: Desires",
+                "text": "Visions? Desire? Ha. Do not judge adepti by your mortal ideals. I have no desire."
+            },
+            {
+                "title": "About the Vision: Reasons",
+                "text": "Hiding? I'm hiding nothing. I just won't speak of desire to others.Do mortals not have a rule about spoken wishes never coming true? Hm? What do you mean that's not the same?"
+            },
+            {
+                "title": "Something to Share",
+                "text": "I deal in death. If you cannot bring yourself to kill — speak my name."
+            },
+            {
+                "title": "Interesting Things",
+                "text": "Dihua Islet was once deserted.Though that was many decades... no, centuries ago..."
+            },
+            {
+                "title": "About Zhongli",
+                "text": "Can I ask... Zhongli — what does he do with his days? Huh? Birds, antiques, flowers...Hmm... What deeper meaning do they hold?"
+            },
+            {
+                "title": "About Beidou",
+                "text": "Beidou? I have nothing to do with her. Though there is such a thing as the leviathan. As a mere human, she has proven her power in defeating Haishan."
+            },
+            {
+                "title": "About Baizhu",
+                "text": "You want... Baizhu to make a medicine to take away my pain? I understand your intentions, but mortal medicine has no effect on adepti."
+            },
+            {
+                "title": "About Hu Tao",
+                "text": "Hu Tao? Her liveliness is irritating. Fortunately, she is also humorous, so you need not worry about her growing into a boring human."
+            },
+            {
+                "title": "About Venti",
+                "text": "Venti? So that's the name he goes by. His tunes are... forget it."
+            },
+            {
+                "title": "About Ganyu",
+                "text": "Ganyu is neither mortal nor illuminated beast. Wandering both the mortal and Adepti realms with duty as her sole guide, it was inevitable that she would become perplexed... What? Me? You believe a Yaksha who knows nothing more than how to massacre countless souls and emerge unscathed is a suitable mentor for such an individual? ...Your mind occupies a very different world from that which your body inhabits."
+            },
+            {
+                "title": "About Shenhe",
+                "text": "It seems Shenhe places a great deal of trust in you. Well, how could she not. There are few people in the world as kind and good-natured as you."
+            },
+            {
+                "title": "About Yelan",
+                "text": "I've heard that she once investigated The Chasm, following the trail of the Millelith. If she can investigate mysteries like that on her own, she must be someone of rare skill."
+            },
+            {
+                "title": "More About Xiao: I",
+                "text": "I'm willing to protect you.But don't think about getting close, and stay out of my way, or all that awaits you is regret."
+            },
+            {
+                "title": "More About Xiao: II",
+                "text": "In the thousands of years that have passed, I have taken countless wraiths. If you want no trouble, stay away from me. See me as a weapon, and nothing more."
+            },
+            {
+                "title": "More About Xiao: III",
+                "text": "Their voices... I can always hear them. Their screams, their cries, demanding more death...This is my burden to carry. It has nothing to do with you."
+            },
+            {
+                "title": "More About Xiao: IV",
+                "text": "Morax...? What do you know of this name?!He gave me the name Xiao, and released me from the endless pain I endured.I will not forgive those that dare to speak against him, even you."
+            },
+            {
+                "title": "More About Xiao: V",
+                "text": "It's too late. The connection between us is too strong. Even if you wanted to, it's too late to sever it. Hm? You've never thought to sever it?*sigh* This eternal dance of demon subjugation... My fight goes on.But I would like to know more about you."
+            },
+            {
+                "title": "Feelings About Ascension: Intro",
+                "text": "This is it? Nothing worth getting excited about."
+            },
+            {
+                "title": "Feelings About Ascension: Building Up",
+                "text": "New power? All it will be used for is death."
+            },
+            {
+                "title": "Feelings About Ascension: Climax",
+                "text": "The limit to one's power is self-destruction. Answer me. Why do you persist?"
+            },
+            {
+                "title": "Feelings About Ascension: Conclusion",
+                "text": "Countless souls have fallen prey to these hands. I too have been swallowed by the darkness — and yet you dare to drive me on. You may think of me as... your companion. You seek to find me salvation?...You... really are a difficult being to comprehend.\n}}\n\n==Combat==\n{{Combat VO\n|character           = Xiao\n\n|skill_1_tx          = Hmph.\n|skill_2_tx          = Boring.\n|skill_3_tx          = Useless.\n|skill_4_file        = Elemental Skill 1 04,Elemental Skill 1 05,Elemental Skill 1 06\n\n|plunge_1_tx         = Here!\n|plunge_2_tx         = Worthless!\n<!-- these do not seem to be accessible in-game\n|plunge_3_tx         = Cry!\n|plunge_4_tx         = Disperse!\n-->\n\n|burst_1_tx          = Disappear!\n|burst_2_tx          = Evil conquering!\n|burst_3_tx          = Lament!\n\n|sprint-s_1_file     = Sprint Start 01,Sprint Start 02,Sprint Start 03\n\n|glider_1_file       = Deploying Wind Glider 01,Deploying Wind Glider 02,Deploying Wind Glider 03\n\n|chest_1_tx          = If it's useful, I'll take it.\n|chest_2_tx          = Why would anyone want... *sigh* Forget it, it's not my concern.\n|chest_3_tx          = Hmph... there's quality here.\n\n|low-hp_1_tx         = Shut it.\n|low-hp_2_tx         = *grunts* Good.\n|low-hp_3_tx         = Prepare to die, fool!\n\n|ally-low-hp_1_tx    = ...Weak.\n|ally-low-hp_2_tx    = Get back if you wanna survive.\n\n|fallen_1_tx         = Is this... retribution?\n|fallen_2_tx         = The day... has finally come.\n|fallen_3_tx         = Impossible...\n\n|hit-l_1_file        = Light Hit Taken 02\n|hit-l_1_tx          = That's it?\n|hit-l_2_file        = Light Hit Taken 01,Light Hit Taken 03,Light Hit Taken 04,Light Hit Taken 05,Light Hit Taken 06\n\n|hit-h_1_file        = Heavy Hit Taken 02\n|hit-h_1_tx          = Ugh, get out of my way!\n|hit-h_2_file        = Heavy Hit Taken 01,Heavy Hit Taken 03,Heavy Hit Taken 04,Heavy Hit Taken 05,Heavy Hit Taken 06\n\n|join_1_tx           = You called?\n|join_2_tx           = Evil shall be dispersed.\n|join_3_tx           = Conquering demons is what I do.\n\n|atk-l_1_file        = Light Attack 01,Light Attack 02,Light Attack 03,Light Attack 04,Light Attack 05,Light Attack 06,Light Attack 07\n\n|atk-m_1_file        = Mid Attack 01,Mid Attack 02,Mid Attack 03\n\n|atk-h_1_file        = Heavy Attack 01,Heavy Attack 02,Heavy Attack 03\n\n|jump_1_file         = Jumping 01,Jumping 02,Jumping 03,Jumping 04,Jumping 05\n\n}}\n\n==Trivia==\n* Xiao shares his Chinese VA with Chongyun, namely kinsen.\n\n==Navigation==\n{{Character Navbox|VO}}\n\nde:Xiao/Stimme\nes:Xiao/Voz\nfr:Xiao/Répliques\nit:Xiao/Battute\nja:魈/ボイス/英語\npt-br:Xiao/Falas\nru:Сяо/Озвучка\nth:Xiao/เสียงพากย์\ntr:Xiao/Replikler"
+            }
+        ]
+    }
+}

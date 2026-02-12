@@ -1,0 +1,189 @@
+{
+    "name": "Lisa",
+    "entity_type": "character",
+    "status": "active",
+    "region": "Mondstadt",
+    "affiliations": [
+        "Knights of Favonius",
+        "Spantamad",
+        "formerly"
+    ],
+    "power_source": "Vision",
+    "element": "Electro",
+    "constellation": "Tempus Fugit",
+    "aliases": [
+        "Witch of Purple Rose",
+        "The Librarian"
+    ],
+    "lore": {
+        "descriptions": [
+            "She is an intellectual witch who can never get enough naps. As the Librarian of the Knights of Favonius, Lisa is smart in that she always knows exactly what to do with whatever troubles her.As much as she loves her sleep, she still manages to keep everything under control in a calm, composed manner.",
+            "The languid but knowledgeable Librarian of the Knights of Favonius, deemed by Sumeru Akademiya to be their most distinguished graduate in the past two centuries."
+        ],
+        "character_stories": [
+            {
+                "title": "Official Introduction",
+                "subtitle": "\"There'll be time for this later... Come sit and chat with me.\"",
+                "text": ".Official Genshin Impact Facebook, }}\n'''The Librarian · Lisa'''\n\"There'll be time for this later... Come sit and chat with me.\"\n===============================\nLisa, Librarian of the Knights of Favonius, has great wisdom that is unparalleled throughout the city. She always knows what to do with whatever troubles Mondstadt.\nBut with so many careless readers and overdue books to deal with, Lisa often gets tired and a bit... drowsy. Never disturb her when she's taking her morning, midday, or evening naps. Otherwise you will come to understand why she is an outstanding knight &mdash; in an electrifying way..."
+            },
+            {
+                "title": "Character Details",
+                "text": "The librarian of the Knights of Favonius. In addition to her elegance and charm, Lisa is also highly educated.<!--\n              -->She is said to have been the most talented sorceress to study at the Sumeru Akademiya in the last two centuries.<!--\n              -->It is known that Lisa chose to return to Mondstadt after two years of advanced study in Sumeru, but the reason for her decision is not. At present, Lisa's job is to oversee the book collection in the library owned by the Knights."
+            },
+            {
+                "title": "Character Story 1",
+                "text": "Lisa is tasked with managing and maintaining the vast collection of books in the Knights of Favonius library, as well as ensuring that their potions are always fully stocked.<!--\n              -->The only time that the citizens of Mondstadt see Lisa is when lending or returning library books.<!--\n              -->In both scenarios, they tend to encounter Lisa sitting at the counter like a languid cat, yawning as she signs books in and out.<!--\n              -->At times, her behavior causes people to doubt whether she is really up to the task of being librarian for the illustrious Knights of Favonius.<!--\n              -->Nevertheless, it appears that she performs every task flawlessly, as her work consistently stands up to scrutiny."
+            },
+            {
+                "title": "Character Story 2",
+                "text": "The fact that Cyrus of the Sumeru Akademiya frequently refers to Lisa as their \"best student in two hundred years\" is all that needs to be said about Lisa's accomplishments in her studies.<!--\n              -->From outlandish forbidden knowledge, to the handling of elementally infused flora, to the most efficient methods of distilling wine... where there is a body of knowledge, the chances are that Lisa is acquainted with it.<!--\n              -->This, paired with her ability to explain things clearly and concisely, makes Lisa the sensible person to approach for young knights and alchemists with burning questions.<!--\n              -->That is, provided they go and see her at an acceptable hour.<!--\n              -->To visit during unacceptable hours — such as in the morning while Lisa is sleeping in, or in the afternoon while she's enjoying her tea — can spell disaster for unsuspecting visitors."
+            },
+            {
+                "title": "Character Story 3",
+                "text": "When people meet Lisa for the first time, they often find themselves overawed by the famous alumna of the Sumeru Akademiya.<!--\n              -->However, though her attitude to life may appear at first to be one of ruthless efficiency, it is in fact better understood as a product of her incorrigibly lazy nature, which drives her to avoid troublesome issues at all costs.<!--\n              -->By negotiating with Kaeya, she offloaded the job of restocking and dispensing medication to Huffman and Swan, and had Flora start sending Donna over to deliver herbs on a daily basis.<!--\n              -->The only tasks that Lisa handles personally are the categorization and management of books and other documents.<!--\n              -->This is the one area where Lisa feels more comfortable handling the work herself rather than delegating it."
+            },
+            {
+                "title": "Character Story 4",
+                "text": "When Lisa first joined the Knights of Favonius, the Grand Master sought to appoint her as Captain of the 8th Company.<!--\n              -->This was much to the consternation of the company's Field Officer, Nymph, who resented the idea of an academic coming in at such a high-ranking position.<!--\n              -->At Kaeya's suggestion, a practice combat session was arranged in which Lisa and Nymph would both display their magical proficiency.<!--\n              -->Two minutes into the session, Lisa graciously declined the captaincy on the grounds that \"Nymph manifestly possesses the requisite ability to fulfill the role.\"<!--\n              -->For the whole year following, the Grand Master received a constant stream of referral letters from Nymph in relation to the captaincy, and the only person ever named in them was Lisa Minci.<!--\n              -->Eventually, the Grand Master began turning over the referral letters to Lisa directly, but every time, Lisa would come up with an excuse to decline the offer.<!--\n              -->Undoubtedly, the 8th Company would have been far stronger under her lead, but she deemed that such a level of power was not only superfluous to requirements, it would also be risky for her in a way that most people could never appreciate.<!--\n              -->To be clear, Lisa is quite confident that she could handle any situation she came up against. However, additional danger means an additional workload — and that is something that she would never be able to accept."
+            },
+            {
+                "title": "Character Story 5",
+                "text": "Having personally witnessed raving-mad scholars in the forests of Sumeru and powerful sages sitting underutilized on advisory councils, Lisa realized what uninhibited erudition can really do to a person.<!--\n              -->It seemed such a high price to pay... How much did one have to sacrifice to attain the profoundest knowledge of all?<!--\n              -->Put off by this realization, Lisa decided to leave Sumeru.<!--\n              -->Since then, Lisa has always stopped short of taking things too seriously.<!--\n              -->\"Before demanding too many miracles from the gods, first consider if you are willing to pay the price they ask.\"<!--\n              -->These words she has spoken to just three people since arriving in Mondstadt. In each case, it was because she knew it was what they needed to hear."
+            },
+            {
+                "title": "Special Heating Cauldron",
+                "text": "The Special Heating Cauldron is a purpose-built cauldron made to a design that no one in Mondstadt could understand. It features time-delay heating, semi-automated ingredient insertion, and temperature regulation functions.<!--\n              -->Lisa spent an enormous budget and commandeered the alchemy workshop for two full weeks in order to build this extraordinary piece of equipment.<!--\n              -->She boasts that the cauldron is capable of completing any precision heating task to perfection with a maximum of just two pulls of a lever.<!--\n              -->But her most common application for it is to brew tea and keep it at the optimal temperature while she is managing her books.<!--\n              -->After all, a relaxing afternoon tea session is by far the most important part of Lisa's day."
+            },
+            {
+                "title": "Vision",
+                "text": "A Vision is a sign from the gods: a sign that you are one of those whom they have chosen to change the world.<!--\n              -->Or, maybe it's just one of the many hoops that one has to jump through on the path to unearthing the secrets of magecraft.<!--\n              -->After all, understanding the elements is essential to the study of magic, and practical experience is a far more useful means of acquiring this understanding than trying to assimilate the knowledge contained in dusty old books.<!--\n              -->\"Hmm... I suppose I shall need a Vision, then.\"<!--\n              -->And just like that, as that thought popped into her mind, her Vision popped into her hand.<!--\n              -->With the aid of her Vision, Lisa acquired the knowledge that she sought. But she also sensed the deep secret hidden in the shadows of that knowledge.<!--\n              -->For whatever reason, the gods gave humans the key to changing everything, but they did not explain the cost involved. Lisa grew fearful of the truth.<!--\n              -->The Vision that hung from her neck became to her a bottomless pit filled with sweet delights, lingering at the back of her mind.<!--\n              -->So, from time to time, when somebody whom she finds interesting comes along, Lisa will pass onto them her understanding on all kinds of matters.<!--\n              -->Perhaps she is secretly hoping that by doing so, one day someone will come along who has the ability to understand the ultimate truth behind Visions."
+            }
+        ],
+        "additional_lore": [
+            {
+                "title": "Hello",
+                "text": "Hi darling, are you going to be Lisa's little helper? What? Me, a grand mage? That was a long time ago, I'm just a humble librarian now. *chuckles* Don't worry darling, I'll take very good care of you. So..."
+            },
+            {
+                "title": "About Lisa",
+                "text": "I'm not lazy, I just know to save my energy for when I need it most."
+            },
+            {
+                "title": "About Us: Relationships",
+                "text": "I can be your teacher, your master, or your friend... or all three if you want..."
+            },
+            {
+                "title": "About Us: Capabilities",
+                "text": "Let me show you a thing or two, lest we let your efforts go to waste. *chuckles*"
+            },
+            {
+                "title": "About Us: Ceremony",
+                "text": "Wait, one last thing... A kiss on the forehead from master to follower. Now you're my star pupil."
+            },
+            {
+                "title": "About the Vision",
+                "text": "Visions? Ah, they're a necessary device in controlling the elements — with you being the sole exception, of course. Hmm... As for why that is, perhaps... we can find the time to experiment a little?"
+            },
+            {
+                "title": "Something to Share",
+                "text": "Feel free to use the alchemist's upstairs from the library whenever you want. But make sure you knock first... we wouldn't want you seeing anything you're not supposed to, now would we?"
+            },
+            {
+                "title": "Interesting Things",
+                "text": "Calla Lilies are a medicinal flower with antidotal properties. With them in hand, there's no need to worry about the side effects of any potions... Hehe."
+            },
+            {
+                "title": "About Jean",
+                "text": "Jean is a gifted and dedicated leader. Seeing how hard she works makes even me want to help her out."
+            },
+            {
+                "title": "About Amber",
+                "text": "Amber was just a young girl when she joined the knights, and in the blink of an eye, she's turned into such a strong young lady. I'm curious to see what she'll be like a few years from now."
+            },
+            {
+                "title": "About Barbara",
+                "text": "Have you heard Barbara sing before? Her angelic voice contains a magical healing energy. A different kind of magical energy from the one in my potions, of course. I wonder which one you prefer?"
+            },
+            {
+                "title": "About Diluc",
+                "text": "You want to know about Diluc? Haha, in that case, I know someone else you should talk to."
+            },
+            {
+                "title": "About Razor",
+                "text": "Come on Razor, that's it, good boy! Let's do some combat practice — I've found you the perfect partner. Hey! Come back!"
+            },
+            {
+                "title": "About Klee",
+                "text": "Last time little Klee wanted to use my workshop for her experiments, I had to say no, and she was angry at me for the rest of the day. *sigh* What happened the next day, you ask? She went off happily to play outside of course."
+            },
+            {
+                "title": "About Mona",
+                "text": "As for Mona? She seems to be an excellent mage, but I'm not a part of their Hexenzirkel. The idea of Irminsul exploration and formal tea parties just leaves me cold."
+            },
+            {
+                "title": "About Albedo",
+                "text": "Albedo is quite the alchemist. Just say the word and he'll come up with a good solution. He's easy on the eyes too, just like you."
+            },
+            {
+                "title": "About Fischl",
+                "text": "Fischl, yes, she's always in the library looking to borrow fantasy novels. She always returns her books three days early and looks after them very well. She's a good kid."
+            },
+            {
+                "title": "About Noelle",
+                "text": "Every time I ask Noelle to dust off the bookshelves, I'm always left with the sense that the more exhausted I make her, the happier she becomes. Yes, who knows what's going on with her... *chuckles*"
+            },
+            {
+                "title": "About Sucrose",
+                "text": "Try not to bother Sucrose if you're at a loose end, you'll only startle the poor girl. She's gifted at interacting with all sorts of exotic creatures — just hopeless when it comes to humans."
+            },
+            {
+                "title": "About Cyno",
+                "text": "I've barely kept in touch with anyone from the Akademiya since leaving Sumeru, except for the occasional letters to my teachers out of basic courtesy. Fortunately, not every promising student turned out as lazy as I am... I heard that one of my juniors, Cyno, now leads quite the action-packed life."
+            },
+            {
+                "title": "About Collei",
+                "text": "Ah, dear little Collei. Every time she writes to me, she tries out new words and expressions she's learned recently... Hehe, no wonder she's improving so quickly. That wonderful and warmhearted master of hers must have helped a lot too."
+            },
+            {
+                "title": "About Mika",
+                "text": "I do rather envy Huffman for having such a caring little brother. Mika takes care of everything around the house and even looks after him when he's drunk... Ah, how nice it must be to lounge around all day without a care in the world... Hmm? What do you mean, I already do that? You're getting quite bold these days, aren't you, cutie?"
+            },
+            {
+                "title": "More About Lisa: I",
+                "text": "So, which element would you like to learn about today?"
+            },
+            {
+                "title": "More About Lisa: II",
+                "text": "My past? So, you want to get to know me a little better, huh? *chuckles* That's a story for another day. But I'm touched that you asked."
+            },
+            {
+                "title": "More About Lisa: III",
+                "text": "When I taught Razor how to utilize Elemental Energy, I never expected him to master the technique so quickly. Come to think of it, you're talented too. Maybe I could teach you a few tricks..."
+            },
+            {
+                "title": "More About Lisa: IV",
+                "text": "What's that? You want to learn some Sumeru Akademiya magic? I'm afraid it might too much for you to handle right now... Hmm, though I suppose it can't hurt to teach you some of the basics. Here, start by reading the beginner's guide, it's only 800 pages or so."
+            },
+            {
+                "title": "More About Lisa: V",
+                "text": "A Vision may seem like a great tool, but one day, the power one accumulates always finds a way to turn back on you. Should such a day come for me, so long as you're around... Ah, never mind."
+            },
+            {
+                "title": "Feelings About Ascension: Intro",
+                "text": "Surely you don't want me working overtime... That would be no good."
+            },
+            {
+                "title": "Feelings About Ascension: Building Up",
+                "text": "Chances to practice should be left to you newcomers, no?"
+            },
+            {
+                "title": "Feelings About Ascension: Climax",
+                "text": "*chuckles* If I were to recover my full power, who knows what kind of things might happen?"
+            },
+            {
+                "title": "Feelings About Ascension: Conclusion",
+                "text": "I've already tried to persuade you every way possible... *sigh* Have it your way, cutie. I can no longer go on pretending at this point - Even a Hilichurl would see through the act. So be it, let me introduce you to the true Witch of Purple Rose.\n}}\n\n==Combat==\n{{Combat VO\n|character           = Lisa\n\n|skill_1_tx          = *giggles*\n|skill_2_tx          = You're in for a little shock.\n|skill_3_tx          = Come a little closer.\n|skill_4_tx          = ''(Hold)'' ...Blitz!\n|skill_5_tx          = ''(Hold)'' You've been a naughty boy!\n|skill_6_tx          = ''(Hold)'' Hehe~\n\n|burst_1_tx          = Let's spark things up a little.\n|burst_2_tx          = Surrender and I'll be gentle.\n|burst_3_tx          = Try not to enjoy this too much.\n\n|sprint-s_1_file     = Sprint Start 01,Sprint Start 02,Sprint Start 03\n\n|glider_1_file       = Deploying Wind Glider 01,Deploying Wind Glider 02,Deploying Wind Glider 03\n\n|chest_1_tx          = No pain no gain, haha...\n|chest_2_tx          = Oh my...\n|chest_3_tx          = What do you think, cutie?\n\n|low-hp_1_tx         = I have some for you too.\n|low-hp_2_tx         = I'm a bit rusty...\n|low-hp_3_tx         = Oh no, I'm gonna ruin my gloves.\n\n|ally-low-hp_1_tx    = Don't force it, darling.\n|ally-low-hp_2_tx    = Do you need me to lend a hand?\n\n|fallen_1_tx         = Going out is tiring...\n|fallen_2_tx         = Looks like I got carried away...\n|fallen_3_tx         = I knew I should have stayed home...\n\n|hit-l_1_tx          = Ugh...\n|hit-l_2_file        = Light Hit Taken 02,Light Hit Taken 03,Light Hit Taken 04,Light Hit Taken 05,Light Hit Taken 06\n\n|hit-h_1_tx          = Don't be such a brute.\n|hit-h_2_file        = Heavy Hit Taken 02,Heavy Hit Taken 03,Heavy Hit Taken 04,Heavy Hit Taken 05,Heavy Hit Taken 06\n\n|join_1_file         = Joining Party 01 (A),Joining Party 01 (B)\n|join_1_tx           = Here, let me help you.\n|join_2_tx           = I'll keep an eye on you.\n|join_3_tx           = Ooh, you're taking me out?\n\n|idle_1_file         = Standby 01\n\n|atk-l_1_file        = Light Attack 01,Light Attack 02,Light Attack 03,Light Attack 04,Light Attack 05,Light Attack 06,Light Attack 07\n\n|atk-m_1_file        = Mid Attack 01,Mid Attack 02,Mid Attack 03\n\n|atk-h_1_file        = Heavy Attack 01,Heavy Attack 02,Heavy Attack 03\n\n|climb_1_file        = Climbing 01,Climbing 02,Climbing 03,Climbing 04,Climbing 05\n\n|climb-b_1_file      = Climbing Breath 01,Climbing Breath 02,Climbing Breath 03,Climbing Breath 04,Climbing Breath 05\n\n|jump_1_file         = Jumping 01,Jumping 02,Jumping 03,Jumping 04,Jumping 05\n}}\n\n==Navigation==\n{{Character Navbox|VO}}\n\nde:Lisa/Stimme\nes:Lisa/Voz\nfr:Lisa/Répliques\nit:Lisa/Battute\nja:リサ/ボイス/英語\npt-br:Lisa/Falas\nru:Лиза/Озвучка\nth:Lisa/เสียงพากย์\ntr:Lisa/Replikler"
+            }
+        ]
+    }
+}
