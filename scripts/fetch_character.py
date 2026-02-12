@@ -124,6 +124,9 @@ def build_character_schema(title: str) -> dict:
     # Fetch Profile subpage (for descriptions & stories)
     profile_content = fetch_character_page(f"{title}/Profile")
 
+    # Fetch Voice-Overs subpage (for additional lore like Hello, About..., etc.)
+    voice_content = fetch_character_page(f"{title}/Voice-Overs")
+
     # Build affiliations list (affiliation, affiliation2, affiliation3, etc.)
     affiliations = []
     for key, value in fields.items():
@@ -199,6 +202,40 @@ def build_character_schema(title: str) -> dict:
         if key.startswith("title") and value:
             aliases.append(value)
 
+    # Extract additional lore from Voice-Overs page (template-based parsing)
+    additional_lore = []
+
+    voice_entries = re.findall(
+        r"\|vo_(\d+_\d+)_title\s*=\s*(.*?)\n.*?\|vo_\1_tx\s*=\s*(.*?)(?=\n\|vo_|\Z)",
+        voice_content,
+        re.DOTALL
+    )
+
+    for _, title_value, text_value in voice_entries:
+
+        # Clean title
+        title_clean = title_value.strip()
+
+        # Remove wiki links in titles: [[Diona]] -> Diona
+        title_clean = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", r"\1", title_clean)
+
+        # Replace {name} with actual character name (e.g., Venti)
+        title_clean = title_clean.replace("{name}", title)
+
+        clean_text = re.sub(r"<.*?>", "", text_value)
+        clean_text = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", r"\1", clean_text)
+        clean_text = clean_text.replace("&mdash;", "—").strip()
+
+        if (
+            title_clean == "Hello"
+            or "About" in title_clean
+            or title_clean == "Something to Share"
+            or title_clean == "Interesting Things"
+        ):
+            additional_lore.append({
+                "title": title_clean,
+                "text": clean_text
+            })
 
     character_data = {
         "name": fields.get("name", title),
@@ -213,7 +250,7 @@ def build_character_schema(title: str) -> dict:
         "lore": {
             "descriptions": description_blocks,
             "character_stories": character_stories,
-            "additional_lore": []
+            "additional_lore": additional_lore
         }
     }
 
@@ -239,6 +276,6 @@ def save_character_json(character_data: dict):
 
 
 if __name__ == "__main__":
-    character_name = "Mavuika"
+    character_name = "Venti"
     character_data = build_character_schema(character_name)
     save_character_json(character_data)

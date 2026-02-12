@@ -25,7 +25,7 @@
             {
                 "title": "Official Introduction",
                 "subtitle": "A bard as free as the wind, now residing in the city of dandelions.",
-                "text": ": }}\n▌Singer of Skyward Sonnets · Venti\nA bard as free as the wind, now residing in the city of dandelions.\n===============================\n\"I sing to you now of the beauty of all things, seasons come and seasons go, yet the four winds keep their wings.\nThough the credit is mine, for from my lyre rings, A story that would run cold, were it not for my strings!\"\n—Venti's singing, from when he becomes inebriated."
+                "text": ":Singer of Skyward Sonnets · Venti\nA bard as free as the wind, now residing in the city of dandelions.\n===============================\n\"I sing to you now of the beauty of all things, seasons come and seasons go, yet the four winds keep their wings.\nThough the credit is mine, for from my lyre rings, A story that would run cold, were it not for my strings!\"\n—Venti's singing, from when he becomes inebriated."
             },
             {
                 "title": "Character Details",
@@ -60,6 +60,139 @@
                 "text": "The Seven Archons do not need Visions, for they already have great power.Yet Barbatos was fond of the mortal world, and wanted to roam Mondstadt more freely as \"Venti.\" As such, he constructed a glass ornament very much like the Visions worn by those chosen by the gods.The imitation has no special abilities, nor does Venti rely on it to channel elemental power.However, since Venti does not keep the Holy Lyre der Himmel by his side, and since he is too lazy to bring a normal lyre, he gave his fake Vision the ability to turn into the wooden lyre \"Der Frühling.\""
             }
         ],
-        "additional_lore": []
+        "additional_lore": [
+            {
+                "title": "Hello",
+                "text": "*Yawn* That was a refreshing sleep. Ah, Traveler, we meet again! What? You don't remember me? Ahaha, well, allow me to join you on your quest once again. I must see to it that the bards of the world tell the Traveler's tales!"
+            },
+            {
+                "title": "About Venti",
+                "text": "Practice? Me? There's no need - I already know every song in Teyvat!"
+            },
+            {
+                "title": "About Us: New Songs",
+                "text": "I have decided to write a song about you! What are you giving me that look for? Can't afford it? Don't be preposterous, the price for you, my friend, is precisely zero Mora! Although... one thing you could do is tell me a few more of your stories!"
+            },
+            {
+                "title": "About Us: Heroes",
+                "text": "{{A|VO Venti About Us - Heroes (A).ogg}} {{A|VO Venti About Us - Heroes (B).ogg}} Haha, once the {{MC|m=hero|f=heroine|mc=1}} in the song has actually rescued the {{MC|m=princess|f=prince|mc=1}}, I will ensure this song spreads to every corner of the continent!"
+            },
+            {
+                "title": "About Us: Apostles",
+                "text": "An evening breeze really sets the mood for becoming my disciple, don't you think? We can do it right now, you just need to make me a small offering..."
+            },
+            {
+                "title": "About Us: Requests",
+                "text": "What's that? You think I should try harder to be a good Anemo Archon? Well you could be a better devotee too... you could be more pious, more passionate, or... um..."
+            },
+            {
+                "title": "About the Vision",
+                "text": "Hmm? You want to know about my Vision? Oh, go on then, take a look for yourself. I can make you a matching one if you like! Hehehe."
+            },
+            {
+                "title": "Something to Share",
+                "text": "Olah! Haha, that's how the Hilichurls say \"hello\". Why, I learned it to aid with my songwriting, of course! Vast knowledge makes for a richer composition... That said, I haven't actually written any songs in Hilichurlian so far..."
+            },
+            {
+                "title": "Interesting Things",
+                "text": "Traveler, have you ever seen a cecilia? It's a magnificent white wildflower that only grows on the most remote mountains and clifftops. To me, at least, it is the most beautiful flower in all of Teyvat."
+            },
+            {
+                "title": "About Jean",
+                "text": "Acting Grand Master Jean... Well, what do you think of her? Yes, I couldn't agree more: conscientious, courageous... kind and considerate too. Reminds me of another good friend..."
+            },
+            {
+                "title": "About Diluc",
+                "text": "I'm not surprised you want to befriend Master Diluc, just think of all vintage wine he must have stored away... Mwuhahaha... Huh? He doesn't let you sample it? Not even the slightest drop? Huh... Well, I guess you can still appreciate the aroma. That's still better than no wine at all, right? No?"
+            },
+            {
+                "title": "About Barbara",
+                "text": "The darling Deaconess with the sweet singing voice — do you know her? You do? Idol, huh? Meet and greets? Concerts? Wow... That's the power of music for you..."
+            },
+            {
+                "title": "About Razor",
+                "text": "Ah yes, the white-haired fellow from Wolvendom? Raised by wolves? Really? ... No wonder his scent is so familiar..."
+            },
+            {
+                "title": "About Mona",
+                "text": "Oh, that astrologer? How should I put it? Fortune telling and my singing are the same. Both lead to you being so poor you can't even cough up the money for a drink! ...You think that astrology is a cultural tradition, so at least still has some value? Hmph, so rude. In that case, so too is singing, so it still has its value too!"
+            },
+            {
+                "title": "About Diona",
+                "text": "There's a special drink known far and wide at Cat's Tail. But it ah... ahh... ACHOO! *sniffs* How about you go and fetch one for me? I'll be truly thankful, I promise."
+            },
+            {
+                "title": "About Albedo",
+                "text": "How do you explain white chalk in black soil, or the earth's dense crust amidst the emptiness of space? Same reason the purest soil gave birth to human life... It's an ancient power with unmistakable properties. Trying to harness it is dangerous indeed, I can't imagine what would happen if someone lost control of it in the city... Ah, never mind! What goes on within Mondstadt's walls is up to Mondstadt's people to deal with!"
+            },
+            {
+                "title": "About Morax",
+                "text": "Have you seen that gentleman around? Huh? He's just a normal man by the name of Zhongli now? That must be quite the change for that old block-head. Come with me to see him, will you? I have a vintage I dug up from Windrise that I can take as a condolence gift. Oh, ahh... did he still seem strong when you saw him? How strong? Am I likely to get blown away?"
+            },
+            {
+                "title": "About Eula",
+                "text": "Eula has good taste when it comes to beverages of the alcoholic variety. Come summer or winter, she always likes them ice-cold. That's rare among Mondstadters these days! She and I would make great drinking buddies. Huh? My songs about the Lawrence Clan... She's heard them already? Eh, no harm done. Maybe she and I can do a duet sometime!"
+            },
+            {
+                "title": "About Baal",
+                "text": "So, I hear you defeated the mighty Raiden Shogun? Ah, I recall the days when she was a kagemusha, seeking to perfect her martial prowess. Hehe, she now no doubt employs a wide range of reasoning to get you to train with her. Oh but yes, come close and I shall let you in on her weakness — desserts!"
+            },
+            {
+                "title": "About Buer",
+                "text": "The first thing you think of when you hear \"Dendro Archon\" is her power over dreams. Her dreams are akin to my ballads: full of emotion and imagination. It goes without saying that we get along really well."
+            },
+            {
+                "title": "About Furina",
+                "text": "A bard must be versed in both music and song, but a stage performer requires far more skills than just these... Hey, don't you think we should invite her over to put on a show at the next Windblume Festival? ...Huh? You want me to talk about how she saved Fontaine? Well, I mean, she's such a talented artiste, it's no wonder. I wouldn't be surprised even if she'd saved the entire world."
+            },
+            {
+                "title": "About Haborym",
+                "text": "This world sure is cruel, forcing generation upon generation of human heroes to become cannon fodder in the fight against the darkness. But, under Mavuika's leadership, they achieved a truly god-like feat... Hehe, starting with \"her,\" I suppose the Natlanese have always been like that. Ah, right! I heard Mavuika likes to drink! Are you thinking what I'm thinking...?"
+            },
+            {
+                "title": "About Dahlia",
+                "text": "O, Traveler, do you seek to hear the voice of the wind and know its guidance? Then I say to you... chatting to the deacon is your best bet. Haha, I'm kidding — come chat with me over a drink any time you want! The reason I usually get Dahlia to be my intermediary is because... well, I imagine you can probably guess why. He loves listening to the blustering of the wind, but crucially he has his own compass, too."
+            },
+            {
+                "title": "About Durin",
+                "text": "Another one of Madame Mage's children here in Mondstadt, what fun! My new little friend looked like he wanted to play with a certain older, bigger friend of mine — so I arranged a little introduction, and voila! It turns out my big friend was the more excited of the two! Why, you should've seen him jumping for joy, patting his belly, and dancing in circles. Oh dear, did he hear what I just said? Quick, quick, let's take cover behind that tree!"
+            },
+            {
+                "title": "More About Venti: I",
+                "text": "Perfect timing, Traveler! I was about to ask you — what is your greatest wish?"
+            },
+            {
+                "title": "More About Venti: II",
+                "text": "There's never a dull moment traveling with you! The only minor inconvenience is that pesky little pixie thing that follows you everywhere... she never stops eating, I can't begin to imagine how much you spend on food!"
+            },
+            {
+                "title": "More About Venti: III",
+                "text": "The Pyro Archon is a wayward, warmongering wretch, and the Geo Archon is a brutish blundering buffoon! How do I know? Because, this is written in the epic poems of days gone by!"
+            },
+            {
+                "title": "More About Venti: IV",
+                "text": "Celestia... I'm not sure even I could fly that far. In any case, the water there tastes foul and the fruit is bland. You know what that means? No cider! Haha, in that case, I wouldn't go there even if I was invited."
+            },
+            {
+                "title": "More About Venti: V",
+                "text": "My greatest wish? It has always been to roam free and experience the whole world. Now I would add that wherever I go, it simply must be with you! Each day with you is an adventure, and where adventurers go, storytellers must follow!"
+            },
+            {
+                "title": "Feelings About Ascension: Intro",
+                "text": "Woah! What was that?"
+            },
+            {
+                "title": "Feelings About Ascension: Building Up",
+                "text": "Good work. Shall we repose for a moment, with a tune? Shall it be a capriccio, or a serenade?"
+            },
+            {
+                "title": "Feelings About Ascension: Climax",
+                "text": "Come, sit with me. I've written a new poem. I call it \"Wind of the Traveler.\""
+            },
+            {
+                "title": "Feelings About Ascension: Conclusion",
+                "text": "Hmm... Though I've long since viewed this scenery a great many times, there is something different about seeing it again with you. Surely you're not still concealing some other wondrous abilities? Hmm, even if you were, it would simply further prove that my intuition is correct.\n}}\n\n==Combat==\n{{Combat VO\n|character           = Venti\n\n|skill_1_tx          = Yoo-Hoo!\n|skill_2_tx          = Here we go!\n|skill_3_tx          = Brace yourselves!\n|skill_4_tx          = Let's play!\n\n<!-- these do not seem to be accessible in-game\n|skill_5_file        = Elemental Skill 2 01,Elemental Skill 2 02\n-->\n|burst_1_tx          = Think you can get away?\n|burst_2_tx          = Time for takeoff!\n\n|sprint-s_1_tx       = Wouldn't gliding be faster?\n|sprint-s_2_file     = Sprint Start 02,Sprint Start 03,Sprint Start 04\n\n|glider_1_tx         = Yahoo!\n|glider_2_file       = Deploying Wind Glider 02,Deploying Wind Glider 03,Deploying Wind Glider 04\n\n|chest_1_tx          = *clears throat* Have you heard The Ballad of the Treasure Chest?\n|chest_2_tx          = Thank Barbatos! Wait a minute...\n|chest_2_mention     = \n|chest_3_tx          = What a find! I wonder how many bottles this'll be worth...\n\n|low-hp_1_tx         = Ugh, I'm not in the mood for this!\n|low-hp_2_tx         = ...Oh dear.\n|low-hp_3_tx         = That was uncalled for.\n\n|ally-low-hp_1_tx    = Let me try!\n|ally-low-hp_2_tx    = Don't give up!\n\n|fallen_1_tx         = Let me sleep a while...\n|fallen_2_tx         = Oh no, my lyre is broken...\n|fallen_3_tx         = Ah... Ugh...\n|fallen_4_file       = Fallen 04\n\n|hit-l_1_file        = Light Hit Taken 02\n|hit-l_1_tx          = Ah!\n|hit-l_2_file        = Light Hit Taken 01\n|hit-l_2_actual_tx   = What?!\n|hit-l_3_file        = Light Hit Taken 03,Light Hit Taken 04,Light Hit Taken 05,Light Hit Taken 06\n\n|hit-h_1_file        = Heavy Hit Taken 02\n|hit-h_1_tx          = How rude!\n|hit-h_2_file        = Heavy Hit Taken 01,Heavy Hit Taken 03,Heavy Hit Taken 04,Heavy Hit Taken 05,Heavy Hit Taken 06\n\n|join_1_tx           = Give me a moment to compose myself.\n|join_2_tx           = Didn't keep you waiting, did I?\n|join_3_tx           = Ready for a rehearsal?\n\n|atk-l_1_file        = Light Attack 01,Light Attack 02,Light Attack 03,Light Attack 04,Light Attack 05,Light Attack 06,Light Attack 07\n\n|atk-m_1_file        = Mid Attack 01,Mid Attack 02,Mid Attack 03\n\n|atk-h_1_file        = Heavy Attack 01,Heavy Attack 02,Heavy Attack 03\n\n|climb_1_file        = Climbing 01,Climbing 02,Climbing 03,Climbing 04,Climbing 05\n\n|climb-b_1_file      = Climbing Breath 01,Climbing Breath 02,Climbing Breath 03,Climbing Breath 04\n\n|jump_1_file         = Jumping 01,Jumping 02,Jumping 03,Jumping 04,Jumping 05\n}}\n\n==Trivia==\n* As of Version 1.5, the male Traveler version of the \"About Us: Heroes\" voice-over audio is the same as the female Traveler version. Therefore, it will read \"once the ''heroine'' in the song has actually rescued the ''prince''\" even if you play as the male Traveler, despite the transcript reading \"once the ''hero'' in the song has actually rescued the ''princess''.\" This issue is exclusive to the English voice-overs.\n* Venti is, along with Traveler, one of the only two characters to feature more than three '''Fallen''' Voice-Overs.\n\n==Navigation==\n{{Character Navbox|VO}}\n\nde:Venti/Stimme\nes:Venti/Voz\nfr:Venti/Répliques\nit:Venti/Battute\nja:ウェンティ/ボイス/英語\npt-br:Venti/Falas\nru:Венти/Озвучка\nth:Venti/เสียงพากย์\ntr:Venti/Replikler"
+            }
+        ]
     }
 }
