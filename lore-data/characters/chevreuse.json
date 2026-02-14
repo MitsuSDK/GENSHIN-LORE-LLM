@@ -63,7 +63,7 @@
                 "text": "I'm Chevreuse, Captain of Fontaine's Special Security and Surveillance Patrol. You'll excuse me if I skip the pleasantries. Is there a case that needs my attention?\n\n|vo_02_01_title      = Chat: Musket"
             },
             {
-                "title": "About {character}: Uniform Cap",
+                "title": "About Chevreuse: Uniform Cap",
                 "text": "There's an unwritten rule in the Special Security and Surveillance Patrol. Any time a member dies in the line of duty, we hold onto their cap. Should a child of a deceased member ever join the Special Patrol, we then pass the cap down to them... I suppose you could call it a way of passing on a member's legacy.\n\n|vo_06_01_title      = About Us: Interests"
             },
             {
@@ -115,23 +115,23 @@
                 "text": "Lady Furina once ordered us to carry out some sort of... ceremonial musketeer performance. She not only wanted each of us outfitted with special \"ceremonial muskets,\" but she wanted us to practice all sorts of specialized drill formations as well. Luckily, in the end, she couldn't find the right song to pair with the performance and the matter was dropped entirely."
             },
             {
-                "title": "More About {character}: I",
+                "title": "More About Chevreuse: I",
                 "text": "Sorry, I'm not great at talking to people... Well, talking to people outside of an interrogation room that is. If there's anything you want to know, please just ask."
             },
             {
-                "title": "More About {character}: II",
+                "title": "More About Chevreuse: II",
                 "text": "The Special Security and Surveillance Patrol is just one of the many branches of the Maison Gardiennage. We have a more daring way of doing things, and some in the Maison Gardiennage are under the impression that we don't exactly play by the rules.But{{sic|，}}I don't think the way the Special Patrol operates should be influenced by outside forces. The criminals we face aren't your everyday goody-goodies from the Palais Mermonia. When crimes are committed swiftly and without warning, like the sudden downpour of a rainstorm, we have to be able to respond just as fast."
             },
             {
-                "title": "More About {character}: III",
+                "title": "More About Chevreuse: III",
                 "text": "The criminals I encounter aren't all cold-blooded killers and heartless villains.Most of them start off by making a small mistake but are too afraid to own up to it. In their efforts to make up for it in secret, they end up getting sucked into a whirlpool of lies. Before they know it, they're in over their heads, and they're forced down the path of a criminal despite the best of intentions.There's this line by my favorite playwright that goes, \"Lies are the soil in which the seeds of crime are sown.\"But, he was arrested for plagiarism a few years later. Talk about dramatic irony, I suppose..."
             },
             {
-                "title": "More About {character}: IV",
+                "title": "More About Chevreuse: IV",
                 "text": "After my father was imprisoned, I was labeled \"a crook's daughter.\" Growing up in Fleuve Cendre, I saw first-hand how many corners of Fontaine remain shrouded in shadow. Though my upbringing didn't garner me many friends, the knowledge I acquired was far more precious.Those who enforce the law must have their own conception of justice, one that they use to govern their actions. That is what my father taught me.And it has proved itself to be true many times over."
             },
             {
-                "title": "More About {character}: V",
+                "title": "More About Chevreuse: V",
                 "text": "To be honest, as the Captain of the Special Security and Surveillance Patrol, I've witnessed evil beyond measure. Too many times, I've seen good, innocent people get hurt or even lose their lives after getting caught up in events beyond their control... I can't help but feel angry and powerless whenever I think about them.I firmly believe that criminals must be punished, but we must not let punishment trap us in an endless cycle of vengeance.If we are blinded by our emotions and let them control our actions, we run the risk of drowning in them.Those who hold more power should be especially cognizant of that fact. We must all search for our own sense of justice, but we must also be wary of losing ourselves in the pursuit of it.\n\n|vo_10_01_title      = {character}'s Hobbies"
             },
             {

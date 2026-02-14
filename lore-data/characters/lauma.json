@@ -6,7 +6,7 @@
     "affiliations": [
         "Frostmoon Scions"
     ],
-    "power_source": "Vision",
+    "power_source": "Moon Wheeln",
     "element": "Dendro",
     "constellation": "Cerva Nivea",
     "aliases": [
@@ -63,11 +63,11 @@
                 "text": "Open your eyes. My name is Lauma, and here in the stillness of these woods, the light of the frost moon shines down generously on all. The gaze of the heavens will fall on you wherever you go. Now, close your eyes... you are no longer lost."
             },
             {
-                "title": "About {character}: Responsibility",
+                "title": "About Lauma: Responsibility",
                 "text": "A doctrine without laws is but a book of tricks, and a leader without conscience is a false god. Wherever communities of people gather, rules are needed. Even for the Frostmoon Scions, who share a common faith, rules are indispensable to guide them."
             },
             {
-                "title": "About {character}: Soothing Troubled Minds",
+                "title": "About Lauma: Soothing Troubled Minds",
                 "text": "As the Moonchanter, I'm supposed to listen while my flock shares their woes, then soothe their troubled minds. But I seem to spend most of my time listening to the chatter of the animals instead... hehe..."
             },
             {
@@ -119,23 +119,23 @@
                 "text": "No one teaches a newborn god how to live in harmony with their followers. She must have had a very difficult past...In the hopes of achieving some sort of reconciliation, I made a request of her that must have seemed a little rude. She claims that she prefers living alone, but I still dream of a day that Kuutar and the Frostmoon Scions, the moon and her believers, can come together and share a toast."
             },
             {
-                "title": "More About {character}: I",
+                "title": "More About Lauma: I",
                 "text": "Look at the moon. It is always there, ever still and ever silent."
             },
             {
-                "title": "More About {character}: II",
+                "title": "More About Lauma: II",
                 "text": "In many places, a waning moon is seen as an omen of ill fortune.Perhaps people forget that the moons, too, are the victims of misfortune... Their destruction was not a fate that they wished upon themselves."
             },
             {
-                "title": "More About {character}: III",
+                "title": "More About Lauma: III",
                 "text": "Sometimes, it feels like people expect more \"godliness\" from me than the god I represent. Believers seem to have infinite tolerance for unruly or capricious behavior by their god, but not by that same god's emissaries."
             },
             {
-                "title": "More About {character}: IV",
+                "title": "More About Lauma: IV",
                 "text": "Fruit start to give off an alcoholic smell when they've been left out for too long. I don't drink, but I always find that scent relaxes me... Probably a sign that I shouldn't take up drinking, don't you think?"
             },
             {
-                "title": "More About {character}: V",
+                "title": "More About Lauma: V",
                 "text": "Among the Frostmoon Scions, you'll often see kids running around holding a white sheet above their heads. The adults tell them that it protects them from bad luck, since being draped in white cloth looks a lot like being covered in moonlight. Of course, they get to a certain age and stop doing that — instead, they start praying to the moon at nightfall.Me? Of course, it's a rite of passage. We were all children once."
             },
             {

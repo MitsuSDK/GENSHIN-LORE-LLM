@@ -65,11 +65,11 @@
                 "text": "Hello, Traveler. Call me Yelan. I think you may need my help, and I just so happen to be interested in some information you have. In other words — you scratch my back, I'll scratch yours."
             },
             {
-                "title": "About {character}: Duties",
+                "title": "About Yelan: Duties",
                 "text": "The Qixing know Liyue like the back of their hands. But there's certain information out there that can only be obtained using more specialized methods. That's my area of expertise, so I generally take care of all those assignments myself."
             },
             {
-                "title": "About {character}: Rumors",
+                "title": "About Yelan: Rumors",
                 "text": "Some say the boss of Yanshang Teahouse is a young entrepreneur who got rich overnight; some say there's a sickly and frail senior employee of the Ministry of Civil Affairs living as a hermit outside the city; others say you should stay away from restricted areas, or you'll get haunted by a blue ghost... Obviously, most civilians have never heard the name Yelan before. So you can safely laugh off all these rumors."
             },
             {
@@ -125,23 +125,23 @@
                 "text": "The Fatui harbinger? He helped me out once — unwittingly. I was planning a deep-reaching investigation into the former owner of the Yanshang Teahouse, but our harbinger friend got to him first. He showed up demanding payment of his debt, and also exposed his accounting fraud, which got him thrown in jail. That made it very easy for me to take over Yanshang Teahouse myself, and it's proven to be a very useful base."
             },
             {
-                "title": "More About {character}: I",
+                "title": "More About Yelan: I",
                 "text": "The reason I'm willing to bet on you is because of your special status. I think it'll bring me a lot of leads that can get me closer to the truth... Heh, so, got any news for me today?"
             },
             {
-                "title": "More About {character}: II",
+                "title": "More About Yelan: II",
                 "text": "Exchanging information has to be a two-way thing, so I guess I can tell you something about my past. Thanks to my family's connections, I learned some useful skills from the Millelith scouts very early on. Although there are things working against you every step of the way when you're gathering intelligence, as long as I keep myself alive, I'll always emerge as the winner in the end..."
             },
             {
-                "title": "More About {character}: III",
+                "title": "More About Yelan: III",
                 "text": "Clues are links in a chain. You have to trace them all the way back to where everything began before there can be a resolution. To that end, I need to keep my eyes and ears on every part of society, and often, that means having to be more than one person. People sometimes describe me as \"one person, many faces\" and so on... I take it as a compliment."
             },
             {
-                "title": "More About {character}: IV",
+                "title": "More About Yelan: IV",
                 "text": "Someone once warned me to be careful about digging up certain things from the past. Dig too deep and you might find yourself standing in your own grave, they say... Well, I'm not about to stop, least of all because of anything anyone else has to say. Sure, I can't change the facts, but if it's a choice between the cold, hard truth and blissful unawareness, I'll take the former. What about you? Which would you choose?"
             },
             {
-                "title": "More About {character}: V",
+                "title": "More About Yelan: V",
                 "text": "Tell me something. If I'm gonna stay around, what kind of person do you want me to be to you? Someone you work with? A competitor, who challenges you to sharpen your game? Just another name on your long list of acquaintances, or... somebody more important than that? Depending on what you're hoping for, I can either play that part or become that person."
             },
             {

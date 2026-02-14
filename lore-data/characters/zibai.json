@@ -13,7 +13,7 @@
         "Three Moons",
         "formerly"
     ],
-    "power_source": "Vision",
+    "power_source": "Moon Wheel",
     "element": "Geo",
     "constellation": "Equa Alba",
     "aliases": [
@@ -70,11 +70,11 @@
                 "text": "My name is Zibai. I was once known to mortals as the White Horse Adeptus, but now that I have descended to the mortal plane, you may simply call me Zibai."
             },
             {
-                "title": "About {character}: Travels",
+                "title": "About Zibai: Travels",
                 "text": "After I severed my Three Deadly Selves, my third self wandered the mortal realm and experienced many things. The most well-known of these are recorded in the book, Moonlit Bamboo Forest, which recounts my nighttime wanderings. Perhaps I should visit the bamboo forest for myself when I have the time."
             },
             {
-                "title": "About {character}: Seclusion",
+                "title": "About Zibai: Seclusion",
                 "text": "When I lived alone, I would often resort to mathematics to pass the time, devising and solving arithmetic puzzles. If you are interested, I can take you through some of the more amusing ones."
             },
             {
@@ -142,23 +142,23 @@
                 "text": "The Three Moon Sisters? Well... I understand that they had a very close relationship. When one of them did not feel like being on duty, she would beg another to take her place, then make it up to her later with gifts of makeup and jewelry. However, so liberal were they with this ad-hoc shift-swapping business that it sometimes led to chaos. For instance, there once was a year when all three moons aligned, but this only happened because they all got the timing mixed up. And so, there came a day on which only one moon should have been on duty, but all three appeared in the sky at once. They hurried to line up in a row, two moons trying their best to hide behind the one who was supposed to be on duty... but alas, they still gave the poor people down below a most terrible fright. They burned incense for several days straight... After that incident, the sisters asked me to try to convey to the people of the world that the sight of three moons together in the sky was not an omen of impending disaster, nor a sign that regime change was nigh. Naturally, I put the question back to them, inquiring what such a phenomenon should represent to humanity. They hemmed and hawed for a while before finally saying: \"It means... It means a festival is coming, and... everyone should eat Fullmoon Cakes, and... stuff...\""
             },
             {
-                "title": "More About {character}: I",
+                "title": "More About Zibai: I",
                 "text": "The Liyue of today is a vastly different place from the land I once knew. Even the name \"Liyue\" did not exist back then. Many moons have passed and many tides have turned since that age, and everything I remember is now long gone. Poets like to say that time flies like a white steed — and curiously enough, my Third Deadly Self was known as the \"White Horse Adeptus.\" Perhaps this is karma at work... You'd like to hear more about my past? Very well, one more person knowing the truth can only be a good thing."
             },
             {
-                "title": "More About {character}: II",
+                "title": "More About Zibai: II",
                 "text": "Long ago, I descended from the heavens to Lang-Gan to act as an envoy, guiding the people of that nation towards a peaceful future. The people of Lang-Gan called me the \"God of Soil and Grain,\" believing that I blessed their nation with favorable weather and bountiful harvests. I indeed had some influence over the weather, but the bountiful harvests were entirely due to the hard work of the nation's people. How did I guide Lang-Gan? Not with any grandeur or majesty, that's for sure. Save for a few interventions to divine the future, ward off evil, and prevent disasters, I spent the majority of my time as a teacher. I taught children how to read and write, do arithmetic, and play music. In my spare time, I compiled and edited texts on matters of etiquette, music, and the like."
             },
             {
-                "title": "More About {character}: III",
+                "title": "More About Zibai: III",
                 "text": "In my view, the most important thing to focus on when guiding a nation into the future is the education of the heart. A people without virtue cannot build a nation that endures, however abundant their material wealth may be. Consider those from Liyue who climb the mountains in search of the adepti, motivated only by selfish gain. Even if they are lucky enough to obtain adeptal treasures, those treasures will ultimately be their undoing if their intentions are impure. Now, of course, while cultivating virtue in one's heart, one must also sharpen the blade in one's hand. As the saying goes, one ought to hope for the best but prepare for the worst."
             },
             {
-                "title": "More About {character}: IV",
+                "title": "More About Zibai: IV",
                 "text": "I have always been an avid reader. Nowadays, books are the only place where I can find the home and friends that I once knew. As ever, I annotate the text whenever I find factual errors. Recently, someone noticed my annotations and spent several days tracking me down to request that I teach history at his school. He was quite insistent, but his attitude seemed sincere to me, so I acquiesced and taught the classics there for a month... The sight of those students, eager to gain knowledge, took me right back to when I taught at the school in Lang-Gan. I never imagined that I would become a teacher again today... I suppose it was meant to be."
             },
             {
-                "title": "More About {character}: V",
+                "title": "More About Zibai: V",
                 "text": "Although I spend much of my time wandering, I occasionally return to Liyue to teach classes at various schools, where I take the opportunity to correct the historical records on Lang-Gan. Back in my day, the study of history was considered a singularly important affair. After all, the mirror of the past teaches us lessons for the future. I'm sure the ancient sages would be delighted to know that someone is still curating the historical records of Lang-Gan all these centuries later....You don't think this is very adeptus-like of me? Well, so be it. What the Liyue Harbor of today needs is not the extraordinary might of a handful of adepti, but the combined strength of its mortal populace united. I'm sure the other adepti are quite cognizant of this fact too. In any case, my role is to be a guide, and I continue to fulfill that by being an educator."
             },
             {

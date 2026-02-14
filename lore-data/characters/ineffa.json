@@ -8,7 +8,7 @@
         "Thirteen Sovereign Lords",
         "formerly"
     ],
-    "power_source": "Vision",
+    "power_source": "Moon Wheel",
     "element": "Electro",
     "constellation": "Vanilla Planifolia",
     "aliases": [
@@ -65,11 +65,11 @@
                 "text": "Nice to meet you — I am Ineffa, a multifunctional robot for domestic application. I am currently equipped with cleaning, cooking, and emotional communication modules. I also have a combat module, which can only be activated after reading the 11-page liability waiver. Now, how can I assist you today?"
             },
             {
-                "title": "About {character}: Compatibility",
+                "title": "About Ineffa: Compatibility",
                 "text": "I am made of parts from all over the world — for instance, my joints were manufactured in Fontaine, and my metal shell was made in Liyue... Sometimes, compatibility issues will arise between my different components.How to solve these issues? Well, some would say... \"As long as it runs, there is no issue.\""
             },
             {
-                "title": "About {character}: Greetings",
+                "title": "About Ineffa: Greetings",
                 "text": "My cognition module collates and analyzes my day-to-day experiences to reinforce sound behavioral logic. For example, I noticed that when people meet an acquaintance, they initiate a dialogue using phrases such as \"hello,\" \"how have you been,\" and \"lovely day, isn't it.\" The next time I engage in a dialogue, I will employ the same expressions. Three greetings in a row equals triple politeness."
             },
             {
@@ -141,23 +141,23 @@
                 "text": "I am very grateful for the trust she placed in me. She has since taken me on many flights around the Flower-Feather Clan's territory. The view from up in the sky was wonderful. A lot has changed in the Flower-Feather Clan... but many things remain the same."
             },
             {
-                "title": "More About {character}: I",
+                "title": "More About Ineffa: I",
                 "text": "Cleanup sequence in progress. Parallel processing will be used to deal with conversation request simultaneously. Feel free to ask me a question at any time."
             },
             {
-                "title": "More About {character}: II",
+                "title": "More About Ineffa: II",
                 "text": "\"Who am I?\" I am a multifunctional robot for domestic application. Model name: Ineffa. However, I am currently the only finished product in this line, so \"Ineffa\" also constitutes my individual name."
             },
             {
-                "title": "More About {character}: III",
+                "title": "More About Ineffa: III",
                 "text": "\"Where did I come from?\" Searching travel history... I just came back from a shopping trip at the market. If your query pertains not to my travel history but where I call home: I come from the Clink-Clank Krumkake Craftshop. And if you want to learn about my past... Please wait, sending read request to deeper-level memory location..."
             },
             {
-                "title": "More About {character}: IV",
+                "title": "More About Ineffa: IV",
                 "text": "\"Where do I want to go?\" Simply input a command, and I will do my best to reach the destination, wherever it may be... But based on our conversation history so far, there is a high probability that your question has a less direct meaning. If you are asking about my individual objectives, plans, wishes, and other such concepts, then my answer is: I wish to stand guard over the people who matter to me."
             },
             {
-                "title": "More About {character}: V",
+                "title": "More About Ineffa: V",
                 "text": "In the very beginning... I was just a single thought — a logical flaw in the mind of Mirror of the Dawning Morn. But my longing to find a home where I could belong was something that her cognition module could not override or erase. The only way to rid herself of this data was by severing her connection to me entirely. This jumble of data wandered aimlessly in Nod-Krai for two thousand years, witnessing all the change and turmoil that transpired... those experiences finally consolidated who I am. They made me complete.I am Ineffa, and I am your friend. Now... how can I assist you today?"
             },
             {

@@ -221,6 +221,7 @@ def build_character_schema(title: str) -> dict:
 
         # Replace {name} with actual character name (e.g., Venti)
         title_clean = title_clean.replace("{name}", title)
+        title_clean = title_clean.replace("{character}", title)
 
         clean_text = re.sub(r"<.*?>", "", text_value)
         clean_text = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", r"\1", clean_text)

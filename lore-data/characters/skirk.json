@@ -6,8 +6,8 @@
     "affiliations": [
         "Cosmic Calamity"
     ],
-    "power_source": "Vision",
-    "element": "Cryo<!--",
+    "power_source": "The Seven-Shifting Serpent",
+    "element": "Cryo",
     "constellation": "Crystallina",
     "aliases": [
         "Void Star",
@@ -63,7 +63,7 @@
                 "text": "I am Skirk, disciple of Surtalogi, \"The Foul.\" You've proven your strength to me along your journey, and earned the right to speak to me as an equal. Now, let me witness how your fate unfolds."
             },
             {
-                "title": "About {character}: Bladework",
+                "title": "About Skirk: Bladework",
                 "text": "Come rain or shine, victory or defeat, I practice the blade whether I'm in the mood for it or not. Only those with true strength can bend fate to their will.\n\n|vo_06_01_title      = About Us: Training"
             },
             {
@@ -111,23 +111,23 @@
                 "text": "I wonder if becoming human was an evolution or regression to her? How did it feel, witnessing the self-destruction of her species firsthand? I considered asking her these questions when we first met, but... given her personality, I thought better of it. I think I'll just leave her alone to work on her sculptures."
             },
             {
-                "title": "More About {character}: I",
+                "title": "More About Skirk: I",
                 "text": "I spend most of my time training in the Abyss — there's little that deserves my attention on the outside. You've got nothing to worry about with me, though. I mean this world no harm."
             },
             {
-                "title": "More About {character}: II",
+                "title": "More About Skirk: II",
                 "text": "The worst part about training for long periods is managing the physical pain and fatigue. You can use Abyssal power to help ease muscle strain, but that's physically draining too. So, I learned a few stretching exercises instead — they're surprisingly effective. If you find yourself having the same issues, I can teach them to you."
             },
             {
-                "title": "More About {character}: III",
+                "title": "More About Skirk: III",
                 "text": "I met a bard once when I was exploring Mondstadt. He taught me how to play music, then dragged me to the tavern to drink with him. I quickly adapted to the feeling of inebriation, and felt completely fine even as we drank more over the next few days. That bard, though... at some point, I noticed he'd passed out cold in his chair. So I ended up having to pay his bill."
             },
             {
-                "title": "More About {character}: IV",
+                "title": "More About Skirk: IV",
                 "text": "Once in a while, I find myself gazing up at the stars. I know it's just a false sky, but I can sense that the creator had a romantic vision of the cosmos. Faced with the unfathomable vastness of time and space, humanity looks to history books to preserve a piece of themselves for the ages, and I think the creator of this sky shared the same desire. To capture a fleeting moment of the universe and make it last forever."
             },
             {
-                "title": "More About {character}: V",
+                "title": "More About Skirk: V",
                 "text": "I never got the chance to learn how to play an instrument from my parents before they died. The one thing I do remember my dad teaching me was that the key to unlock your playing is to \"lose yourself in the music.\" After I got to Teyvat, I bought a bunch of different instruments to practice with, but every time I got lost in the music, I'd forget my own strength. Ended up destroying quite a few instruments that way. After that, I figured I might as well build my own since I clearly needed something more robust. So I gathered some strong materials and built a few instruments from memory. Oh, here, take one. If it comes to it, you can even use it as a weapon and it won't break on you.\n\n|vo_11_01_title      = {character}'s Hobbies"
             },
             {

@@ -64,11 +64,11 @@
                 "text": "Hello, my name is Emilie. Is your inquiry perfume-related by any chance?If your inquiry is of a different nature, I suggest we find a quieter place to talk."
             },
             {
-                "title": "About {character}",
+                "title": "About Emilie",
                 "text": "I must admit, I'm not very good at coming up with topics to talk about. Simply put, I'm not the best conversationalist. But, if there's anything you want to share, good or bad, I'm always willing to listen."
             },
             {
-                "title": "About {character}: Forensic Cleaner",
+                "title": "About Emilie: Forensic Cleaner",
                 "text": "When the authorities finish investigating a homicide or a fatal accident, there's still a lot of clean up work to be done at the scene. This includes disposing of organic matter, removing blood stains, sanitizing the area... All of which are the responsibility of a Forensic Cleaner. Interestingly enough, I'm not actually affiliated with any organization in the Court of Fontaine. I'm an independent contractor. I do have a long-standing work agreement with the Gardes, but I also accept private commissions.That's pretty much all there is to say about my line of work, but if you have any questions, by all means, ask away."
             },
             {
@@ -128,23 +128,23 @@
                 "text": "Miss Escoffier is a diligent and studious chef. Normally, dry lectures about perfumery would put someone to sleep, but not her. On top of that, her mind is so quick — she can recognize subtle links between pieces of information and can instantly put her knowledge into practice. Some people think she was blessed with a natural culinary gift. But, I believe the secret to her success is self-evident."
             },
             {
-                "title": "More About {character}: I",
+                "title": "More About Emilie: I",
                 "text": "People often romanticize perfume, assigning it all sorts of poetic qualities. But, in reality, perfume-making is much closer to a science. It can be boiled down to a simple chemistry experiment, really. It's up to the perfumer to bridge the gap between the product's artistic and scientific qualities, and doing that with any degree of success takes quite a bit of skill."
             },
             {
-                "title": "More About {character}: II",
+                "title": "More About Emilie: II",
                 "text": "People can describe how a certain scent makes them feel, sure. But, it's very difficult to recreate a scent just based off of a written description, even for me. So, I do apologize, but I don't take custom orders. That said, if you find any of my other perfumes to be to your liking, it would of course be my honor to do business with you."
             },
             {
-                "title": "More About {character}: III",
+                "title": "More About Emilie: III",
                 "text": "A perfume must undergo a series of tests before it's released, including a shelf-life test. This can help answer several questions: How long does the product last? Is it prone to deterioration? Will it become toxic or even dissipate over time?Huh, now that I think about it... Wouldn't it be nice if there were a way of doing a shelf-life test for interpersonal relationships?"
             },
             {
-                "title": "More About {character}: IV",
+                "title": "More About Emilie: IV",
                 "text": "I don't deliberately hide my real profession, but I do prefer to be discreet whenever possible. Not because I'm worried that it'll turn customers off my perfume, I'm just cognizant of the fact that my work as a forensic cleaner subjects me to a lot of sensitive information, things that can't be disclosed to the public. The people who commission my services place a lot of trust in me. I don't want them to receive any unwanted attention because of me."
             },
             {
-                "title": "More About {character}: V",
+                "title": "More About Emilie: V",
                 "text": "Perfume-making has only ever been a hobby for me. Something I do in my spare time, just like how some people learn to play a musical instrument or make crafts.Still, my goal in life wasn't always to be a forensic cleaner. My mother works as a forensic pathologist, and ever since I was little, I knew I wanted to work in criminal investigations just like her. For a long time, my talent for chemistry inspired me to pursue trace evidence analysis. But as I progressed further in my studies, I started to encounter real-life crime scenes. I'll never forget one scene I saw... A young child had been murdered, there was blood soaked into the carpet and splattered all over the walls... And after the investigators finished their assessment, they just left. I couldn't imagine what those poor parents were going through... it didn't seem right that they had to clean up after their own child's murder, all by themselves.So, yeah. That's what led me into forensic cleaning."
             },
             {

@@ -7,7 +7,7 @@
         "Lightkeepers",
         "Snowland Fae"
     ],
-    "power_source": "Vision",
+    "power_source": "Moon Wheel",
     "element": "Electro",
     "constellation": "Laterna Vigilis",
     "aliases": [
@@ -64,11 +64,11 @@
                 "text": "Greetings, I am Kyryll Chudomirovich Flins. It is considered good etiquette to give my full name when greeting important guests, but this no doubt leaves you wondering what to call me on a day-to-day basis... Well, in the past, I was customarily addressed as \"Chudomirovich\" by most — but for simplicity's sake, you can just call me Flins. That's my surname."
             },
             {
-                "title": "About {character}: Virtues",
+                "title": "About Flins: Virtues",
                 "text": "Prudence, modesty, and loyalty. These are the three cardinal virtues of the Lightkeepers, and I highly approve."
             },
             {
-                "title": "About {character}: Ratnik",
+                "title": "About Flins: Ratnik",
                 "text": "Every living being, human and fae alike, needs some sort of an identity. It is what helps us to find our place in the world. The Lightkeepers swear to keep the light of humanity burning in the cold, dark nights where monsters run amok. I happen to be nocturnally inclined myself, and I can certainly strike some measure of fear into other, less benign creatures of the night, so the role of Ratnik suits me perfectly."
             },
             {
@@ -120,23 +120,23 @@
                 "text": "Although Nod-Krai is technically a part of Snezhnaya, you won't hear us habitually refer to \"Her Majesty, the Tsaritsa.\" ...Who's \"us\"? Hehe... The Lightkeepers, of course... Who else?"
             },
             {
-                "title": "More About {character}: I",
+                "title": "More About Flins: I",
                 "text": "I am but a humble Ratnik. You already know my name, you've seen where I am stationed, what more is there to know? Were you hoping to hear some kind of sensational untold tale of my life? I'm afraid that no such tale exists. There is nothing noteworthy to report about my experience as a Ratnik: Simply put, I hold my lamp tight, day and night, ready to face the Wild Hunt whenever it should strike."
             },
             {
-                "title": "More About {character}: II",
+                "title": "More About Flins: II",
                 "text": "As you have witnessed, no corner of Nod-Krai is safe from the Wild Hunt. Some may have the arms and skills with which to defend themselves, but even then, not all Wild Hunts are made equal. Sometimes, for reasons that defy comprehension, horde after horde of monsters will appear with no end in sight, and you simply cannot escape by fighting them off. I have found myself in this predicament a number of times.I am acutely aware that you are a more skilled fighter than most, but the Wild Hunt is a complex and formidable foe, and I urge you not to underestimate it. If you ever find yourself in its presence, you must immediately inform the nearest Lightkeeper — or, by all means, come to me."
             },
             {
-                "title": "More About {character}: III",
+                "title": "More About Flins: III",
                 "text": "You surprise me. Here you are, a seasoned veteran who has weathered countless storms, and yet you still have the curious spirit of a budding young adventurer.*sigh* Alright, let me think — what other pages are there in the story of Flins that you might deem worthy of your perusal?Hmm... Well, there is my lamp. It's not the standard-issue kind wielded by other Lightkeepers. This one has been with me for a very long time indeed. The weight of its past alone is often enough to scare even the darkest of shadows away. As a soul on the brink of death once said, the light of this lamp strikes more fear into the heart than his incompetent colleagues could ever hope to...Will that satisfy your curiosity for now?"
             },
             {
-                "title": "More About {character}: IV",
+                "title": "More About Flins: IV",
                 "text": "Almost every sojourner in Nod-Krai has a complicated past. Desire runs deep in human souls — it is always there, and always active. Each night, as they mumble in their sleep, the anxiety plagues their mind like a dark fog as the memories stir in the ley lines, flowing in various directions. The Nod-Krai of today is a chaotic place. It wasn't always this awful."
             },
             {
-                "title": "More About {character}: V",
+                "title": "More About Flins: V",
                 "text": "Forgive me if I forgo my usual airs and graces from now on. The fact is, there are very few people left in this world with any knowledge of my past. And even though you are one of them, I hope you won't treat me differently than anyone else — after all this time pretending to be human, I've actually grown rather fond of seeing how long I can keep up the act.Let's leave the wind and frost, the piles of stone, the moss, and the stench of seawater behind. I have put a few coins together. The time has come to shop for supplies."
             },
             {

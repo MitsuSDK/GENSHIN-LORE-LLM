@@ -64,7 +64,7 @@
                 "text": "Greetings. I am Clorinde, a Champion Duelist of the Court of Fontaine. If you wish to hire my services, please state the nature of your dispute... You may leave out any extraneous details, those are no concern of mine.\n\n|vo_02_01_title      = Chat: Opponents"
             },
             {
-                "title": "About {character}: Muskets and Swords",
+                "title": "About Clorinde: Muskets and Swords",
                 "text": "My choice of weapons follows the Marechaussee Hunter tradition. A Musket to chase away my prey, and a sword to deliver it a fatal strike.In duels, of course, I typically only use my sword. Once you set foot in the Duelists' Ring, there is nowhere to run, and therefore no need to chase you away.\n\n|vo_06_01_title      = About Us: Ceremony"
             },
             {
@@ -120,23 +120,23 @@
                 "text": "I've heard that she's a perfumer. I've also heard a little about her true profession. I saw her out on the street once. She was stroking a little dog, and had a gentle smile on her face. We nodded at each other, then each went our separate ways."
             },
             {
-                "title": "More About {character}: I",
+                "title": "More About Clorinde: I",
                 "text": "A Champion Duelist's job is not that complicated. In fact, you could say it's one of the simplest jobs there is. Defeat your opponent, as requested by the Trial Court. That's all there is to it....Perhaps that's why some people colloquially refer to me as an \"executioner.\""
             },
             {
-                "title": "More About {character}: II",
+                "title": "More About Clorinde: II",
                 "text": "I always do what I can to ensure every duel is a fair fight. If my opponent has impaired vision, I cover my eyes. If their mobility is limited, I restrict my range of movement. Whatever happens, every duel I participate in must be fair."
             },
             {
-                "title": "More About {character}: III",
+                "title": "More About Clorinde: III",
                 "text": "I've lost count of how many times I've had people surrender right before the duel begins. When someone lacks the courage even to draw their weapon, I'm inclined to think that whatever grievance and claims of reputational damage brought them to this point are just the skewed opinions of a self-serving individual.Long before they face me, they are the architects of their own defeat. I needn't make a move when someone is a prisoner of their own soul."
             },
             {
-                "title": "More About {character}: IV",
+                "title": "More About Clorinde: IV",
                 "text": "Have you ever seen a guilty person on trial? In my experience, they always twist the truth in an effort to protest their innocence. Violence is explained away as virtue, and evil as good... But whatever their excuse, it always ends the same way: \"It was a momentary lapse of judgement, but anyone else in my position would have done the same thing, so don't single me out for punishment.\"They seek to hide their own foulness by smearing it on everyone else too.Their lies must be demolished, and the court cleansed of their filth. And that is exactly why I became a Champion Duelist."
             },
             {
-                "title": "More About {character}: V",
+                "title": "More About Clorinde: V",
                 "text": "I've seen many people seek compassion from the court. No disrespect to them, but they're looking in the wrong place.The court is a place of impartial justice. And justice... must always remain indifferent, or it cannot prevail.Justice is too easily led astray once human emotion enters the mix. If impartial judgment were to give way to vindictive punishment, vindictiveness at the hand of the court would be every bit as cruel as the crimes perpetrated by lawbreakers.\n\n|vo_10_01_title      = {character}'s Hobbies"
             },
             {

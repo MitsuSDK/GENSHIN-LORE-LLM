@@ -52,7 +52,7 @@
                 "text": "Aloy here. I don't know this world, but my arrows are sharp and my bow's ready. If your party needs help, I'll do what I can."
             },
             {
-                "title": "About {character}",
+                "title": "About Aloy",
                 "text": "I grew up an outcast, and it wasn't much fun. Even though I'm a stranger here, people are friendlier than the tribe that was supposed to raise me. It's... nice."
             },
             {
@@ -76,23 +76,23 @@
                 "text": "This land has a past full of secrets, just like my world. I'll uncover all of it, if I have enough time."
             },
             {
-                "title": "More About {character}: I",
+                "title": "More About Aloy: I",
                 "text": "I'm not much for talking about myself. The mission is what's important."
             },
             {
-                "title": "More About {character}: II",
+                "title": "More About Aloy: II",
                 "text": "I never had parents. But a man named Rost raised me. He was stern, but kind and generous. And he trained me well. I miss him."
             },
             {
-                "title": "More About {character}: III",
+                "title": "More About Aloy: III",
                 "text": "I spent my whole life looking for my mother and never found her, not really. But I found ancient messages from the woman I was... cloned from. It felt like she knew me. And how to inspire me."
             },
             {
-                "title": "More About {character}: IV",
+                "title": "More About Aloy: IV",
                 "text": "When I grew up, I didn't have any friends. Later in my travels, I made some. But I left that world before we could grow close. That's why I'm glad to have spent time with you."
             },
             {
-                "title": "More About {character}: V",
+                "title": "More About Aloy: V",
                 "text": "Trust doesn't come easy for me, but I know I can trust you. You're a true friend, and I don't say that often."
             },
             {

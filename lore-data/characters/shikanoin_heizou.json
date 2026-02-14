@@ -61,11 +61,11 @@
         ],
         "additional_lore": [
             {
-                "title": "About {character}: Detective",
+                "title": "About Shikanoin Heizou: Detective",
                 "text": "A detective should be using their smarts to crush criminals' hopes of getting away with their crimes. So really, a true detective should never even have to touch their weapon."
             },
             {
-                "title": "About {character}: Keywords",
+                "title": "About Shikanoin Heizou: Keywords",
                 "text": "I've made it a habit of mine to remember everything I observe in the form of keywords. They're a big help to me when I'm trying to make deductions. Take this person for example: we've got \"cat hair on clean trousers,\" and \"scratch on the wrist.\" Looks like they have a soft spot for animals, but they can't get cats to reciprocate... Meanwhile, that one seems very troubled about their \"injured hand,\" and they're wearing a pair of \"brand-new shoes that don't match their well-worn attire\"... Hold on, it looks like I might have a new case on my hands here!"
             },
             {
@@ -121,23 +121,23 @@
                 "text": "I'm barely acquainted with the daughter of the Kamisato Clan. I'm glad that I'm not from some sort of prestigious family like that... it's definitely not the kind of life for me."
             },
             {
-                "title": "More About {character}: I",
+                "title": "More About Shikanoin Heizou: I",
                 "text": "Even when someone chooses to remain absolutely silent, you can still learn a lot about them just by observing their clothes, posture, and facial expressions. Now, if this conversation ended here... what could you gather from my appearance alone?"
             },
             {
-                "title": "More About {character}: II",
+                "title": "More About Shikanoin Heizou: II",
                 "text": "Once, when I was sitting in on a criminal trial, I suddenly realized I'd cracked the case. So I interrupted the court just as they were about to declare the verdict. If my objection had turned out to be invalid, then that moment wouldn't have been the turning point that saw me become a detective. Instead, it would have been... \"Shikanoin Heizou, I hereby find you in contempt of court and order your immediate detention!\" Hahaha!"
             },
             {
-                "title": "More About {character}: III",
+                "title": "More About Shikanoin Heizou: III",
                 "text": "Investigating extramarital affairs, tracking down runaway pets... Those are pretty much the only cases you'll find at a detective agency. I personally need cases of a higher caliber... so, obviously, my only option was to jump ship and join the Tenryou Commission. Another factor was that Sango and I didn't quite see eye to eye in a lot of areas... Just one of those things, I guess."
             },
             {
-                "title": "More About {character}: IV",
+                "title": "More About Shikanoin Heizou: IV",
                 "text": "When I first joined the Tenryou Commission, I started honing my craft by reviewing some cold cases. Before I knew it, \"Mt. Coldcase\" had been completely leveled... It is a pity, these days I no longer have the time to go back and look through old files. I'm forever being brought in to help out on the toughest cases, and I barely have a moment to catch my breath between jobs... Well, what can you do. Once you're a detective of this caliber, the cases come to you."
             },
             {
-                "title": "More About {character}: V",
+                "title": "More About Shikanoin Heizou: V",
                 "text": "By the time a detective is facing a criminal, they have in some sense already failed. Whatever you might do to establish the truth and identify the culprit, you'll never be able to undo the damage caused by the crime. That's why I want my reputation to spread. I want to be a famous detective that makes would-be criminals quake in their boots and quit while they're ahead! In other words, I want to nip crime in the bud. Well, now that you've heard my spiel, why don't you lend me a hand?"
             },
             {
