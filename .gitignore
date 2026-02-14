@@ -1,3 +1,5 @@
 test1.json
 test1.py
 __pycache__/
+.env
+rag-data/
