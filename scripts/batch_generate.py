@@ -50,7 +50,7 @@ if __name__ == "__main__":
     all_characters = fetch_playable_characters()
 
     # Remove reference character
-    excluded = {"Albedo"}
+    excluded = {"Albedo", "Columbina"}
     characters_to_generate = [c for c in all_characters if c not in excluded]
 
     print(f"Total playable characters found: {len(all_characters)}")

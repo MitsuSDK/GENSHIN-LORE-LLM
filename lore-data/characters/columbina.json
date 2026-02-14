@@ -5,15 +5,12 @@
     "region": "Nod-Krai",
     "affiliations": [
         "Frost Moon",
-        "Frostmoon Scions",
-        "formerly",
-        "Fatui",
-        "formerly",
-        "Eleven Fatui Harbingers",
-        "formerly",
+        "formerly Frostmoon Scions",
+        "formerly Fatui",
+        " formerlyEleven Fatui Harbingers",
         "Three Moons"
     ],
-    "power_source": "Gnosis",
+    "power_source": "Unknown",
     "element": "Hydro",
     "constellation": "Columbina Hyposelenia",
     "aliases": [
@@ -28,8 +25,8 @@
         "character_stories": [
             {
                 "title": "Official Introduction",
-                "subtitle": "",
-                "text": ""
+                "subtitle": "Moonlit Dove, Where Lies Your Cove?",
+                "text": "To Columbina, this planet was never a kind mother. It gave her a singular, extraordinary identity when it birthed her — but that seemed to exhaust all the love it could offer. In the days that followed, her mother rejected her outstretched arms with cold silence. Columbina could only close her eyes and grope forward between one wall and another. The maze that trapped her was a circle, a spiraling tower reaching upward. Columbina softly hummed the melodies in her memory, her only connection to her \"mother.\" Barefoot, she walked through the Frostmoon Enclave and Glupov, eventually returning to the Silvermoon Hall, where her own echoes still lingered on the walls. But unlike before, she had finally found a name of her own with the help of her friends. She now had hope, as well as desires. She wanted to go home. Now, at the top of the tower, the moon that held her answers hovered just within reach. She stretched out her arms, but it was like the moon falling into water. Of Silver Skies, Cleansed Feathers, and the Returning New Moon. She walked toward death, and death answered her with rebirth. She reached the end, only to find it waiting as her beginning. The world waited in the hush that preceded creation. Within that silence, a force stirred — gravity was cast toward her, strong enough to draw a wandering moon back into its swaddling cloths. Before her, the moon's path revealed itself, a road laid out to guide the Moon Goddess home. She is no longer the moon seen through water, a distant image, endlessly shattered and restored. Instead, she will sing fate into the darkness, set the tides in motion, and bring freedom and hope to those who dwell beneath the moon. Columbina opens her eyes, as though only now she is truly born into the world."
             },
             {
                 "title": "Character Details",
@@ -70,11 +67,11 @@
                 "text": "You can call me Columbina, or Kuutar, or Moon Goddess... Whatever you prefer. I'm used to having many names. The moon's blessing is yours, whenever you might find yourself in need."
             },
             {
-                "title": "About {character}: Eye Mask",
+                "title": "About Columbina: Eye Mask",
                 "text": "I'm used to \"sensing\" things with kuuvahki — it reveals the truth of things better than \"seeing\" does. Still, curiosity does sometimes get the better of me, and I open my eyes to take a peek. That's the nice thing about having an eye mask with holes."
             },
             {
-                "title": "About {character}: Home",
+                "title": "About Columbina: Home",
                 "text": "I used to think I would forever be a stranger to this land — that the moon was my true \"home.\" Now, I have an additional place to call home, and both my homes are now closer by."
             },
             {
@@ -158,11 +155,11 @@
                 "text": "I've heard he has a good relationship with his family. They go camping together and have barbecues by the lake. Sandrone says he's the Harbinger who lives most like an ordinary person. I don't really understand ordinary people, but that kind of life sounds nice to me."
             },
             {
-                "title": "More About {character}: I",
+                "title": "More About Columbina: I",
                 "text": "Huh...? My story? Um... That might take quite a while to tell. Oh, you brought tea and snacks? Well then, I suppose I could share a bit more in return."
             },
             {
-                "title": "More About {character}: II",
+                "title": "More About Columbina: II",
                 "text": "I used to spend a lot of time learning how to interact with people and go about life in this world. But looking back now, perhaps my experiences with the Frostmoon Scions and the Fatui weren't the best teachers. For a long time, I thought relationships were transactional — their only purpose being figuring out what you can take, and what it might cost you in return."
             },
             {
@@ -170,11 +167,11 @@
                 "text": "I love telling stories to the kuuhenki, and I love to sing. There's a blank space in my life that has existed since before I was born and has shadowed me since. My story was incomplete from the start, so I've learned to use other stories to fill in the gaps. It's like... painting a picture — I sketch the outline with words and color it in with song."
             },
             {
-                "title": "More About {character}: IV",
+                "title": "More About Columbina: IV",
                 "text": "On Moon-Prayer Night, I received a name that belongs to me — Columbina Hyposelenia. I used to think a name was nothing more than an alias, something separate from oneself. But after that night, I realized my name is what connects me to this world and the people within it... It is all that is intangible — their friendship, love, and support — manifested for the world to see. I will cherish it forever."
             },
             {
-                "title": "More About {character}: V",
+                "title": "More About Columbina: V",
                 "text": "My story is like an opera played in reverse. The ending came first, and I was left searching for the whys and wherefores. But if I could go back and do it all over again, I wouldn't change a thing. I quite like it as it is now. Without this journey, I never would have known that being born in Nod-Krai was my own choice, my friends never would have helped me connect with my true \"family,\" and you never would have followed Luonnotar into Silvermoon Hall that night. My story would have been empty in a very different way. I don't like that version one bit."
             },
             {
