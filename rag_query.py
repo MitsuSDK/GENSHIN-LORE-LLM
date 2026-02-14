@@ -23,16 +23,70 @@ LM_STUDIO_URL = os.getenv("LM_STUDIO_URL", "http://localhost:1234/v1/chat/comple
 def search(query, top_k=5):
     query_embedding = model.encode([query])
     similarities = cosine_similarity(query_embedding, embeddings)[0]
-    top_indices = similarities.argsort()[-top_k:][::-1]
+
+    query_lower = query.lower()
+    query_words = set(query_lower.split())
+
+    scored_results = []
+
+    for idx, base_score in enumerate(similarities):
+        base_score = float(base_score)
+
+        # Ignore very weak semantic matches early
+        if base_score < 0.30:
+            continue
+
+        chunk = chunks[idx]
+        score = base_score
+
+        # --- Character name boost ---
+        if chunk["character"].lower() in query_lower:
+            score += 0.15
+
+        # --- Section priority boost ---
+        section = chunk["section"]
+        if "Character Story" in section:
+            score += 0.07
+        elif "Character Details" in section:
+            score += 0.05
+        elif "description" in section.lower():
+            score += 0.02
+
+        # --- Keyword overlap boost ---
+        chunk_text_lower = chunk["text"].lower()
+        overlap = sum(1 for word in query_words if word in chunk_text_lower)
+        score += overlap * 0.01
+
+        scored_results.append((score, idx))
+
+    # Sort after all boosts applied
+    scored_results.sort(reverse=True, key=lambda x: x[0])
 
     results = []
-    for idx in top_indices:
+    seen_texts = set()
+
+    for score, idx in scored_results:
+        if score < 0.40:
+            continue
+
+        chunk = chunks[idx]
+        text = chunk["text"]
+
+        # Deduplicate similar chunks
+        text_key = text[:200]
+        if text_key in seen_texts:
+            continue
+        seen_texts.add(text_key)
+
         results.append({
-            "score": float(similarities[idx]),
-            "character": chunks[idx]["character"],
-            "section": chunks[idx]["section"],
-            "text": chunks[idx]["text"]
+            "score": score,
+            "character": chunk["character"],
+            "section": chunk["section"],
+            "text": text
         })
+
+        if len(results) >= top_k:
+            break
 
     return results
 
@@ -99,6 +153,9 @@ if __name__ == "__main__":
     query = input("Ask something about Genshin lore: ")
 
     retrieved = search(query, top_k=5)
+    if not retrieved or retrieved[0]["score"] < 0.45:
+        print("\nThe answer is not found in the lore database.")
+        exit()
     prompt = build_prompt(query, retrieved)
 
     answer = generate_answer(prompt)
