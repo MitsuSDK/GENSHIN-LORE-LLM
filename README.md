@@ -1,139 +1,57 @@
-# 🧠 Genshin Lore RAG Assistant
+# 🎮 Genshin Lore Assistant (RAG + Local LLM)
 
-### Local LLM + Retrieval-Augmented Generation Pipeline
+A structured Lore Assistant built using Retrieval-Augmented Generation (RAG).
 
-An end-to-end Retrieval-Augmented Generation (RAG) system designed to answer lore-related questions about Genshin Impact using structured data and a local LLM.
-
-This project focuses on building a robust, hallucination-aware AI system combining semantic search with grounded generation.
+The system answers questions about Genshin Impact characters using only retrieved lore data — no hallucinated answers.
 
 ---
 
-## 🚀 Project Overview
+## 🚀 What It Does
 
-Large Language Models are powerful — but they hallucinate when lacking context.
-
-This project solves that by:
-
-- Structuring authoritative lore data via API  
-- Embedding it into a semantic vector space  
-- Retrieving relevant context  
-- Injecting it into a local LLM  
-- Enforcing grounded responses with source citation  
-
-The result:
-
-An AI assistant that answers questions strictly based on retrieved knowledge.
+- Fetches character data from the Genshin Wiki
+- Cleans and structures lore sections
+- Chunks text for retrieval
+- Embeds chunks using sentence-transformers
+- Stores embeddings in a vector index
+- Uses a local LLM (LM Studio) to generate answers
+- Restricts responses to retrieved context only
 
 ---
 
-## 🏗️ Architecture
+## 🧠 Architecture
 
 User Question  
-↓  
-Text Embedding (MiniLM)  
-↓  
-Cosine Similarity Search  
-↓  
-Top-k Relevant Sections  
-↓  
-Prompt Construction  
-↓  
-Local LLM (Llama 3.1)  
-↓  
-Grounded Answer + Citations  
+→ Embed question  
+→ Retrieve top-k relevant lore chunks  
+→ Inject chunks into prompt  
+→ Local LLM generates answer  
+→ Structured output with character + section citation  
 
 ---
 
-## 🔬 Technical Components
+## 🔒 Hallucination Control
 
-### 📥 Data Ingestion
+The model is explicitly instructed to:
 
-- MediaWiki API  
-- Retrieval of 100+ lore entities  
-- JSON parsing and normalization  
-- Entity and section-level structuring  
-- Cleaned and standardized dataset  
+- Only answer using retrieved content
+- Refuse if information is missing
+- Cite character and section
+- Avoid inventing lore
 
----
-
-### 🧮 Semantic Embeddings
-
-- Model: `all-MiniLM-L6-v2`  
-- Framework: SentenceTransformers  
-- Vector representation of text passages  
-- Cosine similarity ranking  
-- L2 normalization  
-
-Concepts involved:
-
-- Embedding space geometry  
-- Vector similarity  
-- Dot product  
-- Cosine similarity  
+This ensures factual consistency.
 
 ---
 
-### 🔎 Retrieval System
+## 🛠️ Tech Stack
 
-- Top-k similarity search  
-- Boosting mechanism (entity + section weighting)  
-- Ranked contextual selection  
-- NumPy-based similarity optimization  
-
-Goal:
-
-Maximize relevant context while minimizing noise.
-
----
-
-### 🧠 Generation (Local LLM)
-
-- Model: Llama 3.1  
-- Runtime: LM Studio  
-- Structured prompt engineering  
-- Controlled response format  
-
-Key principle:
-
-The model answers strictly using retrieved content.
-
----
-
-### 🛑 Hallucination Control
-
-- Strict context injection  
-- Instruction-constrained prompting  
-- Automatic citation of source sections  
-- Grounded answer formatting  
-
-This ensures transparency and traceability.
-
----
-
-## 📦 Dependencies
-
-### Core Language
-- Python 3.10+
-
-### Data Processing
-- pandas
-- numpy
-
-### Embeddings & NLP
+- Python
+- requests (wiki scraping)
+- BeautifulSoup (HTML parsing)
 - sentence-transformers
-- torch
-
-### Similarity & Math
-- scikit-learn (cosine similarity utilities)
-- numpy (vector operations)
-
-### LLM Runtime
-- LM Studio (local inference server)
-- Llama 3.1 (local model)
-
-### API & Data Retrieval
-- requests
-- MediaWiki API
+- numpy
+- cosin similarity
+- LM Studio (local LLM inference)
+- Dolphin / LLaMA 3.1 8B (local model)
 
 ---
 
@@ -147,25 +65,24 @@ pip install pandas numpy sentence-transformers torch scikit-learn requests
 
 ---
 
-## 📚 Core Concepts Explored
+## 📂 Key Components
 
-- Transformer embeddings  
-- Vector similarity  
-- Cosine similarity  
-- Retrieval-Augmented Generation (RAG)  
-- Context window management  
-- Prompt engineering  
-- Hallucination mitigation  
-- Modular AI system design  
+- `fetch_character.py` → Scrapes and structures lore
+- `build_embeddings.py` → Creates chunk embeddings
+- `rag_pipeline.py` → Retrieval + generation
+- Local vector index for similarity search
 
 ---
 
-## 🚧 Future Improvements
+## 🎯 Why This Project
 
-- FAISS integration for scalable vector search  
-- Hybrid retrieval (BM25 + embeddings)  
-- Retrieval evaluation metrics  
-- Web deployment (FastAPI + frontend)  
-- Conversation memory handling  
+This project demonstrates:
 
----
+- RAG architecture implementation
+- Prompt control for hallucination reduction
+- Local LLM deployment
+- Vector search integration
+- Structured answer formatting
+- End-to-end AI system design
+
+It focuses on building a reliable knowledge assistant rather than a generic chatbot.
